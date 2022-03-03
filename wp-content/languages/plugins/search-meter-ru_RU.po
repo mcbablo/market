@@ -1,0 +1,337 @@
+# Translation of Plugins - Search Meter - Stable (latest release) in Russian
+# This file is distributed under the same license as the Plugins - Search Meter - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-09-13 20:07:21+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - Search Meter - Stable (latest release)\n"
+
+#. Author URI of the plugin
+msgid "https://thunderguy.com/semicolon/"
+msgstr "http://thunderguy.com/semicolon/"
+
+#. Author of the plugin
+msgid "Bennett McElwee"
+msgstr "Bennett McElwee"
+
+#. Description of the plugin
+msgid "Keeps track of what your visitors are searching for. After you have activated this plugin, you can check the Search Meter section in the Dashboard to see what your visitors are searching for on your blog."
+msgstr "Отслеживает, что ваши посетители ищут. После того, как вы активировали этот плагин, вы можете проверить раздел Search Meter на панели инструментов, чтобы увидеть, что ваши посетители ищут в вашем блоге."
+
+#. Plugin URI of the plugin
+msgid "https://thunderguy.com/semicolon/wordpress/search-meter-wordpress-plugin/"
+msgstr "http://thunderguy.com/semicolon/wordpress/search-meter-wordpress-plugin/"
+
+#: search-meter.php:308
+msgid "Search Meter save count"
+msgstr "Счетчик сохранений Search Meter"
+
+#: search-meter.php:226 search-meter.php:231 search-meter.php:251
+msgid "Recent Searches"
+msgstr "Последние поиски"
+
+#: search-meter.php:225
+msgid "A list of the most recent successful searches on your blog"
+msgstr "Список последних успешных поисков в вашем блоге"
+
+#: search-meter.php:219 search-meter.php:259
+msgid "Powered by Search Meter"
+msgstr "На платформе Search Meter"
+
+#: search-meter.php:218 search-meter.php:258
+msgid "Number of searches to show:"
+msgstr "Количество поисков для показа:"
+
+#: search-meter.php:217 search-meter.php:257
+msgid "Title:"
+msgstr "Заголовок:"
+
+#: search-meter.php:186 search-meter.php:191 search-meter.php:211
+msgid "Popular Searches"
+msgstr "Популярные поисковые запросы"
+
+#: search-meter.php:185
+msgid "A list of the most popular successful searches in the last month"
+msgstr "Список самых популярных успешных поисков за последний месяц"
+
+#: admin.php:747
+msgid "Make payments with PayPal - it's fast, free and secure!"
+msgstr "Совершайте платежи с помощью PayPal - это быстро, бесплатно и безопасно!"
+
+#. translators: base filename for downloaded searches - lowercase letters,
+#. digits, dashes only
+#: admin.php:697
+msgid "recent-searches"
+msgstr "прошлые-поиски"
+
+#. translators: base filename for downloaded summary - lowercase letters,
+#. digits, dashes only
+#: admin.php:683
+msgid "search-summary"
+msgstr "поисковый-отчёт"
+
+#: admin.php:678 admin.php:692
+msgid "Search terms"
+msgstr "Поисковые фразы"
+
+#: admin.php:678 admin.php:692
+msgid "Date"
+msgstr "Дата"
+
+#: admin.php:631
+msgid "Search Meter Dashboard"
+msgstr "Панель управления Search Meter"
+
+#: admin.php:631
+msgid "To see your search statistics, go to the %s."
+msgstr "Чтобы просмотреть статистику поиска, перейдите на %s."
+
+#: admin.php:625
+msgid "Reset Statistics"
+msgstr "Сбросить статистику"
+
+#: admin.php:616
+msgid "Click this button to reset all search statistics. This will delete all information about previous searches."
+msgstr "Нажмите эту кнопку, чтобы сбросить всю статистику поиска. Это удалит всю информацию о предыдущих поисках."
+
+#: admin.php:614
+msgid "Reset statistics"
+msgstr "Сбросить статистику"
+
+#: admin.php:610
+msgid "Save Changes"
+msgstr "Сохранить изменения"
+
+#: admin.php:603 admin.php:730
+msgid "Do you find this plugin useful?"
+msgstr "Вы находите этот плагин полезным?"
+
+#: admin.php:603
+msgid "Hide the &#8220;%s&#8221; section."
+msgstr "Спрятать раздел &#8220;%s&#8221;."
+
+#: admin.php:595
+msgid "Keep detailed information about recent searches (taken from HTTP headers)"
+msgstr "Хранить подробную информацию о последних поисках (взятых из заголовков HTTP)"
+
+#: admin.php:587
+msgid "Ignore searches made by logged-in administrators"
+msgstr "Игнорировать поисковые запросы, выполненные авторизированными администраторами"
+
+#: admin.php:576
+msgid ""
+"When a search term contains any of these words, it will be filtered\n"
+"\t\t\t\t\t\tand will not show up in the Recent Searches or Popular Searches widgets. This will match inside words,\n"
+"\t\t\t\t\t\tso &#8220;press&#8221; will match &#8220;WordPress&#8221;."
+msgstr ""
+"Если поисковый термин содержит любое из этих слов, он будет отфильтрован\n"
+"\t\t\t\t\t\tи не будет отображаться в виджетах «Последние поисковые запросы» или «Популярные поисковые запросы». Это будет соответствовать внутри слов,\n"
+"\t\t\t\t\t\tкак &#8220;press&#8221; будет соответствовать &#8220;WordPress&#8221;."
+
+#: admin.php:573
+msgid "Search filter"
+msgstr "Фильтр поиска"
+
+#: admin.php:568
+msgid "Administrators only"
+msgstr "Только администраторам"
+
+#: admin.php:565
+msgid "Users with \"manage_options\" capability"
+msgstr "Пользователи с возможностью \"manage_options\""
+
+#: admin.php:564
+msgid "Post authors and administrators"
+msgstr "Авторы записей и администраторы"
+
+#: admin.php:561
+msgid "Users with \"publish_posts\" capability"
+msgstr "Пользователи с возможностью \"publish_posts\""
+
+#: admin.php:560
+msgid "All logged-in users"
+msgstr "Всем зарегистрированным пользователям"
+
+#: admin.php:557
+msgid "Users with \"read\" capability"
+msgstr "Пользователи с возможностью \"read\""
+
+#: admin.php:554
+msgid "Show statistics to"
+msgstr "Показать статистику для"
+
+#: admin.php:531
+msgid "Statistics have been reset."
+msgstr "Статистика была сброшена."
+
+#: admin.php:527
+msgid "Plugin settings saved."
+msgstr "Настройки плагина сохранены."
+
+#: admin.php:472
+msgid "Download Recent Searches"
+msgstr "Скачать Последние поиски"
+
+#: admin.php:463
+msgid "Download your recent searches as a CSV file, which can be opened by any spreadsheet program or text editor."
+msgstr "Скачать последние результаты поиска в виде CSV файла, который может быть открыт любой программой для работы с электронными таблицами или текстовым редактором."
+
+#: admin.php:461
+msgid "Download recent searches"
+msgstr "Скачать последние поиски"
+
+#: admin.php:455
+msgid "No searches recorded."
+msgstr "Нет поисковых записей."
+
+#: admin.php:432
+msgid "Show details"
+msgstr "Показать подробности"
+
+#: admin.php:430 admin.php:692
+msgid "Details"
+msgstr "Подробности"
+
+#: admin.php:428
+msgid "Date &amp; time"
+msgstr "Дата и время"
+
+#: admin.php:412
+msgid "%s is the number of posts that were returned from the search."
+msgstr "%s - это количество сообщений, которые были возвращены из поиска."
+
+#: admin.php:408
+msgid "This table shows the last %s searches on this blog."
+msgstr "Эта таблица показывает последние %s поисков в блоге."
+
+#: admin.php:405
+msgid "Recent searches"
+msgstr "Последние поиски"
+
+#: admin.php:376
+msgid "No searches recorded for this period."
+msgstr "Поисков за этот период не зарегистрировано."
+
+#: admin.php:312 admin.php:485 admin.php:636
+msgid "There you can offer suggestions, request new features or report problems."
+msgstr "Там вы можете предложить предложения, запросить новые функции или сообщить о проблемах."
+
+#: admin.php:310 admin.php:483 admin.php:634
+msgid "Search Meter home page"
+msgstr "Домашняя страница Search Meter"
+
+#: admin.php:310 admin.php:483 admin.php:634
+msgid "For information and updates, see the %s."
+msgstr "Для получения информации и обновлений смотрите %s."
+
+#: admin.php:306 admin.php:479 admin.php:541
+msgid "Search Meter Settings"
+msgstr "Настройки Search Meter"
+
+#: admin.php:306 admin.php:479
+msgid "To manage your search statistics, go to %s."
+msgstr "Чтобы управлять статистикой поиска, перейдите на %s."
+
+#: admin.php:303 admin.php:476 admin.php:629
+msgid "Notes"
+msgstr "Примечание"
+
+#: admin.php:299
+msgid "Download Summary"
+msgstr "Скачать сводку"
+
+#: admin.php:290
+msgid "Download your 30-day summary as a CSV file, which can be opened by any spreadsheet program or text editor."
+msgstr "Скачать вашу 30-дневную сводку в виде CSV файла, который может быть открыт любой программой для работы с электронными таблицами или текстовым редактором."
+
+#: admin.php:288
+msgid "Download summary"
+msgstr "Скачать сводку"
+
+#: admin.php:272
+msgid "These tables show only the search terms for which the last search yielded no results. People are searching your blog for these terms; maybe you should give them what they want."
+msgstr "В этих таблицах показаны только те условия поиска, по которым последний поиск не дал результатов. Люди ищут в вашем блоге эти термины; может быть, вы должны дать им то, что они хотят."
+
+#: admin.php:270
+msgid "Unsuccessful search summary"
+msgstr "Сводка неудачных поисков"
+
+#: admin.php:265 admin.php:283
+msgid "Last 30 days"
+msgstr "Последние 30 дней"
+
+#: admin.php:261 admin.php:279
+msgid "Last 7 days"
+msgstr "Последние 7 дней"
+
+#: admin.php:257 admin.php:275
+msgid "Yesterday and today"
+msgstr "Вчера и Сегодня"
+
+#: admin.php:252 admin.php:351 admin.php:412 admin.php:428 admin.php:678
+#: admin.php:692
+msgid "Results"
+msgstr "Результаты"
+
+#: admin.php:252
+msgid "%s is the number of posts that were returned from the <em>last</em> search for that term."
+msgstr "%s - количество записей, которые были возвращены в результате <em>последнего</em> поиска по этому термину."
+
+#: admin.php:250 admin.php:348 admin.php:678
+msgid "Searches"
+msgstr "Поисков"
+
+#: admin.php:250
+msgid "%s is the number of times the term was searched for."
+msgstr "%s - количество раз, когда термин был найден."
+
+#: admin.php:248 admin.php:348 admin.php:410 admin.php:428
+msgid "Term"
+msgstr "Термин"
+
+#: admin.php:248 admin.php:410
+msgid "%s is the text that was searched for; you can click it to see which posts contain that term. (This won't be counted as another search.)"
+msgstr "%s - текст, который был найден; вы можете нажать на него, чтобы увидеть, какие записи содержат этот термин. (Это не будет считаться другим поиском.)"
+
+#: admin.php:246
+msgid "These tables show the most popular searches on your blog for the given time periods."
+msgstr "Эти таблицы показывают наиболее популярные поисковые запросы на вашем блоге за указанные периоды времени."
+
+#: admin.php:243
+msgid "Search summary"
+msgstr "Поисковая сводка"
+
+#: admin.php:239 admin.php:240 admin.php:394 admin.php:396 admin.php:399
+#: admin.php:401
+msgid "Last %s Searches"
+msgstr "Последние %s поисков"
+
+#: admin.php:238 admin.php:392
+msgid "Summary"
+msgstr "Сводка"
+
+#: admin.php:188
+msgid "Donate"
+msgstr "Поддержать"
+
+#: admin.php:186 admin.php:503
+msgid "Settings"
+msgstr "Настройки"
+
+#: admin.php:184
+msgid "Full Dashboard"
+msgstr "Полная панель управления"
+
+#: admin.php:180
+msgid "Searches in the Last 7 Days"
+msgstr "Поиски за последние 7 дней"
+
+#. Plugin Name of the plugin
+#: admin.php:172 admin.php:205 admin.php:206
+msgid "Search Meter"
+msgstr "Search Meter"

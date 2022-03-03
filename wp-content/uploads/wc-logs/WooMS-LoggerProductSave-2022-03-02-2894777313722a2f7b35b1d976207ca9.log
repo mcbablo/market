@@ -1,0 +1,1668 @@
+2022-03-02T01:34:18+00:00 INFO Продукт сохранен: Свитшот "New Year Tree" (ID 36476):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "135000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:34:18+00:00 INFO Продукт сохранен: Свитшот "INFINITY KIDS" (ID 36477):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "180000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:34:18+00:00 INFO Продукт сохранен: Костюм двойка"ICONS" (ID 36251):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "400000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:34:18+00:00 INFO Продукт сохранен: Термостакан"ICONS" (ID 36252):
+{ "status": "publish", "type": "simple", "catalog_visibility": "visible", "price": "150000", "regular_price": "150000", "sale_price": "" }
+2022-03-02T01:34:19+00:00 INFO Продукт сохранен: Футболка белая "CLICK" HR (ID 36478):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:34:19+00:00 INFO Продукт сохранен: Свитшот "PANDA Kids" (ID 36679):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "200000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:34:19+00:00 INFO Продукт сохранен: Костюм двойка "Casual" (ID 36769):
+{ "status": "draft", "type": "variable", "catalog_visibility": "visible", "price": "400000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:34:19+00:00 INFO Продукт сохранен: Футболка с принтом "CLICKOВЕЦ" (ID 36533):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:34:19+00:00 INFO Продукт сохранен: Футболка "SQUARE" (ID 36253):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:34:20+00:00 INFO Продукт сохранен: Худи "CLICKY Women" (ID 36681):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "220000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:34:20+00:00 INFO Продукт сохранен: Костюм двойка "RED" (ID 36254):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "470000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:34:20+00:00 INFO Продукт сохранен: Чехол для телефона "ICONS" (ID 36771):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "120000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:34:20+00:00 INFO Продукт сохранен: Шоппер (ID 36534):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "220000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:34:21+00:00 INFO Продукт сохранен: Свитшот"BORDERLESS" (ID 36255):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "210000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:34:21+00:00 INFO Продукт сохранен: Футболка "Rectangle" (ID 36256):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:34:21+00:00 INFO Продукт сохранен: Футболка с принтом "РАХМАТ" (ID 36535):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:34:21+00:00 INFO Продукт сохранен: Футболка спринтом "CLICKCHI" (ID 36536):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:34:21+00:00 INFO Продукт сохранен: Свитшот "IN CLICK WE TRUST" (ID 36257):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "180000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:34:22+00:00 INFO Продукт сохранен: Свитшот "ROMB MAN" (ID 36683):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "220000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:34:22+00:00 INFO Продукт сохранен: Футболка(без принта, тёмно-синяя) HR (ID 36479):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "0", "regular_price": "", "sale_price": "" }
+2022-03-02T01:34:37+00:00 INFO Продукт сохранен: Футболка "YELLOW" (ID 36258):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:34:37+00:00 INFO Продукт сохранен: Свитшот "HEART" (ID 36755):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "220000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:34:37+00:00 INFO Продукт сохранен: Костюм двойка "GREY" (ID 36259):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "470000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:34:38+00:00 INFO Продукт сохранен: Футболка"ABSTRACTION" (ID 36260):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:34:38+00:00 INFO Продукт сохранен: Термостакан"CLICK" (ID 36272):
+{ "status": "publish", "type": "simple", "catalog_visibility": "visible", "price": "150000", "regular_price": "150000", "sale_price": "" }
+2022-03-02T01:34:38+00:00 INFO Продукт сохранен: Мокнек "Flowers" (ID 36537):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "250000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:34:38+00:00 INFO Продукт сохранен: Свитшот "ROMB Woman" (ID 36480):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "220000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:34:39+00:00 INFO Продукт сохранен: Футболка "SQUARE" (ID 36872):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:34:40+00:00 INFO Продукт сохранен: Костюм двойка "RED" (ID 36896):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "470000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:35:27+00:00 INFO Продукт сохранен: Свитшот "PANDA" (ID 36675):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "220000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:35:27+00:00 INFO Продукт сохранен: Свитшот "PANDA" (ID 36675):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "220000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:35:28+00:00 INFO Продукт сохранен: Свитшот "PANDA" (ID 36675):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "220000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:35:28+00:00 INFO Продукт сохранен: Свитшот "PANDA" (ID 36675):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "220000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:35:29+00:00 INFO Продукт сохранен: Свитшот "PANDA" (ID 36675):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "220000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:35:29+00:00 INFO Продукт сохранен: Свитшот "ROMB BOY" (ID 36674):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "180000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:35:30+00:00 INFO Продукт сохранен: Свитшот "ROMB BOY" (ID 36674):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "180000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:35:30+00:00 INFO Продукт сохранен: Свитшот "ROMB BOY" (ID 36674):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "180000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:35:31+00:00 INFO Продукт сохранен: Свитшот "ROMB Woman" (ID 36480):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "220000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:35:32+00:00 INFO Продукт сохранен: Свитшот "ROMB Woman" (ID 36480):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "220000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:35:32+00:00 INFO Продукт сохранен: Свитшот "ROMB Woman" (ID 36480):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "220000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:35:33+00:00 INFO Продукт сохранен: Свитшот "ROMB Woman" (ID 36480):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "220000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:35:34+00:00 INFO Продукт сохранен: Свитшот "ROMB Woman" (ID 36480):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "220000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:35:34+00:00 INFO Продукт сохранен: Свитшот "INFINITY Man" (ID 36231):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "220000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:35:35+00:00 INFO Продукт сохранен: Свитшот "INFINITY Man" (ID 36231):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "220000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:35:35+00:00 INFO Продукт сохранен: Свитшот "INFINITY Man" (ID 36231):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "220000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:35:36+00:00 INFO Продукт сохранен: Свитшот "INFINITY Man" (ID 36231):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "220000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:35:37+00:00 INFO Продукт сохранен: Свитшот "INFINITY Man" (ID 36231):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "220000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:35:37+00:00 INFO Продукт сохранен: Шоппер (ID 36534):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "220000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:35:38+00:00 INFO Продукт сохранен: Шоппер (ID 36534):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "220000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:35:39+00:00 INFO Продукт сохранен: Шоппер (ID 36534):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "220000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:35:39+00:00 INFO Продукт сохранен: Шоппер (ID 36534):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "220000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:35:40+00:00 INFO Продукт сохранен: Костюм двойка "BEIGE" (ID 36232):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "330000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:35:41+00:00 INFO Продукт сохранен: Костюм двойка "BEIGE" (ID 36232):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "330000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:35:41+00:00 INFO Продукт сохранен: Костюм двойка "BEIGE" (ID 36232):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "330000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:35:42+00:00 INFO Продукт сохранен: Свитшот "PANDA" (ID 36675):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "220000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:35:42+00:00 INFO Продукт сохранен: Свитшот "ROMB BOY" (ID 36674):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "180000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:35:42+00:00 INFO Продукт сохранен: Свитшот "ROMB Woman" (ID 36480):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "220000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:35:43+00:00 INFO Продукт сохранен: Свитшот "INFINITY Man" (ID 36231):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "220000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:35:43+00:00 INFO Продукт сохранен: Шоппер (ID 36534):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "220000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:35:43+00:00 INFO Продукт сохранен: Костюм двойка "BEIGE" (ID 36232):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "330000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:36:22+00:00 INFO Продукт сохранен: Костюм двойка "BEIGE" (ID 36232):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "330000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:36:23+00:00 INFO Продукт сохранен: Костюм двойка "BEIGE" (ID 36232):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "330000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:36:24+00:00 INFO Продукт сохранен: Футболка "Squid Game" (ID 36233):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:36:24+00:00 INFO Продукт сохранен: Футболка "Squid Game" (ID 36233):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:36:25+00:00 INFO Продукт сохранен: Футболка "Squid Game" (ID 36233):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:36:25+00:00 INFO Продукт сохранен: Футболка "Squid Game" (ID 36233):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:36:26+00:00 INFO Продукт сохранен: Футболка "Squid Game" (ID 36233):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:36:26+00:00 INFO Продукт сохранен: Футболка"ROBOCLICK" (ID 36475):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:36:27+00:00 INFO Продукт сохранен: Футболка"ROBOCLICK" (ID 36475):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:36:28+00:00 INFO Продукт сохранен: Футболка"ROBOCLICK" (ID 36475):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:36:28+00:00 INFO Продукт сохранен: Футболка"ROBOCLICK" (ID 36475):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:36:29+00:00 INFO Продукт сохранен: Футболка"ROBOCLICK" (ID 36475):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:36:29+00:00 INFO Продукт сохранен: Свитшот "CLICK CLASSIC" (ID 36235):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "220000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:36:30+00:00 INFO Продукт сохранен: Свитшот "CLICK CLASSIC" (ID 36235):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "220000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:36:30+00:00 INFO Продукт сохранен: Свитшот "CLICK CLASSIC" (ID 36235):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "220000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:36:31+00:00 INFO Продукт сохранен: Свитшот "CLICK CLASSIC" (ID 36235):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "220000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:36:31+00:00 INFO Продукт сохранен: Свитшот "CLICK CLASSIC" (ID 36235):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "220000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:36:32+00:00 INFO Продукт сохранен: Свитшот "CLICK 2" (ID 36234):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "220000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:36:33+00:00 INFO Продукт сохранен: Свитшот "CLICK 2" (ID 36234):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "220000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:36:33+00:00 INFO Продукт сохранен: Свитшот "CLICK 2" (ID 36234):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "220000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:36:34+00:00 INFO Продукт сохранен: Свитшот "CLICK 2" (ID 36234):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "220000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:36:34+00:00 INFO Продукт сохранен: Свитшот "CLICK 2" (ID 36234):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "220000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:36:35+00:00 INFO Продукт сохранен: Костюм двойка "Birdie" (ID 36516):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "400000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:36:35+00:00 INFO Продукт сохранен: Костюм двойка "Birdie" (ID 36516):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "400000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:36:36+00:00 INFO Продукт сохранен: Костюм двойка "Birdie" (ID 36516):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "400000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:36:36+00:00 INFO Продукт сохранен: Костюм двойка "Birdie" (ID 36516):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "400000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:36:37+00:00 INFO Продукт сохранен: Костюм двойка "Birdie" (ID 36516):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "400000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:36:38+00:00 INFO Продукт сохранен: Футболка "CLICK Classic" (ID 36236):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:36:39+00:00 INFO Продукт сохранен: Футболка "CLICK Classic" (ID 36236):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:36:40+00:00 INFO Продукт сохранен: Футболка "CLICK Classic" (ID 36236):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:36:42+00:00 INFO Продукт сохранен: Худи "CLICKY Women" (ID 36681):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "220000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:36:42+00:00 INFO Продукт сохранен: Чехол для телефона "ICONS" (ID 36771):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "120000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:36:42+00:00 INFO Продукт сохранен: Свитшот "ROMB MAN" (ID 36683):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "220000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:36:43+00:00 INFO Продукт сохранен: Свитшот "HEART" (ID 36755):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "220000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:36:43+00:00 INFO Продукт сохранен: Мокнек "Flowers" (ID 36537):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "250000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:36:44+00:00 INFO Продукт сохранен: Костюм двойка "BEIGE" (ID 36232):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "330000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:36:44+00:00 INFO Продукт сохранен: Футболка "Squid Game" (ID 36233):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:36:44+00:00 INFO Продукт сохранен: Футболка"ROBOCLICK" (ID 36475):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:36:44+00:00 INFO Продукт сохранен: Свитшот "CLICK CLASSIC" (ID 36235):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "220000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:36:45+00:00 INFO Продукт сохранен: Свитшот "CLICK 2" (ID 36234):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "220000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:36:45+00:00 INFO Продукт сохранен: Костюм двойка "Birdie" (ID 36516):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "400000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:36:45+00:00 INFO Продукт сохранен: Футболка "CLICK Classic" (ID 36236):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:36:45+00:00 INFO Продукт сохранен: Свитшот "ROMB BOY" (ID 36674):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "180000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:36:46+00:00 INFO Продукт сохранен: Свитшот "PANDA" (ID 36675):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "220000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:36:46+00:00 INFO Продукт сохранен: Шоппер (ID 36534):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "220000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:52:44+00:00 INFO Продукт сохранен: Футболка "CLICK Classic" (ID 36236):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:52:45+00:00 INFO Продукт сохранен: Футболка "CLICK Classic" (ID 36236):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:52:45+00:00 INFO Продукт сохранен: Футболка "CLICK UP" (ID 36238):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:52:46+00:00 INFO Продукт сохранен: Футболка "CLICK UP" (ID 36238):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:52:46+00:00 INFO Продукт сохранен: Футболка "CLICK UP" (ID 36238):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:52:47+00:00 INFO Продукт сохранен: Футболка "CLICK UP" (ID 36238):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:52:48+00:00 INFO Продукт сохранен: Футболка "CLICK UP" (ID 36238):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:52:48+00:00 INFO Продукт сохранен: Футболка с принтом "РАХМАТ" (ID 36517):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:52:49+00:00 INFO Продукт сохранен: Футболка с принтом "РАХМАТ" (ID 36517):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:52:49+00:00 INFO Продукт сохранен: Футболка с принтом "РАХМАТ" (ID 36517):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:52:50+00:00 INFO Продукт сохранен: Футболка с принтом "РАХМАТ" (ID 36517):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:52:51+00:00 INFO Продукт сохранен: Футболка с принтом "РАХМАТ" (ID 36517):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:52:52+00:00 INFO Продукт сохранен: Футболка с принтом "РАХМАТ" (ID 36517):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:52:53+00:00 INFO Продукт сохранен: Футболка с принтом "РАХМАТ" (ID 36517):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:52:53+00:00 INFO Продукт сохранен: Футболка с принтом "РАХМАТ" (ID 36517):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:52:54+00:00 INFO Продукт сохранен: Футболка с принтом "РАХМАТ" (ID 36517):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:52:54+00:00 INFO Продукт сохранен: Футболка с принтом "РАХМАТ" (ID 36517):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:52:55+00:00 INFO Продукт сохранен: Худи "CLICK" (ID 36240):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "290000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:52:55+00:00 INFO Продукт сохранен: Худи "CLICK" (ID 36240):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "290000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:52:56+00:00 INFO Продукт сохранен: Худи "CLICK" (ID 36240):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "290000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:52:56+00:00 INFO Продукт сохранен: Худи "CLICK" (ID 36240):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "290000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:52:57+00:00 INFO Продукт сохранен: Худи "CLICK" (ID 36240):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "290000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:52:58+00:00 INFO Продукт сохранен: Футболка "NAVY BLUE" (ID 36237):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:52:58+00:00 INFO Продукт сохранен: Футболка "NAVY BLUE" (ID 36237):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:52:59+00:00 INFO Продукт сохранен: Футболка "NAVY BLUE" (ID 36237):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:52:59+00:00 INFO Продукт сохранен: Футболка "NAVY BLUE" (ID 36237):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:53:00+00:00 INFO Продукт сохранен: Футболка "NAVY BLUE" (ID 36237):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:53:01+00:00 INFO Продукт сохранен: Костюм двойка "BLACK" (ID 36239):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "470000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:53:02+00:00 INFO Продукт сохранен: Костюм двойка "BLACK" (ID 36239):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "470000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:53:02+00:00 INFO Продукт сохранен: Костюм двойка "BLACK" (ID 36239):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "470000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:53:05+00:00 INFO Продукт сохранен: Шоппер (ID 36534):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "220000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:53:05+00:00 INFO Продукт сохранен: Футболка с принтом "РАХМАТ" (ID 36535):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:53:08+00:00 INFO Продукт сохранен: Футболка "CLICK Classic" (ID 36236):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:53:08+00:00 INFO Продукт сохранен: Футболка "CLICK UP" (ID 36238):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:53:08+00:00 INFO Продукт сохранен: Футболка с принтом "РАХМАТ" (ID 36517):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:53:08+00:00 INFO Продукт сохранен: Худи "CLICK" (ID 36240):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "290000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:53:08+00:00 INFO Продукт сохранен: Футболка "NAVY BLUE" (ID 36237):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:53:09+00:00 INFO Продукт сохранен: Костюм двойка "BLACK" (ID 36239):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "470000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:53:09+00:00 INFO Продукт сохранен: Костюм двойка "Birdie" (ID 36516):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "400000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:53:09+00:00 INFO Продукт сохранен: Футболка"ROBOCLICK" (ID 36475):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:53:09+00:00 INFO Продукт сохранен: Свитшот "ROMB Woman" (ID 36480):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "220000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:53:57+00:00 INFO Продукт сохранен: Костюм двойка "BLACK" (ID 36239):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "470000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:53:57+00:00 INFO Продукт сохранен: Костюм двойка "BLACK" (ID 36239):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "470000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:53:58+00:00 INFO Продукт сохранен: Футболка с принтом "ДАЙКЕШ" (ID 36520):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:53:58+00:00 INFO Продукт сохранен: Футболка с принтом "ДАЙКЕШ" (ID 36520):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:53:59+00:00 INFO Продукт сохранен: Футболка с принтом "ДАЙКЕШ" (ID 36520):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:53:59+00:00 INFO Продукт сохранен: Футболка с принтом "ДАЙКЕШ" (ID 36520):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:54:00+00:00 INFO Продукт сохранен: Футболка с принтом "ДАЙКЕШ" (ID 36520):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:54:00+00:00 INFO Продукт сохранен: Футболка с принтом "ДАЙКЕШ" (ID 36520):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:54:01+00:00 INFO Продукт сохранен: Футболка с принтом "ДАЙКЕШ" (ID 36520):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:54:02+00:00 INFO Продукт сохранен: Футболка с принтом "ДАЙКЕШ" (ID 36520):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:54:02+00:00 INFO Продукт сохранен: Футболка с принтом "ДАЙКЕШ" (ID 36520):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:54:03+00:00 INFO Продукт сохранен: Футболка с принтом "ДАЙКЕШ" (ID 36520):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:54:03+00:00 INFO Продукт сохранен: Шапка "CLICK" (ID 36643):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "65000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:54:04+00:00 INFO Продукт сохранен: Шапка "CLICK" (ID 36643):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "65000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:54:04+00:00 INFO Продукт сохранен: Шапка "CLICK" (ID 36643):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "65000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:54:05+00:00 INFO Продукт сохранен: Шапка "CLICK" (ID 36643):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "65000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:54:06+00:00 INFO Продукт сохранен: Футболка "FLOWERS" (ID 36677):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:54:06+00:00 INFO Продукт сохранен: Футболка "FLOWERS" (ID 36677):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:54:07+00:00 INFO Продукт сохранен: Футболка "FLOWERS" (ID 36677):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:54:07+00:00 INFO Продукт сохранен: Футболка "FLOWERS" (ID 36677):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:54:08+00:00 INFO Продукт сохранен: Футболка "FLOWERS" (ID 36677):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:54:08+00:00 INFO Продукт сохранен: Костюм  двойка "CLICKY Women" (ID 36244):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "400000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:54:09+00:00 INFO Продукт сохранен: Костюм  двойка "CLICKY Women" (ID 36244):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "400000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:54:10+00:00 INFO Продукт сохранен: Костюм  двойка "CLICKY Women" (ID 36244):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "400000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:54:10+00:00 INFO Продукт сохранен: Костюм  двойка "CLICKY Women" (ID 36244):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "400000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:54:11+00:00 INFO Продукт сохранен: Костюм  двойка "CLICKY Women" (ID 36244):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "400000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:54:11+00:00 INFO Продукт сохранен: Костюм двойка "CLICKY FLOWER" (ID 36518):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "400000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:54:12+00:00 INFO Продукт сохранен: Костюм двойка "CLICKY FLOWER" (ID 36518):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "400000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:54:12+00:00 INFO Продукт сохранен: Костюм двойка "CLICKY FLOWER" (ID 36518):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "400000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:54:13+00:00 INFO Продукт сохранен: Костюм двойка "CLICKY FLOWER" (ID 36518):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "400000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:54:14+00:00 INFO Продукт сохранен: Костюм двойка "BLACK" (ID 36239):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "470000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:54:14+00:00 INFO Продукт сохранен: Футболка с принтом "ДАЙКЕШ" (ID 36520):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:54:14+00:00 INFO Продукт сохранен: Шапка "CLICK" (ID 36643):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "65000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:54:15+00:00 INFO Продукт сохранен: Футболка "FLOWERS" (ID 36677):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:54:15+00:00 INFO Продукт сохранен: Костюм  двойка "CLICKY Women" (ID 36244):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "400000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:54:15+00:00 INFO Продукт сохранен: Костюм двойка "CLICKY FLOWER" (ID 36518):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "400000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:54:25+00:00 INFO Продукт сохранен: Костюм двойка "CLICKY FLOWER" (ID 36518):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "400000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:54:26+00:00 INFO Продукт сохранен: Костюм двойка "CLICKY FLOWER" (ID 36518):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "400000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:54:26+00:00 INFO Продукт сохранен: Костюм двойка "CLICKY FLOWER" (ID 36518):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "400000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:54:27+00:00 INFO Продукт сохранен: Костюм двойка "CLICKY FLOWER" (ID 36518):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "400000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:54:28+00:00 INFO Продукт сохранен: Костюм двойка "CLICKY FLOWER" (ID 36518):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "400000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:54:29+00:00 INFO Продукт сохранен: Костюм двойка "CLICKY FLOWER" (ID 36518):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "400000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:54:29+00:00 INFO Продукт сохранен: Костюм двойка"NAVY BLUE" (ID 36241):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "470000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:54:30+00:00 INFO Продукт сохранен: Костюм двойка"NAVY BLUE" (ID 36241):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "470000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:54:30+00:00 INFO Продукт сохранен: Костюм двойка"NAVY BLUE" (ID 36241):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "470000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:54:31+00:00 INFO Продукт сохранен: Костюм двойка"NAVY BLUE" (ID 36241):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "470000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:54:32+00:00 INFO Продукт сохранен: Костюм двойка"NAVY BLUE" (ID 36241):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "470000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:54:33+00:00 INFO Продукт сохранен: Свитшот "CASHBASKBUSTERS" (ID 36247):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "220000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:54:33+00:00 INFO Продукт сохранен: Свитшот "CASHBASKBUSTERS" (ID 36247):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "220000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:54:34+00:00 INFO Продукт сохранен: Свитшот "CASHBASKBUSTERS" (ID 36247):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "220000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:54:34+00:00 INFO Продукт сохранен: Свитшот "CASHBASKBUSTERS" (ID 36247):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "220000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:54:35+00:00 INFO Продукт сохранен: Свитшот "CASHBASKBUSTERS" (ID 36247):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "220000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:54:36+00:00 INFO Продукт сохранен: Худи "SPORTY" (ID 36245):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "290000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:54:36+00:00 INFO Продукт сохранен: Худи "SPORTY" (ID 36245):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "290000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:54:37+00:00 INFO Продукт сохранен: Худи "SPORTY" (ID 36245):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "290000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:54:37+00:00 INFO Продукт сохранен: Худи "SPORTY" (ID 36245):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "290000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:54:38+00:00 INFO Продукт сохранен: Худи "SPORTY" (ID 36245):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "290000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:54:39+00:00 INFO Продукт сохранен: Свитшот "PANDA Kids" (ID 36679):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "200000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:54:39+00:00 INFO Продукт сохранен: Свитшот "PANDA Kids" (ID 36679):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "200000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:54:40+00:00 INFO Продукт сохранен: Свитшот "PANDA Kids" (ID 36679):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "200000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:54:41+00:00 INFO Продукт сохранен: Свитшот "PANDA Kids" (ID 36679):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "200000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:54:41+00:00 INFO Продукт сохранен: Свитшот "PANDA Kids" (ID 36679):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "200000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:54:42+00:00 INFO Продукт сохранен: Костюм двойка "Dark Grey" (ID 36243):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "470000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:54:43+00:00 INFO Продукт сохранен: Костюм двойка "Dark Grey" (ID 36243):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "470000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:54:43+00:00 INFO Продукт сохранен: Костюм двойка "Dark Grey" (ID 36243):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "470000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:54:44+00:00 INFO Продукт сохранен: Костюм двойка "Dark Grey" (ID 36243):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "470000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:54:47+00:00 INFO Продукт сохранен: Свитшот "INFINITY KIDS" (ID 36477):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "180000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:54:47+00:00 INFO Продукт сохранен: Свитшот "ROMB Woman" (ID 36480):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "220000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:54:48+00:00 INFO Продукт сохранен: Костюм двойка "CLICKY FLOWER" (ID 36518):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "400000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:54:48+00:00 INFO Продукт сохранен: Шапка "CLICK" (ID 36643):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "65000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:54:48+00:00 INFO Продукт сохранен: Футболка "FLOWERS" (ID 36677):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:54:48+00:00 INFO Продукт сохранен: Футболка с принтом "ДАЙКЕШ" (ID 36520):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:54:48+00:00 INFO Продукт сохранен: Костюм двойка"NAVY BLUE" (ID 36241):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "470000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:54:49+00:00 INFO Продукт сохранен: Свитшот "CASHBASKBUSTERS" (ID 36247):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "220000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:54:49+00:00 INFO Продукт сохранен: Худи "SPORTY" (ID 36245):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "290000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:54:49+00:00 INFO Продукт сохранен: Свитшот "PANDA Kids" (ID 36679):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "200000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:54:49+00:00 INFO Продукт сохранен: Костюм двойка "Dark Grey" (ID 36243):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "470000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:54:49+00:00 INFO Продукт сохранен: Футболка"ROBOCLICK" (ID 36475):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:55:27+00:00 INFO Продукт сохранен: Футболка "SQUARE" (ID 36872):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:55:28+00:00 INFO Продукт сохранен: Футболка "SQUARE" (ID 36872):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:55:28+00:00 INFO Продукт сохранен: Футболка "SQUARE" (ID 36872):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:55:29+00:00 INFO Продукт сохранен: Футболка "SQUARE" (ID 36872):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:55:29+00:00 INFO Продукт сохранен: Футболка "SQUARE" (ID 36872):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:55:36+00:00 INFO Продукт сохранен: Футболка "SQUARE" (ID 36872):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:55:43+00:00 INFO Продукт сохранен: Костюм двойка "RED" (ID 36896):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "470000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:55:43+00:00 INFO Продукт сохранен: Футболка "SQUARE" (ID 36872):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:55:44+00:00 INFO Продукт сохранен: Костюм двойка "RED" (ID 36896):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "470000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:55:44+00:00 INFO Продукт сохранен: Костюм двойка "RED" (ID 36896):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "470000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:55:45+00:00 INFO Продукт сохранен: Костюм двойка "RED" (ID 36896):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "470000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:55:45+00:00 INFO Продукт сохранен: Костюм двойка "RED" (ID 36896):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "470000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:55:52+00:00 INFO Продукт сохранен: Костюм двойка "RED" (ID 36896):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "470000", "regular_price": "", "sale_price": "" }
+2022-03-02T01:56:06+00:00 INFO Продукт сохранен: Костюм двойка "RED" (ID 36896):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "470000", "regular_price": "", "sale_price": "" }
+2022-03-02T02:01:04+00:00 INFO Продукт сохранен: Костюм двойка "Casual Bling" без манжета ( тёмн. принт) (ID 36685):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "0", "regular_price": "", "sale_price": "" }
+2022-03-02T02:01:04+00:00 INFO Продукт сохранен: Костюм двойка "Casual Bling" без манжета ( свет. принт) (ID 36684):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "0", "regular_price": "", "sale_price": "" }
+2022-03-02T02:01:05+00:00 INFO Продукт сохранен: Костюм двойка "Casual Bling" с манжетом (свет. принт) (ID 36682):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "0", "regular_price": "", "sale_price": "" }
+2022-03-02T02:01:05+00:00 INFO Продукт сохранен: Футболка с принтом "РАХМАТ"(тёмно-синий) (ID 36680):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "0", "regular_price": "", "sale_price": "" }
+2022-03-02T02:15:52+00:00 INFO Продукт сохранен: Костюм двойка "RED" (ID 36254):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "470000", "regular_price": "", "sale_price": "" }
+2022-03-02T02:15:52+00:00 INFO Продукт сохранен: Костюм двойка "RED" (ID 36896):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "470000", "regular_price": "", "sale_price": "" }
+2022-03-02T02:15:53+00:00 INFO Продукт сохранен: Костюм двойка "RED" (ID 36254):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "470000", "regular_price": "", "sale_price": "" }
+2022-03-02T03:03:43+00:00 INFO Продукт сохранен: Костюм двойка "Casual Bling" без манжета ( тёмн. принт) (ID 36685):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "0", "regular_price": "", "sale_price": "" }
+2022-03-02T03:03:43+00:00 INFO Продукт сохранен: Костюм двойка "Casual Bling" без манжета ( свет. принт) (ID 36684):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "0", "regular_price": "", "sale_price": "" }
+2022-03-02T03:03:43+00:00 INFO Продукт сохранен: Костюм двойка "Casual Bling" с манжетом (свет. принт) (ID 36682):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "0", "regular_price": "", "sale_price": "" }
+2022-03-02T03:03:44+00:00 INFO Продукт сохранен: Футболка с принтом "РАХМАТ"(тёмно-синий) (ID 36680):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "0", "regular_price": "", "sale_price": "" }
+2022-03-02T03:11:14+00:00 INFO Продукт сохранен: Smart Trunk (ID 36676):
+{ "status": "publish", "type": "simple", "catalog_visibility": "visible", "price": "350000", "regular_price": "350000", "sale_price": "" }
+2022-03-02T04:19:46+00:00 INFO Продукт сохранен: Костюм двойка "Casual Bling" без манжета ( тёмн. принт) (ID 36685):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "0", "regular_price": "", "sale_price": "" }
+2022-03-02T04:19:47+00:00 INFO Продукт сохранен: Костюм двойка "Casual Bling" без манжета ( свет. принт) (ID 36684):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "0", "regular_price": "", "sale_price": "" }
+2022-03-02T04:19:47+00:00 INFO Продукт сохранен: Костюм двойка "Casual Bling" с манжетом (свет. принт) (ID 36682):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "0", "regular_price": "", "sale_price": "" }
+2022-03-02T04:19:47+00:00 INFO Продукт сохранен: Футболка с принтом "РАХМАТ"(тёмно-синий) (ID 36680):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "0", "regular_price": "", "sale_price": "" }
+2022-03-02T04:23:36+00:00 INFO Продукт сохранен: Костюм двойка "BEIGE" (ID 36232):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "330000", "regular_price": "", "sale_price": "" }
+2022-03-02T04:23:37+00:00 INFO Продукт сохранен: Костюм двойка "BEIGE" (ID 36232):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "330000", "regular_price": "", "sale_price": "" }
+2022-03-02T04:23:37+00:00 INFO Продукт сохранен: Костюм двойка "BEIGE" (ID 36232):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "330000", "regular_price": "", "sale_price": "" }
+2022-03-02T04:23:37+00:00 INFO Продукт сохранен: Костюм двойка "BEIGE" (ID 36232):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "330000", "regular_price": "", "sale_price": "" }
+2022-03-02T07:35:21+00:00 INFO Продукт сохранен: Костюм двойка "Casual Bling" без манжета ( тёмн. принт) (ID 36685):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "0", "regular_price": "", "sale_price": "" }
+2022-03-02T07:35:21+00:00 INFO Продукт сохранен: Костюм двойка "Casual Bling" без манжета ( свет. принт) (ID 36684):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "0", "regular_price": "", "sale_price": "" }
+2022-03-02T07:35:21+00:00 INFO Продукт сохранен: Костюм двойка "Casual Bling" с манжетом (свет. принт) (ID 36682):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "0", "regular_price": "", "sale_price": "" }
+2022-03-02T07:35:21+00:00 INFO Продукт сохранен: Футболка с принтом "РАХМАТ"(тёмно-синий) (ID 36680):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "0", "regular_price": "", "sale_price": "" }
+2022-03-02T07:53:03+00:00 INFO Продукт сохранен: Костюм двойка "Casual" (ID 36769):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "400000", "regular_price": "", "sale_price": "" }
+2022-03-02T07:53:03+00:00 INFO Продукт сохранен: Костюм двойка "Casual Bling" (ID 36768):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "400000", "regular_price": "", "sale_price": "" }
+2022-03-02T07:55:40+00:00 INFO Продукт сохранен: Костюм двойка "Casual Bling" (ID 36768):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "400000", "regular_price": "", "sale_price": "" }
+2022-03-02T07:55:41+00:00 INFO Продукт сохранен: Костюм двойка "Casual Bling" (ID 36768):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "400000", "regular_price": "", "sale_price": "" }
+2022-03-02T07:55:51+00:00 INFO Продукт сохранен: Костюм двойка "Casual Bling" (ID 36768):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "400000", "regular_price": "", "sale_price": "" }
+2022-03-02T07:55:51+00:00 INFO Продукт сохранен: Костюм двойка "Casual Bling" (ID 36768):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "400000", "regular_price": "", "sale_price": "" }
+2022-03-02T07:57:49+00:00 INFO Продукт сохранен: Чехол для телефона "ICONS" (ID 36771):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "120000", "regular_price": "", "sale_price": "" }
+2022-03-02T07:57:50+00:00 INFO Продукт сохранен: Чехол для телефона "ICONS" (ID 36771):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "120000", "regular_price": "", "sale_price": "" }
+2022-03-02T07:58:13+00:00 INFO Продукт сохранен: Чехол для телефона "ICONS" (ID 36771):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "120000", "regular_price": "", "sale_price": "" }
+2022-03-02T07:58:17+00:00 INFO Продукт сохранен: Чехол для телефона "ICONS" (ID 36771):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "120000", "regular_price": "", "sale_price": "" }
+2022-03-02T07:58:17+00:00 INFO Продукт сохранен: Чехол для телефона "ICONS" (ID 36771):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "120000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:01:45+00:00 INFO Продукт сохранен: Костюм двойка "Birdie" (ID 36516):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "400000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:01:48+00:00 INFO Продукт сохранен: Костюм двойка "Birdie" (ID 36516):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "400000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:01:54+00:00 INFO Продукт сохранен: Костюм двойка "Birdie" (ID 36516):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "400000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:01:55+00:00 INFO Продукт сохранен: Костюм двойка "Birdie" (ID 36516):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "400000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:01:55+00:00 INFO Продукт сохранен: Костюм двойка "Birdie" (ID 36516):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "400000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:01:55+00:00 INFO Продукт сохранен: Костюм двойка "Birdie" (ID 36516):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "400000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:03:16+00:00 INFO Продукт сохранен: Костюм двойка "Birdie" (ID 36516):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "400000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:03:16+00:00 INFO Продукт сохранен: Костюм двойка "Birdie" (ID 36516):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "400000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:03:16+00:00 INFO Продукт сохранен: Костюм двойка "Birdie" (ID 36516):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "400000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:03:17+00:00 INFO Продукт сохранен: Костюм двойка "Birdie" (ID 36516):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "400000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:08:44+00:00 INFO Продукт сохранен: Свитшот "PANDA" (ID 36675):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "220000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:08:45+00:00 INFO Продукт сохранен: Свитшот "PANDA" (ID 36675):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "220000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:08:46+00:00 INFO Продукт сохранен: Свитшот "PANDA" (ID 36675):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "220000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:08:46+00:00 INFO Продукт сохранен: Свитшот "PANDA" (ID 36675):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "220000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:08:47+00:00 INFO Продукт сохранен: Свитшот "PANDA" (ID 36675):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "220000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:08:47+00:00 INFO Продукт сохранен: Свитшот "ROMB BOY" (ID 36674):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "180000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:08:48+00:00 INFO Продукт сохранен: Свитшот "ROMB BOY" (ID 36674):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "180000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:08:49+00:00 INFO Продукт сохранен: Свитшот "ROMB BOY" (ID 36674):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "180000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:08:49+00:00 INFO Продукт сохранен: Свитшот "ROMB Woman" (ID 36480):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "220000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:08:50+00:00 INFO Продукт сохранен: Свитшот "ROMB Woman" (ID 36480):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "220000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:08:50+00:00 INFO Продукт сохранен: Свитшот "ROMB Woman" (ID 36480):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "220000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:08:51+00:00 INFO Продукт сохранен: Свитшот "ROMB Woman" (ID 36480):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "220000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:08:52+00:00 INFO Продукт сохранен: Свитшот "ROMB Woman" (ID 36480):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "220000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:08:52+00:00 INFO Продукт сохранен: Свитшот "INFINITY Man" (ID 36231):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "220000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:08:53+00:00 INFO Продукт сохранен: Свитшот "INFINITY Man" (ID 36231):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "220000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:08:53+00:00 INFO Продукт сохранен: Свитшот "INFINITY Man" (ID 36231):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "220000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:08:54+00:00 INFO Продукт сохранен: Свитшот "INFINITY Man" (ID 36231):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "220000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:08:54+00:00 INFO Продукт сохранен: Свитшот "INFINITY Man" (ID 36231):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "220000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:08:55+00:00 INFO Продукт сохранен: Свитшот "Snowflake" (ID 36474):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "135000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:08:56+00:00 INFO Продукт сохранен: Свитшот "Snowflake" (ID 36474):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "135000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:08:56+00:00 INFO Продукт сохранен: Свитшот "Snowflake" (ID 36474):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "135000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:08:57+00:00 INFO Продукт сохранен: Свитшот "Snowflake" (ID 36474):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "135000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:08:58+00:00 INFO Продукт сохранен: Свитшот "Snowflake" (ID 36474):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "135000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:08:58+00:00 INFO Продукт сохранен: Шоппер (ID 36534):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "220000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:08:59+00:00 INFO Продукт сохранен: Шоппер (ID 36534):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "220000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:08:59+00:00 INFO Продукт сохранен: Шоппер (ID 36534):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "220000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:09:00+00:00 INFO Продукт сохранен: Шоппер (ID 36534):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "220000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:09:01+00:00 INFO Продукт сохранен: Костюм двойка "BEIGE" (ID 36232):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "330000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:09:01+00:00 INFO Продукт сохранен: Костюм двойка "BEIGE" (ID 36232):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "330000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:09:02+00:00 INFO Продукт сохранен: Свитшот "PANDA" (ID 36675):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "220000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:09:02+00:00 INFO Продукт сохранен: Свитшот "ROMB BOY" (ID 36674):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "180000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:09:03+00:00 INFO Продукт сохранен: Свитшот "ROMB Woman" (ID 36480):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "220000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:09:03+00:00 INFO Продукт сохранен: Свитшот "INFINITY Man" (ID 36231):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "220000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:09:03+00:00 INFO Продукт сохранен: Свитшот "Snowflake" (ID 36474):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "135000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:09:03+00:00 INFO Продукт сохранен: Шоппер (ID 36534):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "220000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:09:03+00:00 INFO Продукт сохранен: Костюм двойка "BEIGE" (ID 36232):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "470000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:09:26+00:00 INFO Продукт сохранен: Костюм двойка "BEIGE" (ID 36232):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "470000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:09:27+00:00 INFO Продукт сохранен: Костюм двойка "BEIGE" (ID 36232):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "470000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:09:27+00:00 INFO Продукт сохранен: Костюм двойка "BEIGE" (ID 36232):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "470000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:09:28+00:00 INFO Продукт сохранен: Футболка "Squid Game" (ID 36233):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:09:29+00:00 INFO Продукт сохранен: Футболка "Squid Game" (ID 36233):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:09:29+00:00 INFO Продукт сохранен: Футболка "Squid Game" (ID 36233):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:09:30+00:00 INFO Продукт сохранен: Футболка "Squid Game" (ID 36233):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:09:31+00:00 INFO Продукт сохранен: Футболка "Squid Game" (ID 36233):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:09:31+00:00 INFO Продукт сохранен: Футболка"ROBOCLICK" (ID 36475):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:09:32+00:00 INFO Продукт сохранен: Футболка"ROBOCLICK" (ID 36475):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:09:33+00:00 INFO Продукт сохранен: Футболка"ROBOCLICK" (ID 36475):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:09:33+00:00 INFO Продукт сохранен: Футболка"ROBOCLICK" (ID 36475):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:09:34+00:00 INFO Продукт сохранен: Футболка"ROBOCLICK" (ID 36475):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:09:35+00:00 INFO Продукт сохранен: Свитшот "CLICK CLASSIC" (ID 36235):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "220000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:09:35+00:00 INFO Продукт сохранен: Свитшот "CLICK CLASSIC" (ID 36235):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "220000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:09:36+00:00 INFO Продукт сохранен: Свитшот "CLICK CLASSIC" (ID 36235):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "220000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:09:37+00:00 INFO Продукт сохранен: Свитшот "CLICK CLASSIC" (ID 36235):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "220000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:09:37+00:00 INFO Продукт сохранен: Свитшот "CLICK CLASSIC" (ID 36235):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "220000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:09:38+00:00 INFO Продукт сохранен: Свитшот "CLICK 2" (ID 36234):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "220000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:09:39+00:00 INFO Продукт сохранен: Свитшот "CLICK 2" (ID 36234):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "220000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:09:39+00:00 INFO Продукт сохранен: Свитшот "CLICK 2" (ID 36234):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "220000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:09:40+00:00 INFO Продукт сохранен: Свитшот "CLICK 2" (ID 36234):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "220000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:09:41+00:00 INFO Продукт сохранен: Свитшот "CLICK 2" (ID 36234):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "220000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:09:41+00:00 INFO Продукт сохранен: Костюм двойка "Birdie" (ID 36516):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "400000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:09:42+00:00 INFO Продукт сохранен: Костюм двойка "Birdie" (ID 36516):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "400000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:09:43+00:00 INFO Продукт сохранен: Костюм двойка "Birdie" (ID 36516):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "400000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:09:44+00:00 INFO Продукт сохранен: Костюм двойка "Birdie" (ID 36516):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "400000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:09:44+00:00 INFO Продукт сохранен: Костюм двойка "Birdie" (ID 36516):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "400000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:09:45+00:00 INFO Продукт сохранен: Футболка "CLICK Classic" (ID 36236):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:09:45+00:00 INFO Продукт сохранен: Футболка "CLICK Classic" (ID 36236):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:09:47+00:00 INFO Продукт сохранен: Костюм двойка "Birdie" (ID 36516):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "400000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:09:48+00:00 INFO Продукт сохранен: Костюм двойка "Casual" (ID 36769):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "400000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:09:48+00:00 INFO Продукт сохранен: Костюм двойка "BEIGE" (ID 36232):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "470000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:09:49+00:00 INFO Продукт сохранен: Футболка "Squid Game" (ID 36233):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:09:49+00:00 INFO Продукт сохранен: Футболка"ROBOCLICK" (ID 36475):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:09:49+00:00 INFO Продукт сохранен: Свитшот "CLICK CLASSIC" (ID 36235):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "220000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:09:49+00:00 INFO Продукт сохранен: Свитшот "CLICK 2" (ID 36234):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "220000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:09:49+00:00 INFO Продукт сохранен: Костюм двойка "Birdie" (ID 36516):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "400000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:09:49+00:00 INFO Продукт сохранен: Футболка "CLICK Classic" (ID 36236):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:09:50+00:00 INFO Продукт сохранен: Свитшот "ROMB BOY" (ID 36674):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "180000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:09:50+00:00 INFO Продукт сохранен: Свитшот "PANDA" (ID 36675):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "220000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:09:50+00:00 INFO Продукт сохранен: Шоппер (ID 36534):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "220000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:09:50+00:00 INFO Продукт сохранен: Свитшот "ROMB Woman" (ID 36480):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "220000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:10:29+00:00 INFO Продукт сохранен: Футболка "CLICK Classic" (ID 36236):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:10:30+00:00 INFO Продукт сохранен: Футболка "CLICK Classic" (ID 36236):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:10:30+00:00 INFO Продукт сохранен: Футболка "CLICK Classic" (ID 36236):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:10:31+00:00 INFO Продукт сохранен: Футболка "CLICK UP" (ID 36238):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:10:32+00:00 INFO Продукт сохранен: Футболка "CLICK UP" (ID 36238):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:10:32+00:00 INFO Продукт сохранен: Футболка "CLICK UP" (ID 36238):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:10:33+00:00 INFO Продукт сохранен: Футболка "CLICK UP" (ID 36238):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:10:34+00:00 INFO Продукт сохранен: Футболка "CLICK UP" (ID 36238):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:10:34+00:00 INFO Продукт сохранен: Футболка с принтом "РАХМАТ" (ID 36517):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:10:35+00:00 INFO Продукт сохранен: Футболка с принтом "РАХМАТ" (ID 36517):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:10:35+00:00 INFO Продукт сохранен: Футболка с принтом "РАХМАТ" (ID 36517):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:10:36+00:00 INFO Продукт сохранен: Футболка с принтом "РАХМАТ" (ID 36517):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:10:37+00:00 INFO Продукт сохранен: Футболка с принтом "РАХМАТ" (ID 36517):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:10:37+00:00 INFO Продукт сохранен: Футболка с принтом "РАХМАТ" (ID 36517):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:10:38+00:00 INFO Продукт сохранен: Футболка с принтом "РАХМАТ" (ID 36517):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:10:38+00:00 INFO Продукт сохранен: Футболка с принтом "РАХМАТ" (ID 36517):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:10:39+00:00 INFO Продукт сохранен: Футболка с принтом "РАХМАТ" (ID 36517):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:10:40+00:00 INFO Продукт сохранен: Футболка с принтом "РАХМАТ" (ID 36517):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:10:40+00:00 INFO Продукт сохранен: Худи "CLICK" (ID 36240):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "290000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:10:41+00:00 INFO Продукт сохранен: Худи "CLICK" (ID 36240):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "290000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:10:41+00:00 INFO Продукт сохранен: Худи "CLICK" (ID 36240):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "290000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:10:42+00:00 INFO Продукт сохранен: Худи "CLICK" (ID 36240):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "290000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:10:43+00:00 INFO Продукт сохранен: Худи "CLICK" (ID 36240):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "290000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:10:43+00:00 INFO Продукт сохранен: Футболка "NAVY BLUE" (ID 36237):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:10:44+00:00 INFO Продукт сохранен: Футболка "NAVY BLUE" (ID 36237):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:10:45+00:00 INFO Продукт сохранен: Футболка "NAVY BLUE" (ID 36237):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:10:45+00:00 INFO Продукт сохранен: Футболка "NAVY BLUE" (ID 36237):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:10:46+00:00 INFO Продукт сохранен: Футболка "NAVY BLUE" (ID 36237):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:10:47+00:00 INFO Продукт сохранен: Костюм двойка "BLACK" (ID 36239):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "470000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:10:48+00:00 INFO Продукт сохранен: Костюм двойка "BLACK" (ID 36239):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "470000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:10:52+00:00 INFO Продукт сохранен: Футболка "CLICK Classic" (ID 36236):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:10:52+00:00 INFO Продукт сохранен: Футболка "CLICK UP" (ID 36238):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:10:52+00:00 INFO Продукт сохранен: Футболка с принтом "РАХМАТ" (ID 36517):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:10:52+00:00 INFO Продукт сохранен: Худи "CLICK" (ID 36240):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "290000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:10:53+00:00 INFO Продукт сохранен: Футболка "NAVY BLUE" (ID 36237):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:10:53+00:00 INFO Продукт сохранен: Костюм двойка "BLACK" (ID 36239):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "470000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:10:53+00:00 INFO Продукт сохранен: Свитшот "Snowflake" (ID 36474):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "135000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:10:53+00:00 INFO Продукт сохранен: Футболка"ROBOCLICK" (ID 36475):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:10:53+00:00 INFO Продукт сохранен: Свитшот "ROMB Woman" (ID 36480):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "220000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:11:22+00:00 INFO Продукт сохранен: Костюм двойка "BLACK" (ID 36239):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "470000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:11:22+00:00 INFO Продукт сохранен: Костюм двойка "BLACK" (ID 36239):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "470000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:11:23+00:00 INFO Продукт сохранен: Костюм двойка "BLACK" (ID 36239):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "470000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:11:24+00:00 INFO Продукт сохранен: Футболка с принтом "ДАЙКЕШ" (ID 36520):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:11:24+00:00 INFO Продукт сохранен: Футболка с принтом "ДАЙКЕШ" (ID 36520):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:11:25+00:00 INFO Продукт сохранен: Футболка с принтом "ДАЙКЕШ" (ID 36520):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:11:26+00:00 INFO Продукт сохранен: Футболка с принтом "ДАЙКЕШ" (ID 36520):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:11:26+00:00 INFO Продукт сохранен: Футболка с принтом "ДАЙКЕШ" (ID 36520):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:11:27+00:00 INFO Продукт сохранен: Футболка с принтом "ДАЙКЕШ" (ID 36520):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:11:28+00:00 INFO Продукт сохранен: Футболка с принтом "ДАЙКЕШ" (ID 36520):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:11:28+00:00 INFO Продукт сохранен: Футболка с принтом "ДАЙКЕШ" (ID 36520):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:11:29+00:00 INFO Продукт сохранен: Футболка с принтом "ДАЙКЕШ" (ID 36520):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:11:30+00:00 INFO Продукт сохранен: Футболка с принтом "ДАЙКЕШ" (ID 36520):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:11:30+00:00 INFO Продукт сохранен: Шапка "CLICK" (ID 36643):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "65000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:11:31+00:00 INFO Продукт сохранен: Шапка "CLICK" (ID 36643):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "65000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:11:32+00:00 INFO Продукт сохранен: Шапка "CLICK" (ID 36643):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "65000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:11:32+00:00 INFO Продукт сохранен: Шапка "CLICK" (ID 36643):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "65000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:11:33+00:00 INFO Продукт сохранен: Футболка "FLOWERS" (ID 36677):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:11:34+00:00 INFO Продукт сохранен: Футболка "FLOWERS" (ID 36677):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:11:34+00:00 INFO Продукт сохранен: Футболка "FLOWERS" (ID 36677):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:11:35+00:00 INFO Продукт сохранен: Футболка "FLOWERS" (ID 36677):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:11:35+00:00 INFO Продукт сохранен: Футболка "FLOWERS" (ID 36677):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:11:36+00:00 INFO Продукт сохранен: Костюм  двойка "CLICKY Women" (ID 36244):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "400000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:11:37+00:00 INFO Продукт сохранен: Костюм  двойка "CLICKY Women" (ID 36244):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "400000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:11:37+00:00 INFO Продукт сохранен: Костюм  двойка "CLICKY Women" (ID 36244):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "400000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:11:39+00:00 INFO Продукт сохранен: Костюм  двойка "CLICKY Women" (ID 36244):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "400000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:11:39+00:00 INFO Продукт сохранен: Костюм  двойка "CLICKY Women" (ID 36244):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "400000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:11:40+00:00 INFO Продукт сохранен: Костюм двойка "CLICKY FLOWER" (ID 36518):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "400000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:11:41+00:00 INFO Продукт сохранен: Костюм двойка "CLICKY FLOWER" (ID 36518):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "400000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:11:41+00:00 INFO Продукт сохранен: Костюм двойка "CLICKY FLOWER" (ID 36518):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "400000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:11:42+00:00 INFO Продукт сохранен: Костюм двойка "BLACK" (ID 36239):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "470000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:11:42+00:00 INFO Продукт сохранен: Футболка с принтом "ДАЙКЕШ" (ID 36520):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:11:42+00:00 INFO Продукт сохранен: Шапка "CLICK" (ID 36643):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "65000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:11:43+00:00 INFO Продукт сохранен: Футболка "FLOWERS" (ID 36677):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:11:43+00:00 INFO Продукт сохранен: Костюм  двойка "CLICKY Women" (ID 36244):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "400000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:11:43+00:00 INFO Продукт сохранен: Костюм двойка "CLICKY FLOWER" (ID 36518):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "400000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:12:26+00:00 INFO Продукт сохранен: Костюм двойка "CLICKY FLOWER" (ID 36518):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "400000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:12:26+00:00 INFO Продукт сохранен: Костюм двойка "CLICKY FLOWER" (ID 36518):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "400000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:12:27+00:00 INFO Продукт сохранен: Костюм двойка "CLICKY FLOWER" (ID 36518):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "400000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:12:27+00:00 INFO Продукт сохранен: Костюм двойка "CLICKY FLOWER" (ID 36518):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "400000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:12:28+00:00 INFO Продукт сохранен: Костюм двойка "CLICKY FLOWER" (ID 36518):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "400000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:12:28+00:00 INFO Продукт сохранен: Костюм двойка "CLICKY FLOWER" (ID 36518):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "400000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:12:30+00:00 INFO Продукт сохранен: Костюм двойка "CLICKY FLOWER" (ID 36518):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "400000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:12:31+00:00 INFO Продукт сохранен: Костюм двойка"NAVY BLUE" (ID 36241):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "470000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:12:32+00:00 INFO Продукт сохранен: Костюм двойка"NAVY BLUE" (ID 36241):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "470000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:12:33+00:00 INFO Продукт сохранен: Костюм двойка"NAVY BLUE" (ID 36241):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "470000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:12:33+00:00 INFO Продукт сохранен: Костюм двойка"NAVY BLUE" (ID 36241):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "470000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:12:34+00:00 INFO Продукт сохранен: Костюм двойка"NAVY BLUE" (ID 36241):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "470000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:12:34+00:00 INFO Продукт сохранен: Свитшот "CASHBASKBUSTERS" (ID 36247):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "220000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:12:35+00:00 INFO Продукт сохранен: Свитшот "CASHBASKBUSTERS" (ID 36247):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "220000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:12:36+00:00 INFO Продукт сохранен: Свитшот "CASHBASKBUSTERS" (ID 36247):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "220000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:12:36+00:00 INFO Продукт сохранен: Свитшот "CASHBASKBUSTERS" (ID 36247):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "220000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:12:37+00:00 INFO Продукт сохранен: Свитшот "CASHBASKBUSTERS" (ID 36247):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "220000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:12:37+00:00 INFO Продукт сохранен: Худи "SPORTY" (ID 36245):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "290000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:12:38+00:00 INFO Продукт сохранен: Худи "SPORTY" (ID 36245):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "290000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:12:39+00:00 INFO Продукт сохранен: Худи "SPORTY" (ID 36245):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "290000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:12:39+00:00 INFO Продукт сохранен: Худи "SPORTY" (ID 36245):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "290000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:12:40+00:00 INFO Продукт сохранен: Худи "SPORTY" (ID 36245):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "290000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:12:41+00:00 INFO Продукт сохранен: Свитшот "PANDA Kids" (ID 36679):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "200000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:12:42+00:00 INFO Продукт сохранен: Свитшот "PANDA Kids" (ID 36679):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "200000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:12:43+00:00 INFO Продукт сохранен: Свитшот "PANDA Kids" (ID 36679):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "200000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:12:43+00:00 INFO Продукт сохранен: Свитшот "PANDA Kids" (ID 36679):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "200000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:12:44+00:00 INFO Продукт сохранен: Свитшот "PANDA Kids" (ID 36679):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "200000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:12:44+00:00 INFO Продукт сохранен: Костюм двойка "Dark Grey" (ID 36243):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "470000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:12:48+00:00 INFO Продукт сохранен: Костюм двойка "CLICKY FLOWER" (ID 36518):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "400000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:12:48+00:00 INFO Продукт сохранен: Шапка "CLICK" (ID 36643):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "65000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:12:49+00:00 INFO Продукт сохранен: Футболка "FLOWERS" (ID 36677):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:12:49+00:00 INFO Продукт сохранен: Футболка с принтом "ДАЙКЕШ" (ID 36520):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:12:49+00:00 INFO Продукт сохранен: Костюм двойка"NAVY BLUE" (ID 36241):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "470000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:12:49+00:00 INFO Продукт сохранен: Свитшот "CASHBASKBUSTERS" (ID 36247):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "220000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:12:49+00:00 INFO Продукт сохранен: Худи "SPORTY" (ID 36245):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "290000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:12:50+00:00 INFO Продукт сохранен: Свитшот "PANDA Kids" (ID 36679):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "200000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:12:50+00:00 INFO Продукт сохранен: Костюм двойка "Dark Grey" (ID 36243):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "470000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:12:50+00:00 INFO Продукт сохранен: Свитшот "Snowflake" (ID 36474):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "135000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:13:25+00:00 INFO Продукт сохранен: Костюм двойка "Dark Grey" (ID 36243):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "470000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:13:25+00:00 INFO Продукт сохранен: Костюм двойка "Dark Grey" (ID 36243):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "470000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:13:26+00:00 INFO Продукт сохранен: Костюм двойка "Dark Grey" (ID 36243):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "470000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:13:26+00:00 INFO Продукт сохранен: Костюм двойка "Dark Grey" (ID 36243):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "470000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:13:27+00:00 INFO Продукт сохранен: Рюкзак "CANDY" (ID 36519):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "350000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:13:28+00:00 INFO Продукт сохранен: Рюкзак "CANDY" (ID 36519):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "350000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:13:28+00:00 INFO Продукт сохранен: Рюкзак "CANDY" (ID 36519):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "350000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:13:29+00:00 INFO Продукт сохранен: Рюкзак "CANDY" (ID 36519):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "350000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:13:30+00:00 INFO Продукт сохранен: Костюм двойка"ICONS" (ID 36251):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "400000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:13:30+00:00 INFO Продукт сохранен: Футболка "White CLICK" (ID 36250):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:13:31+00:00 INFO Продукт сохранен: Футболка "White CLICK" (ID 36250):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:13:31+00:00 INFO Продукт сохранен: Футболка "White CLICK" (ID 36250):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:13:32+00:00 INFO Продукт сохранен: Футболка "White CLICK" (ID 36250):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:13:32+00:00 INFO Продукт сохранен: Футболка "White CLICK" (ID 36250):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:13:33+00:00 INFO Продукт сохранен: Костюм двойка"ICONS" (ID 36251):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "400000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:13:34+00:00 INFO Продукт сохранен: Свитшот "New Year Tree" (ID 36476):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "135000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:13:34+00:00 INFO Продукт сохранен: Свитшот "New Year Tree" (ID 36476):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "135000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:13:35+00:00 INFO Продукт сохранен: Свитшот "New Year Tree" (ID 36476):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "135000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:13:35+00:00 INFO Продукт сохранен: Свитшот "New Year Tree" (ID 36476):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "135000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:13:36+00:00 INFO Продукт сохранен: Свитшот "New Year Tree" (ID 36476):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "135000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:13:37+00:00 INFO Продукт сохранен: Костюм двойка"ICONS" (ID 36251):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "400000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:13:37+00:00 INFO Продукт сохранен: Сумка для ноутбука (ID 36248):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "400000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:13:38+00:00 INFO Продукт сохранен: Сумка для ноутбука (ID 36248):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "400000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:13:40+00:00 INFO Продукт сохранен: Костюм двойка "Dark Grey" (ID 36243):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "470000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:13:40+00:00 INFO Продукт сохранен: Рюкзак "CANDY" (ID 36519):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "350000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:13:40+00:00 INFO Продукт сохранен: Костюм двойка"ICONS" (ID 36251):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "400000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:13:40+00:00 INFO Продукт сохранен: Футболка "White CLICK" (ID 36250):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:13:41+00:00 INFO Продукт сохранен: Свитшот "New Year Tree" (ID 36476):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "135000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:13:41+00:00 INFO Продукт сохранен: Сумка для ноутбука (ID 36248):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "400000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:14:26+00:00 INFO Продукт сохранен: Футболка с принтом"NAQDBER" (ID 36532):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:14:27+00:00 INFO Продукт сохранен: Футболка с принтом"NAQDBER" (ID 36532):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:14:27+00:00 INFO Продукт сохранен: Футболка с принтом"NAQDBER" (ID 36532):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:14:28+00:00 INFO Продукт сохранен: Футболка с принтом"NAQDBER" (ID 36532):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:14:28+00:00 INFO Продукт сохранен: Футболка с принтом"NAQDBER" (ID 36532):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:14:29+00:00 INFO Продукт сохранен: Футболка с принтом"NAQDBER" (ID 36532):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:14:29+00:00 INFO Продукт сохранен: Футболка с принтом"NAQDBER" (ID 36532):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:14:30+00:00 INFO Продукт сохранен: Футболка с принтом"NAQDBER" (ID 36532):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:14:30+00:00 INFO Продукт сохранен: Футболка с принтом"NAQDBER" (ID 36532):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:14:31+00:00 INFO Продукт сохранен: Футболка с принтом"NAQDBER" (ID 36532):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:14:32+00:00 INFO Продукт сохранен: Костюм двойка"ICONS" (ID 36251):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "400000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:14:32+00:00 INFO Продукт сохранен: Костюм двойка"ICONS" (ID 36251):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "400000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:14:33+00:00 INFO Продукт сохранен: Костюм двойка"ICONS" (ID 36251):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "400000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:14:33+00:00 INFO Продукт сохранен: Костюм двойка"ICONS" (ID 36251):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "400000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:14:34+00:00 INFO Продукт сохранен: Костюм двойка"ICONS" (ID 36251):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "400000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:14:35+00:00 INFO Продукт сохранен: Костюм двойка"ICONS" (ID 36251):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "400000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:14:36+00:00 INFO Продукт сохранен: Костюм двойка "Casual Bling" (ID 36768):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "400000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:14:36+00:00 INFO Продукт сохранен: Костюм двойка "Casual Bling" (ID 36768):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "400000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:14:37+00:00 INFO Продукт сохранен: Костюм двойка "Casual Bling" (ID 36768):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "400000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:14:38+00:00 INFO Продукт сохранен: Костюм двойка "Casual Bling" (ID 36768):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "400000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:14:39+00:00 INFO Продукт сохранен: Костюм двойка "Casual Bling" (ID 36768):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "400000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:14:39+00:00 INFO Продукт сохранен: Костюм двойка "Casual Bling" (ID 36768):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "400000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:14:40+00:00 INFO Продукт сохранен: Костюм двойка "Casual Bling" (ID 36768):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "400000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:14:41+00:00 INFO Продукт сохранен: Костюм двойка "Casual Bling" (ID 36768):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "400000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:14:42+00:00 INFO Продукт сохранен: Костюм двойка "Casual Bling" (ID 36768):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "400000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:14:42+00:00 INFO Продукт сохранен: Костюм двойка "Casual Bling" (ID 36768):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "400000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:14:43+00:00 INFO Продукт сохранен: Костюм двойка"ICONS" (ID 36251):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "400000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:14:44+00:00 INFO Продукт сохранен: Футболка белая "CLICK" HR (ID 36478):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:14:44+00:00 INFO Продукт сохранен: Футболка белая "CLICK" HR (ID 36478):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:14:45+00:00 INFO Продукт сохранен: Футболка белая "CLICK" HR (ID 36478):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:14:49+00:00 INFO Продукт сохранен: Рюкзак "CANDY" (ID 36519):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "350000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:14:49+00:00 INFO Продукт сохранен: Свитшот "CASHBASKBUSTERS" (ID 36247):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "220000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:14:49+00:00 INFO Продукт сохранен: Сумка для ноутбука (ID 36248):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "400000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:14:49+00:00 INFO Продукт сохранен: Футболка "White CLICK" (ID 36250):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:14:50+00:00 INFO Продукт сохранен: Свитшот "New Year Tree" (ID 36476):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "135000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:14:50+00:00 INFO Продукт сохранен: Костюм двойка"ICONS" (ID 36251):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "400000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:14:50+00:00 INFO Продукт сохранен: Футболка с принтом"NAQDBER" (ID 36532):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:14:50+00:00 INFO Продукт сохранен: Костюм двойка "Casual Bling" (ID 36768):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "400000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:14:51+00:00 INFO Продукт сохранен: Футболка белая "CLICK" HR (ID 36478):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:15:23+00:00 INFO Продукт сохранен: Футболка белая "CLICK" HR (ID 36478):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:15:24+00:00 INFO Продукт сохранен: Футболка белая "CLICK" HR (ID 36478):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:15:25+00:00 INFO Продукт сохранен: Футболка "SQUARE" (ID 36872):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:15:26+00:00 INFO Продукт сохранен: Футболка "SQUARE" (ID 36872):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:15:27+00:00 INFO Продукт сохранен: Футболка "SQUARE" (ID 36872):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:15:29+00:00 INFO Продукт сохранен: Футболка "SQUARE" (ID 36872):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:15:30+00:00 INFO Продукт сохранен: Футболка "SQUARE" (ID 36872):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:15:31+00:00 INFO Продукт сохранен: Рюкзак "CLICK" (ID 36522):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "350000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:15:31+00:00 INFO Продукт сохранен: Рюкзак "CLICK" (ID 36522):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "350000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:15:32+00:00 INFO Продукт сохранен: Футболка с принтом "CLICKOВЕЦ" (ID 36533):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:15:33+00:00 INFO Продукт сохранен: Футболка с принтом "CLICKOВЕЦ" (ID 36533):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:15:33+00:00 INFO Продукт сохранен: Футболка с принтом "CLICKOВЕЦ" (ID 36533):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:15:36+00:00 INFO Продукт сохранен: Футболка с принтом "CLICKOВЕЦ" (ID 36533):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:15:36+00:00 INFO Продукт сохранен: Футболка с принтом "CLICKOВЕЦ" (ID 36533):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:15:37+00:00 INFO Продукт сохранен: Футболка с принтом "CLICKOВЕЦ" (ID 36533):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:15:38+00:00 INFO Продукт сохранен: Футболка с принтом "CLICKOВЕЦ" (ID 36533):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:15:38+00:00 INFO Продукт сохранен: Футболка с принтом "CLICKOВЕЦ" (ID 36533):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:15:39+00:00 INFO Продукт сохранен: Футболка с принтом "CLICKOВЕЦ" (ID 36533):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:15:39+00:00 INFO Продукт сохранен: Футболка с принтом "CLICKOВЕЦ" (ID 36533):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:15:40+00:00 INFO Продукт сохранен: Рюкзак "CANDY" ромб (ID 36521):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "350000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:15:41+00:00 INFO Продукт сохранен: Рюкзак "CANDY" ромб (ID 36521):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "350000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:15:41+00:00 INFO Продукт сохранен: Рюкзак "CANDY" ромб (ID 36521):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "350000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:15:42+00:00 INFO Продукт сохранен: Рюкзак "CANDY" ромб (ID 36521):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "350000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:15:42+00:00 INFO Продукт сохранен: Костюм двойка "Casual" (ID 36769):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "400000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:15:43+00:00 INFO Продукт сохранен: Костюм двойка "Casual" (ID 36769):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "400000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:15:44+00:00 INFO Продукт сохранен: Костюм двойка "Casual" (ID 36769):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "400000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:15:45+00:00 INFO Продукт сохранен: Костюм двойка "Casual" (ID 36769):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "400000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:15:45+00:00 INFO Продукт сохранен: Костюм двойка "Casual" (ID 36769):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "400000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:15:46+00:00 INFO Продукт сохранен: Костюм двойка "Casual" (ID 36769):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "400000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:15:47+00:00 INFO Продукт сохранен: Костюм двойка "Casual" (ID 36769):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "400000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:15:48+00:00 INFO Продукт сохранен: Футболка белая "CLICK" HR (ID 36478):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:15:48+00:00 INFO Продукт сохранен: Футболка "SQUARE" (ID 36872):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:15:48+00:00 INFO Продукт сохранен: Рюкзак "CLICK" (ID 36522):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "350000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:15:48+00:00 INFO Продукт сохранен: Футболка с принтом "CLICKOВЕЦ" (ID 36533):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:15:49+00:00 INFO Продукт сохранен: Рюкзак "CANDY" ромб (ID 36521):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "350000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:15:49+00:00 INFO Продукт сохранен: Костюм двойка "Casual" (ID 36769):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "400000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:16:26+00:00 INFO Продукт сохранен: Костюм двойка "Casual" (ID 36769):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "400000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:16:26+00:00 INFO Продукт сохранен: Костюм двойка "Casual" (ID 36769):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "400000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:16:27+00:00 INFO Продукт сохранен: Костюм двойка "Casual" (ID 36769):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "400000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:16:28+00:00 INFO Продукт сохранен: Худи "CLICKY Women" (ID 36681):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "220000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:16:28+00:00 INFO Продукт сохранен: Худи "CLICKY Women" (ID 36681):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "220000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:16:29+00:00 INFO Продукт сохранен: Худи "CLICKY Women" (ID 36681):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "220000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:16:29+00:00 INFO Продукт сохранен: Худи "CLICKY Women" (ID 36681):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "220000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:16:30+00:00 INFO Продукт сохранен: Худи "CLICKY Women" (ID 36681):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "220000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:16:31+00:00 INFO Продукт сохранен: Свитшот "ROMB Girl" (ID 36531):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "180000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:16:31+00:00 INFO Продукт сохранен: Свитшот "ROMB Girl" (ID 36531):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "180000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:16:32+00:00 INFO Продукт сохранен: Свитшот "ROMB Girl" (ID 36531):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "180000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:16:33+00:00 INFO Продукт сохранен: Чехол для телефона "ICONS" (ID 36771):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "120000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:16:33+00:00 INFO Продукт сохранен: Чехол для телефона "ICONS" (ID 36771):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "120000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:16:34+00:00 INFO Продукт сохранен: Свитшот"BORDERLESS" (ID 36255):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "210000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:16:34+00:00 INFO Продукт сохранен: Свитшот"BORDERLESS" (ID 36255):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "210000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:16:35+00:00 INFO Продукт сохранен: Свитшот"BORDERLESS" (ID 36255):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "210000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:16:36+00:00 INFO Продукт сохранен: Свитшот"BORDERLESS" (ID 36255):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "210000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:16:36+00:00 INFO Продукт сохранен: Свитшот"BORDERLESS" (ID 36255):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "210000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:16:37+00:00 INFO Продукт сохранен: Футболка "Rectangle" (ID 36256):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:16:37+00:00 INFO Продукт сохранен: Футболка "Rectangle" (ID 36256):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:16:38+00:00 INFO Продукт сохранен: Футболка "Rectangle" (ID 36256):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:16:39+00:00 INFO Продукт сохранен: Футболка "Rectangle" (ID 36256):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:16:39+00:00 INFO Продукт сохранен: Футболка "Rectangle" (ID 36256):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:16:40+00:00 INFO Продукт сохранен: Свитшот "ROMB MAN" (ID 36683):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "220000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:16:41+00:00 INFO Продукт сохранен: Свитшот "ROMB MAN" (ID 36683):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "220000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:16:41+00:00 INFO Продукт сохранен: Свитшот "ROMB MAN" (ID 36683):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "220000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:16:42+00:00 INFO Продукт сохранен: Свитшот "ROMB MAN" (ID 36683):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "220000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:16:43+00:00 INFO Продукт сохранен: Футболка с принтом "РАХМАТ" (ID 36535):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:16:44+00:00 INFO Продукт сохранен: Свитшот "ROMB MAN" (ID 36683):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "220000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:16:45+00:00 INFO Продукт сохранен: Футболка с принтом "РАХМАТ" (ID 36535):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:16:46+00:00 INFO Продукт сохранен: Рюкзак "CLICK" (ID 36522):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "350000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:16:46+00:00 INFO Продукт сохранен: Футболка с принтом"NAQDBER" (ID 36532):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:16:46+00:00 INFO Продукт сохранен: Костюм двойка "Casual" (ID 36769):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "400000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:16:46+00:00 INFO Продукт сохранен: Футболка с принтом "CLICKOВЕЦ" (ID 36533):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:16:47+00:00 INFO Продукт сохранен: Худи "CLICKY Women" (ID 36681):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "220000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:16:47+00:00 INFO Продукт сохранен: Свитшот "ROMB Girl" (ID 36531):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "180000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:16:47+00:00 INFO Продукт сохранен: Чехол для телефона "ICONS" (ID 36771):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "120000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:16:47+00:00 INFO Продукт сохранен: Свитшот"BORDERLESS" (ID 36255):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "210000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:16:48+00:00 INFO Продукт сохранен: Футболка "Rectangle" (ID 36256):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:16:48+00:00 INFO Продукт сохранен: Свитшот "ROMB MAN" (ID 36683):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "220000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:16:48+00:00 INFO Продукт сохранен: Футболка с принтом "РАХМАТ" (ID 36535):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:17:26+00:00 INFO Продукт сохранен: Футболка с принтом "РАХМАТ" (ID 36535):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:17:27+00:00 INFO Продукт сохранен: Футболка с принтом "РАХМАТ" (ID 36535):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:17:28+00:00 INFO Продукт сохранен: Футболка с принтом "РАХМАТ" (ID 36535):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:17:28+00:00 INFO Продукт сохранен: Футболка с принтом "РАХМАТ" (ID 36535):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:17:29+00:00 INFO Продукт сохранен: Футболка с принтом "РАХМАТ" (ID 36535):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:17:29+00:00 INFO Продукт сохранен: Футболка с принтом "РАХМАТ" (ID 36535):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:17:30+00:00 INFO Продукт сохранен: Футболка с принтом "РАХМАТ" (ID 36535):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:17:31+00:00 INFO Продукт сохранен: Футболка с принтом "РАХМАТ" (ID 36535):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:17:31+00:00 INFO Продукт сохранен: Костюм двойка "RED" (ID 36254):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "470000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:17:32+00:00 INFO Продукт сохранен: Костюм двойка "RED" (ID 36254):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "470000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:17:33+00:00 INFO Продукт сохранен: Костюм двойка "RED" (ID 36254):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "470000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:17:33+00:00 INFO Продукт сохранен: Костюм двойка "RED" (ID 36254):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "470000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:17:34+00:00 INFO Продукт сохранен: Костюм двойка "RED" (ID 36254):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "470000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:17:35+00:00 INFO Продукт сохранен: Футболка "YELLOW" (ID 36258):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:17:35+00:00 INFO Продукт сохранен: Футболка "YELLOW" (ID 36258):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:17:37+00:00 INFO Продукт сохранен: Футболка "YELLOW" (ID 36258):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:17:38+00:00 INFO Продукт сохранен: Футболка "YELLOW" (ID 36258):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:17:39+00:00 INFO Продукт сохранен: Футболка "YELLOW" (ID 36258):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:17:39+00:00 INFO Продукт сохранен: Свитшот "IN CLICK WE TRUST" (ID 36257):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "180000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:17:40+00:00 INFO Продукт сохранен: Свитшот "IN CLICK WE TRUST" (ID 36257):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "180000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:17:41+00:00 INFO Продукт сохранен: Свитшот "IN CLICK WE TRUST" (ID 36257):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "180000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:17:41+00:00 INFO Продукт сохранен: Свитшот "IN CLICK WE TRUST" (ID 36257):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "180000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:17:42+00:00 INFO Продукт сохранен: Свитшот "IN CLICK WE TRUST" (ID 36257):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "180000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:17:42+00:00 INFO Продукт сохранен: Футболка спринтом "CLICKCHI" (ID 36536):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:17:43+00:00 INFO Продукт сохранен: Футболка спринтом "CLICKCHI" (ID 36536):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:17:44+00:00 INFO Продукт сохранен: Футболка спринтом "CLICKCHI" (ID 36536):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:17:44+00:00 INFO Продукт сохранен: Футболка спринтом "CLICKCHI" (ID 36536):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:17:45+00:00 INFO Продукт сохранен: Футболка спринтом "CLICKCHI" (ID 36536):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:17:46+00:00 INFO Продукт сохранен: Футболка спринтом "CLICKCHI" (ID 36536):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:17:46+00:00 INFO Продукт сохранен: Футболка спринтом "CLICKCHI" (ID 36536):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:17:47+00:00 INFO Продукт сохранен: Рюкзак "CANDY" ромб (ID 36521):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "350000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:17:48+00:00 INFO Продукт сохранен: Свитшот "ROMB Girl" (ID 36531):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "180000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:17:48+00:00 INFO Продукт сохранен: Костюм двойка "Casual" (ID 36769):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "400000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:17:48+00:00 INFO Продукт сохранен: Худи "CLICKY Women" (ID 36681):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "220000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:17:48+00:00 INFO Продукт сохранен: Чехол для телефона "ICONS" (ID 36771):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "120000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:17:48+00:00 INFO Продукт сохранен: Свитшот "ROMB MAN" (ID 36683):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "220000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:17:49+00:00 INFO Продукт сохранен: Футболка с принтом "РАХМАТ" (ID 36535):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:17:49+00:00 INFO Продукт сохранен: Костюм двойка "RED" (ID 36254):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "470000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:17:49+00:00 INFO Продукт сохранен: Футболка "YELLOW" (ID 36258):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:17:49+00:00 INFO Продукт сохранен: Свитшот "IN CLICK WE TRUST" (ID 36257):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "180000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:17:50+00:00 INFO Продукт сохранен: Футболка спринтом "CLICKCHI" (ID 36536):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:18:26+00:00 INFO Продукт сохранен: Футболка спринтом "CLICKCHI" (ID 36536):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:18:27+00:00 INFO Продукт сохранен: Футболка спринтом "CLICKCHI" (ID 36536):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:18:27+00:00 INFO Продукт сохранен: Футболка спринтом "CLICKCHI" (ID 36536):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:18:28+00:00 INFO Продукт сохранен: Футболка(без принта, тёмно-синяя) HR (ID 36479):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "0", "regular_price": "", "sale_price": "" }
+2022-03-02T08:18:29+00:00 INFO Продукт сохранен: Футболка(без принта, тёмно-синяя) HR (ID 36479):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "0", "regular_price": "", "sale_price": "" }
+2022-03-02T08:18:29+00:00 INFO Продукт сохранен: Футболка(без принта, тёмно-синяя) HR (ID 36479):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "0", "regular_price": "", "sale_price": "" }
+2022-03-02T08:18:30+00:00 INFO Продукт сохранен: Футболка(без принта, тёмно-синяя) HR (ID 36479):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "0", "regular_price": "", "sale_price": "" }
+2022-03-02T08:18:30+00:00 INFO Продукт сохранен: Футболка(без принта, тёмно-синяя) HR (ID 36479):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "0", "regular_price": "", "sale_price": "" }
+2022-03-02T08:18:31+00:00 INFO Продукт сохранен: Свитшот "HEART" (ID 36755):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "220000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:18:31+00:00 INFO Продукт сохранен: Свитшот "HEART" (ID 36755):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "220000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:18:32+00:00 INFO Продукт сохранен: Свитшот "HEART" (ID 36755):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "220000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:18:33+00:00 INFO Продукт сохранен: Свитшот "HEART" (ID 36755):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "220000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:18:33+00:00 INFO Продукт сохранен: Свитшот "HEART" (ID 36755):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "220000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:18:34+00:00 INFO Продукт сохранен: Свитшот "HEART" (ID 36755):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "220000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:18:34+00:00 INFO Продукт сохранен: Свитшот "HEART" (ID 36755):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "220000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:18:35+00:00 INFO Продукт сохранен: Свитшот "HEART" (ID 36755):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "220000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:18:35+00:00 INFO Продукт сохранен: Свитшот "HEART" (ID 36755):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "220000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:18:36+00:00 INFO Продукт сохранен: Свитшот "HEART" (ID 36755):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "220000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:18:37+00:00 INFO Продукт сохранен: Чехол для телефона "CHIP" (ID 36767):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "120000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:18:37+00:00 INFO Продукт сохранен: Чехол для телефона "CHIP" (ID 36767):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "120000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:18:38+00:00 INFO Продукт сохранен: Чехол для телефона "CHIP" (ID 36767):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "120000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:18:38+00:00 INFO Продукт сохранен: Чехол для телефона "CHIP" (ID 36767):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "120000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:18:39+00:00 INFO Продукт сохранен: Чехол для телефона "CHIP" (ID 36767):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "120000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:18:40+00:00 INFO Продукт сохранен: Свитшот "INFINITY KIDS" (ID 36477):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "180000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:18:40+00:00 INFO Продукт сохранен: Свитшот "INFINITY KIDS" (ID 36477):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "180000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:18:41+00:00 INFO Продукт сохранен: Свитшот "INFINITY KIDS" (ID 36477):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "180000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:18:41+00:00 INFO Продукт сохранен: Футболка"ABSTRACTION" (ID 36260):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:18:42+00:00 INFO Продукт сохранен: Футболка"ABSTRACTION" (ID 36260):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:18:43+00:00 INFO Продукт сохранен: Футболка"ABSTRACTION" (ID 36260):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:18:43+00:00 INFO Продукт сохранен: Футболка"ABSTRACTION" (ID 36260):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:18:48+00:00 INFO Продукт сохранен: Рюкзак "CANDY" ромб (ID 36521):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "350000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:18:48+00:00 INFO Продукт сохранен: Рюкзак "CLICK" (ID 36522):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "350000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:18:48+00:00 INFO Продукт сохранен: Свитшот "ROMB Girl" (ID 36531):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "180000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:18:49+00:00 INFO Продукт сохранен: Футболка белая "CLICK" HR (ID 36478):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:18:49+00:00 INFO Продукт сохранен: Футболка с принтом "РАХМАТ" (ID 36535):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:18:49+00:00 INFO Продукт сохранен: Футболка спринтом "CLICKCHI" (ID 36536):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:18:49+00:00 INFO Продукт сохранен: Футболка(без принта, тёмно-синяя) HR (ID 36479):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "0", "regular_price": "", "sale_price": "" }
+2022-03-02T08:18:50+00:00 INFO Продукт сохранен: Свитшот "HEART" (ID 36755):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "220000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:18:50+00:00 INFO Продукт сохранен: Чехол для телефона "CHIP" (ID 36767):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "120000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:18:50+00:00 INFO Продукт сохранен: Свитшот "INFINITY KIDS" (ID 36477):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "180000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:18:51+00:00 INFO Продукт сохранен: Футболка"ABSTRACTION" (ID 36260):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:19:22+00:00 INFO Продукт сохранен: Футболка"ABSTRACTION" (ID 36260):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:19:23+00:00 INFO Продукт сохранен: Мокнек "Flowers" (ID 36537):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "250000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:19:24+00:00 INFO Продукт сохранен: Мокнек "Flowers" (ID 36537):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "250000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:19:24+00:00 INFO Продукт сохранен: Мокнек "Flowers" (ID 36537):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "250000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:19:25+00:00 INFO Продукт сохранен: Мокнек "Flowers" (ID 36537):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "250000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:19:25+00:00 INFO Продукт сохранен: Мокнек "Flowers" (ID 36537):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "250000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:19:26+00:00 INFO Продукт сохранен: Костюм двойка "GREY" (ID 36259):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "470000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:19:27+00:00 INFO Продукт сохранен: Костюм двойка "GREY" (ID 36259):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "470000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:19:27+00:00 INFO Продукт сохранен: Костюм двойка "GREY" (ID 36259):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "470000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:19:28+00:00 INFO Продукт сохранен: Костюм двойка "GREY" (ID 36259):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "470000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:19:28+00:00 INFO Продукт сохранен: Костюм двойка "GREY" (ID 36259):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "470000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:19:33+00:00 INFO Продукт сохранен: Футболка"ABSTRACTION" (ID 36260):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:19:33+00:00 INFO Продукт сохранен: Мокнек "Flowers" (ID 36537):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "250000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:19:33+00:00 INFO Продукт сохранен: Костюм двойка "GREY" (ID 36259):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "470000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:19:34+00:00 INFO Продукт сохранен: Свитшот "INFINITY KIDS" (ID 36477):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "180000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:19:34+00:00 INFO Продукт сохранен: Футболка(без принта, тёмно-синяя) HR (ID 36479):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "0", "regular_price": "", "sale_price": "" }
+2022-03-02T08:20:27+00:00 INFO Продукт сохранен: Костюм двойка "RED" (ID 36254):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "470000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:20:27+00:00 INFO Продукт сохранен: Свитшот"BORDERLESS" (ID 36255):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "210000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:20:27+00:00 INFO Продукт сохранен: Футболка "Rectangle" (ID 36256):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:20:27+00:00 INFO Продукт сохранен: Свитшот "IN CLICK WE TRUST" (ID 36257):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "180000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:20:27+00:00 INFO Продукт сохранен: Футболка "YELLOW" (ID 36258):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:20:27+00:00 INFO Продукт сохранен: Костюм двойка "GREY" (ID 36259):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "470000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:21:25+00:00 INFO Продукт сохранен: Костюм двойка "RED" (ID 36896):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "470000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:21:26+00:00 INFO Продукт сохранен: Костюм  двойка "CLICKY Women" (ID 36244):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "400000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:21:26+00:00 INFO Продукт сохранен: Худи "SPORTY" (ID 36245):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "290000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:21:26+00:00 INFO Продукт сохранен: Свитшот "CASHBASKBUSTERS" (ID 36247):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "220000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:21:26+00:00 INFO Продукт сохранен: Костюм двойка"ICONS" (ID 36251):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "400000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:21:26+00:00 INFO Продукт сохранен: Костюм двойка "RED" (ID 36896):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "470000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:21:26+00:00 INFO Продукт сохранен: Костюм двойка "RED" (ID 36254):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "470000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:21:27+00:00 INFO Продукт сохранен: Свитшот"BORDERLESS" (ID 36255):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "210000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:22:26+00:00 INFO Продукт сохранен: Худи "CLICK" (ID 36240):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "290000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:22:27+00:00 INFO Продукт сохранен: Костюм двойка"NAVY BLUE" (ID 36241):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "470000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:22:27+00:00 INFO Продукт сохранен: Костюм двойка "Dark Grey" (ID 36243):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "470000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:22:27+00:00 INFO Продукт сохранен: Костюм  двойка "CLICKY Women" (ID 36244):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "400000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:22:27+00:00 INFO Продукт сохранен: Костюм двойка "BLACK" (ID 36239):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "470000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:22:27+00:00 INFO Продукт сохранен: Костюм двойка "Casual Bling" без манжета ( тёмн. принт) (ID 36685):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "0", "regular_price": "", "sale_price": "" }
+2022-03-02T08:22:28+00:00 INFO Продукт сохранен: Костюм двойка "Casual Bling" без манжета ( свет. принт) (ID 36684):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "0", "regular_price": "", "sale_price": "" }
+2022-03-02T08:22:28+00:00 INFO Продукт сохранен: Костюм двойка "Casual Bling" с манжетом (свет. принт) (ID 36682):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "0", "regular_price": "", "sale_price": "" }
+2022-03-02T08:22:28+00:00 INFO Продукт сохранен: Футболка с принтом "РАХМАТ"(тёмно-синий) (ID 36680):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "0", "regular_price": "", "sale_price": "" }
+2022-03-02T08:22:43+00:00 INFO Продукт сохранен: Свитшот "CLICK CLASSIC" (ID 36235):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "220000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:22:43+00:00 INFO Продукт сохранен: Футболка "NAVY BLUE" (ID 36237):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:22:43+00:00 INFO Продукт сохранен: Футболка "CLICK UP" (ID 36238):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:22:43+00:00 INFO Продукт сохранен: Футболка "CLICK Classic" (ID 36236):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:22:43+00:00 INFO Продукт сохранен: Костюм двойка "BLACK" (ID 36239):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "470000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:22:43+00:00 INFO Продукт сохранен: Термостакан"CLICK" (ID 36272):
+{ "status": "publish", "type": "simple", "catalog_visibility": "visible", "price": "150000", "regular_price": "150000", "sale_price": "" }
+2022-03-02T08:22:51+00:00 INFO Продукт сохранен: Свитшот "INFINITY Man" (ID 36231):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "220000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:22:51+00:00 INFO Продукт сохранен: Футболка "Squid Game" (ID 36233):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:22:51+00:00 INFO Продукт сохранен: Костюм двойка"ICONS" (ID 36251):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "400000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:22:51+00:00 INFO Продукт сохранен: Термостакан"ICONS" (ID 36252):
+{ "status": "publish", "type": "simple", "catalog_visibility": "visible", "price": "150000", "regular_price": "150000", "sale_price": "" }
+2022-03-02T08:22:51+00:00 INFO Продукт сохранен: Свитшот "CLICK 2" (ID 36234):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "220000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:22:52+00:00 INFO Продукт сохранен: Свитшот"BORDERLESS" (ID 36255):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "210000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:22:52+00:00 INFO Продукт сохранен: Свитшот "CLICK CLASSIC" (ID 36235):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "220000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:22:52+00:00 INFO Продукт сохранен: Футболка "Rectangle" (ID 36256):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:22:52+00:00 INFO Продукт сохранен: Костюм двойка "BEIGE" (ID 36232):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "470000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:22:52+00:00 INFO Продукт сохранен: Свитшот "IN CLICK WE TRUST" (ID 36257):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "180000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:22:52+00:00 INFO Продукт сохранен: Футболка "YELLOW" (ID 36258):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:22:52+00:00 INFO Продукт сохранен: Костюм двойка "GREY" (ID 36259):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "470000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:22:52+00:00 INFO Продукт сохранен: Футболка"ABSTRACTION" (ID 36260):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "158000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:22:53+00:00 INFO Продукт сохранен: Костюм двойка "BEIGE" (ID 36232):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "470000", "regular_price": "", "sale_price": "" }
+2022-03-02T08:23:01+00:00 INFO Продукт сохранен: Свитшот "INFINITY Man" (ID 36231):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "220000", "regular_price": "", "sale_price": "" }
+2022-03-02T09:10:42+00:00 INFO Продукт сохранен: ШнурUSB Lightning (iPhone) Nylon (ID 36846):
+{ "status": "draft", "type": "simple", "catalog_visibility": "visible", "price": "45000", "regular_price": "45000", "sale_price": "" }
+2022-03-02T09:15:30+00:00 INFO Продукт сохранен: Шнур USB Lightning iPhone (ID 36846):
+{ "status": "draft", "type": "simple", "catalog_visibility": "visible", "price": "45000", "regular_price": "45000", "sale_price": "" }
+2022-03-02T09:15:30+00:00 INFO Продукт сохранен: Шнур USB Lightning iPhone (ID 36846):
+{ "status": "draft", "type": "simple", "catalog_visibility": "visible", "price": "45000", "regular_price": "45000", "sale_price": "" }
+2022-03-02T09:15:33+00:00 INFO Продукт сохранен: Шнур USB Lightning iPhone (ID 36846):
+{ "status": "publish", "type": "simple", "catalog_visibility": "visible", "price": "45000", "regular_price": "45000", "sale_price": "" }
+2022-03-02T09:15:34+00:00 INFO Продукт сохранен: Шнур USB Lightning iPhone (ID 36846):
+{ "status": "publish", "type": "simple", "catalog_visibility": "visible", "price": "45000", "regular_price": "45000", "sale_price": "" }
+2022-03-02T09:18:34+00:00 INFO Продукт сохранен: Шнур USB Lightning iPhone (ID 36846):
+{ "status": "publish", "type": "simple", "catalog_visibility": "visible", "price": "45000", "regular_price": "45000", "sale_price": "" }
+2022-03-02T09:18:34+00:00 INFO Продукт сохранен: Шнур USB Lightning iPhone (ID 36846):
+{ "status": "publish", "type": "simple", "catalog_visibility": "visible", "price": "45000", "regular_price": "45000", "sale_price": "" }
+2022-03-02T09:19:16+00:00 INFO Продукт сохранен: Костюм двойка "Casual Bling" (ID 36768):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "400000", "regular_price": "", "sale_price": "" }
+2022-03-02T09:21:11+00:00 INFO Продукт сохранен: Костюм двойка "Casual Bling" (ID 36768):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "400000", "regular_price": "", "sale_price": "" }
+2022-03-02T09:21:12+00:00 INFO Продукт сохранен: Костюм двойка "Casual Bling" (ID 36768):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "400000", "regular_price": "", "sale_price": "" }
+2022-03-02T09:23:42+00:00 INFO Продукт сохранен: Костюм двойка "Casual Bling" без манжета ( тёмн. принт) (ID 36685):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "0", "regular_price": "", "sale_price": "" }
+2022-03-02T09:23:42+00:00 INFO Продукт сохранен: Костюм двойка "Casual Bling" без манжета ( свет. принт) (ID 36684):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "0", "regular_price": "", "sale_price": "" }
+2022-03-02T09:23:43+00:00 INFO Продукт сохранен: Костюм двойка "Casual Bling" с манжетом (свет. принт) (ID 36682):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "0", "regular_price": "", "sale_price": "" }
+2022-03-02T09:23:43+00:00 INFO Продукт сохранен: Футболка с принтом "РАХМАТ"(тёмно-синий) (ID 36680):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "0", "regular_price": "", "sale_price": "" }
+2022-03-02T09:24:44+00:00 INFO Продукт сохранен: Костюм двойка "Casual Bling" (ID 36768):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "400000", "regular_price": "", "sale_price": "" }
+2022-03-02T09:24:44+00:00 INFO Продукт сохранен: Костюм двойка "Casual Bling" (ID 36768):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "400000", "regular_price": "", "sale_price": "" }
+2022-03-02T09:25:16+00:00 INFO Продукт сохранен: Костюм двойка "Casual Bling" (ID 36768):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "400000", "regular_price": "", "sale_price": "" }
+2022-03-02T09:25:18+00:00 INFO Продукт сохранен: Костюм двойка "Casual Bling" (ID 36768):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "400000", "regular_price": "", "sale_price": "" }
+2022-03-02T09:25:18+00:00 INFO Продукт сохранен: Костюм двойка "Casual Bling" (ID 36768):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "400000", "regular_price": "", "sale_price": "" }
+2022-03-02T10:25:58+00:00 INFO Продукт сохранен: Костюм двойка "Casual Bling" без манжета ( тёмн. принт) (ID 36685):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "0", "regular_price": "", "sale_price": "" }
+2022-03-02T10:25:58+00:00 INFO Продукт сохранен: Костюм двойка "Casual Bling" без манжета ( свет. принт) (ID 36684):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "0", "regular_price": "", "sale_price": "" }
+2022-03-02T10:25:58+00:00 INFO Продукт сохранен: Костюм двойка "Casual Bling" с манжетом (свет. принт) (ID 36682):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "0", "regular_price": "", "sale_price": "" }
+2022-03-02T10:25:58+00:00 INFO Продукт сохранен: Футболка с принтом "РАХМАТ"(тёмно-синий) (ID 36680):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "0", "regular_price": "", "sale_price": "" }
+2022-03-02T14:58:02+00:00 INFO Продукт сохранен: Костюм двойка "Casual Bling" без манжета ( тёмн. принт) (ID 36685):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "0", "regular_price": "", "sale_price": "" }
+2022-03-02T14:58:02+00:00 INFO Продукт сохранен: Костюм двойка "Casual Bling" без манжета ( свет. принт) (ID 36684):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "0", "regular_price": "", "sale_price": "" }
+2022-03-02T14:58:03+00:00 INFO Продукт сохранен: Костюм двойка "Casual Bling" с манжетом (свет. принт) (ID 36682):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "0", "regular_price": "", "sale_price": "" }
+2022-03-02T14:58:03+00:00 INFO Продукт сохранен: Футболка с принтом "РАХМАТ"(тёмно-синий) (ID 36680):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "0", "regular_price": "", "sale_price": "" }
+2022-03-02T17:08:38+00:00 INFO Продукт сохранен: Костюм двойка "Casual Bling" без манжета ( тёмн. принт) (ID 36685):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "0", "regular_price": "", "sale_price": "" }
+2022-03-02T17:08:39+00:00 INFO Продукт сохранен: Костюм двойка "Casual Bling" без манжета ( свет. принт) (ID 36684):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "0", "regular_price": "", "sale_price": "" }
+2022-03-02T17:08:39+00:00 INFO Продукт сохранен: Костюм двойка "Casual Bling" с манжетом (свет. принт) (ID 36682):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "0", "regular_price": "", "sale_price": "" }
+2022-03-02T17:08:39+00:00 INFO Продукт сохранен: Футболка с принтом "РАХМАТ"(тёмно-синий) (ID 36680):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "0", "regular_price": "", "sale_price": "" }
+2022-03-02T17:09:21+00:00 INFO Продукт сохранен: Чехол для телефона "ICONS" (ID 36771):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "120000", "regular_price": "", "sale_price": "" }
+2022-03-02T17:09:41+00:00 INFO Продукт сохранен: Чехол для телефона "ICONS" (ID 36771):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "120000", "regular_price": "", "sale_price": "" }
+2022-03-02T17:09:46+00:00 INFO Продукт сохранен: Чехол для телефона "ICONS" (ID 36771):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "120000", "regular_price": "", "sale_price": "" }
+2022-03-02T17:09:46+00:00 INFO Продукт сохранен: Чехол для телефона "ICONS" (ID 36771):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "120000", "regular_price": "", "sale_price": "" }
+2022-03-02T17:09:47+00:00 INFO Продукт сохранен: Чехол для телефона "ICONS" (ID 36771):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "120000", "regular_price": "", "sale_price": "" }
+2022-03-02T17:09:47+00:00 INFO Продукт сохранен: Чехол для телефона "ICONS" (ID 36771):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "120000", "regular_price": "", "sale_price": "" }
+2022-03-02T17:15:21+00:00 INFO Продукт сохранен: Чехол для телефона "ICONS" (ID 36771):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "120000", "regular_price": "", "sale_price": "" }
+2022-03-02T17:15:21+00:00 INFO Продукт сохранен: Чехол для телефона "ICONS" (ID 36771):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "120000", "regular_price": "", "sale_price": "" }
+2022-03-02T17:15:27+00:00 INFO Продукт сохранен: Чехол для телефона "ICONS" (ID 36771):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "120000", "regular_price": "", "sale_price": "" }
+2022-03-02T17:15:27+00:00 INFO Продукт сохранен: Чехол для телефона "ICONS" (ID 36771):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "120000", "regular_price": "", "sale_price": "" }
+2022-03-02T17:17:38+00:00 INFO Продукт сохранен: Чехол для телефона "CHIP" (ID 36767):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "120000", "regular_price": "", "sale_price": "" }
+2022-03-02T17:17:43+00:00 INFO Продукт сохранен: Чехол для телефона "CHIP" (ID 36767):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "120000", "regular_price": "", "sale_price": "" }
+2022-03-02T17:17:51+00:00 INFO Продукт сохранен: Чехол для телефона "CHIP" (ID 36767):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "120000", "regular_price": "", "sale_price": "" }
+2022-03-02T17:17:51+00:00 INFO Продукт сохранен: Чехол для телефона "CHIP" (ID 36767):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "120000", "regular_price": "", "sale_price": "" }
+2022-03-02T17:21:44+00:00 INFO Продукт сохранен: Свитшот "HEART" (ID 36755):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "220000", "regular_price": "", "sale_price": "" }
+2022-03-02T17:21:44+00:00 INFO Продукт сохранен: Свитшот "HEART" (ID 36755):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "220000", "regular_price": "", "sale_price": "" }
+2022-03-02T17:22:59+00:00 INFO Продукт сохранен: Свитшот "HEART" (ID 36755):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "220000", "regular_price": "", "sale_price": "" }
+2022-03-02T17:22:59+00:00 INFO Продукт сохранен: Свитшот "HEART" (ID 36755):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "220000", "regular_price": "", "sale_price": "" }
+2022-03-02T17:27:04+00:00 INFO Продукт сохранен: Свитшот "HEART" (ID 36755):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "220000", "regular_price": "", "sale_price": "" }
+2022-03-02T17:27:04+00:00 INFO Продукт сохранен: Свитшот "HEART" (ID 36755):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "220000", "regular_price": "", "sale_price": "" }
+2022-03-02T17:31:08+00:00 INFO Продукт сохранен: Свитшот "PANDA" (ID 36675):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "220000", "regular_price": "", "sale_price": "" }
+2022-03-02T17:31:09+00:00 INFO Продукт сохранен: Свитшот "PANDA" (ID 36675):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "220000", "regular_price": "", "sale_price": "" }
+2022-03-02T17:31:49+00:00 INFO Продукт сохранен: Свитшот "PANDA" (ID 36675):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "220000", "regular_price": "", "sale_price": "" }
+2022-03-02T17:31:49+00:00 INFO Продукт сохранен: Свитшот "PANDA" (ID 36675):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "220000", "regular_price": "", "sale_price": "" }
+2022-03-02T17:38:52+00:00 INFO Продукт сохранен: Шапка "CLICK" (ID 36643):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "65000", "regular_price": "", "sale_price": "" }
+2022-03-02T17:38:52+00:00 INFO Продукт сохранен: Шапка "CLICK" (ID 36643):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "65000", "regular_price": "", "sale_price": "" }
+2022-03-02T17:43:03+00:00 INFO Продукт сохранен: Свитшот "ROMB Girl" (ID 36531):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "180000", "regular_price": "", "sale_price": "" }
+2022-03-02T17:43:03+00:00 INFO Продукт сохранен: Свитшот "ROMB Girl" (ID 36531):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "180000", "regular_price": "", "sale_price": "" }
+2022-03-02T17:46:46+00:00 INFO Продукт сохранен: Костюм двойка "Birdie" (ID 36516):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "400000", "regular_price": "", "sale_price": "" }
+2022-03-02T17:46:49+00:00 INFO Продукт сохранен: Костюм двойка "Birdie" (ID 36516):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "400000", "regular_price": "", "sale_price": "" }
+2022-03-02T17:46:49+00:00 INFO Продукт сохранен: Костюм двойка "Birdie" (ID 36516):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "400000", "regular_price": "", "sale_price": "" }
+2022-03-02T18:04:41+00:00 INFO Продукт сохранен: USB Flat (Android) (ID 36246):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "35000", "regular_price": "", "sale_price": "" }
+2022-03-02T18:04:41+00:00 INFO Продукт сохранен: USB Flat (Android) (ID 36246):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "35000", "regular_price": "", "sale_price": "" }
+2022-03-02T18:07:26+00:00 INFO Продукт сохранен: USB Flat (Android) (ID 36246):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "35000", "regular_price": "", "sale_price": "" }
+2022-03-02T18:07:26+00:00 INFO Продукт сохранен: USB Flat (Android) (ID 36246):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "35000", "regular_price": "", "sale_price": "" }
+2022-03-02T18:10:32+00:00 INFO Продукт сохранен: Костюм двойка "Casual Bling" без манжета ( тёмн. принт) (ID 36685):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "0", "regular_price": "", "sale_price": "" }
+2022-03-02T18:10:32+00:00 INFO Продукт сохранен: Костюм двойка "Casual Bling" без манжета ( свет. принт) (ID 36684):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "0", "regular_price": "", "sale_price": "" }
+2022-03-02T18:10:32+00:00 INFO Продукт сохранен: Костюм двойка "Casual Bling" с манжетом (свет. принт) (ID 36682):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "0", "regular_price": "", "sale_price": "" }
+2022-03-02T18:10:32+00:00 INFO Продукт сохранен: Футболка с принтом "РАХМАТ"(тёмно-синий) (ID 36680):
+{ "status": "pending", "type": "variable", "catalog_visibility": "visible", "price": "0", "regular_price": "", "sale_price": "" }
+2022-03-02T18:10:57+00:00 INFO Продукт сохранен: USB Flat (Android) (ID 36246):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "35000", "regular_price": "", "sale_price": "" }
+2022-03-02T18:10:57+00:00 INFO Продукт сохранен: USB Flat (Android) (ID 36246):
+{ "status": "publish", "type": "variable", "catalog_visibility": "visible", "price": "35000", "regular_price": "", "sale_price": "" }

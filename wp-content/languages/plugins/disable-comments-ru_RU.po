@@ -1,0 +1,152 @@
+# Translation of Plugins - Disable Comments &#8211; Remove Comments &amp; Stop Spam [Multi-Site Support] - Stable (latest release) in Russian
+# This file is distributed under the same license as the Plugins - Disable Comments &#8211; Remove Comments &amp; Stop Spam [Multi-Site Support] - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-01-08 09:15:54+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - Disable Comments &#8211; Remove Comments &amp; Stop Spam [Multi-Site Support] - Stable (latest release)\n"
+
+#: views/partials/_disable.php:76 views/partials/_disable.php:101
+msgid "Disable Avatar"
+msgstr "Отключить аватар"
+
+#: views/partials/_sites.php:12
+msgid "Select All"
+msgstr "Выбрать все"
+
+#: views/settings.php:12
+msgctxt "Tab Name"
+msgid "Delete Comments"
+msgstr "Удаление комментариев"
+
+#: views/settings.php:9
+msgctxt "Tab Name"
+msgid "Disable Comments"
+msgstr "Отключение комментариев"
+
+#: views/settings.php:6
+msgid "Version"
+msgstr "Версия"
+
+#: views/partials/_disable.php:15 views/partials/_disable.php:75
+#: views/partials/_disable.php:120 views/partials/_disable.php:130
+msgid "Off"
+msgstr "Выкл"
+
+#: views/partials/_disable.php:14 views/partials/_disable.php:74
+#: views/partials/_disable.php:119 views/partials/_disable.php:129
+msgid "On"
+msgstr "Вкл"
+
+#: views/partials/_delete.php:23 views/partials/_delete.php:46
+#: views/partials/_delete.php:59 views/partials/_delete.php:64
+#: views/partials/_disable.php:41
+msgid "Warnings:"
+msgstr "Предупреждения:"
+
+#: views/partials/_menu.php:3
+msgid "About Us"
+msgstr "О нас"
+
+#: views/partials/_menu.php:4
+msgid "All Plugins"
+msgstr "Все плагины"
+
+#: includes/class-plugin-usage-tracker.php:759
+msgid "Other"
+msgstr "Другое"
+
+#: disable-comments.php:969
+msgid "Saved"
+msgstr "Сохранено"
+
+#: views/partials/_menu.php:8
+msgid "Privacy"
+msgstr "Конфиденциальность"
+
+#: disable-comments.php:716
+msgctxt "settings menu title"
+msgid "Disable Comments"
+msgstr "Отключение комментариев"
+
+#: views/partials/_delete.php:66
+msgid "Total Comments:"
+msgstr "Всего комментариев:"
+
+#: disable-comments.php:1042 disable-comments.php:1046
+msgid "Internal error occured. Please try again later."
+msgstr "Произошла внутренняя ошибка. Пожалуйста, повторите попытку позже."
+
+#: views/partials/_delete.php:43 views/partials/_disable.php:61
+msgid "Custom post types:"
+msgstr "Произвольные типы записей:"
+
+#: disable-comments.php:726 views/partials/_delete.php:72
+msgid "Delete Comments"
+msgstr "Удалить комментарии"
+
+#: disable-comments.php:707
+msgid "Tools"
+msgstr "Инструменты"
+
+#. Plugin URI of the plugin
+msgid "https://wordpress.org/plugins/disable-comments/"
+msgstr "https://wordpress.org/plugins/disable-comments/"
+
+#: views/partials/_disable.php:140
+msgid "Save Changes"
+msgstr "Сохранить изменения"
+
+#: views/partials/_delete.php:42 views/partials/_disable.php:60
+msgid "Only the built-in post types appear above. If you want to disable comments on other custom post types on the entire network, you can supply a comma-separated list of post types below (use the slug that identifies the post type)."
+msgstr "Только встроенные типы записей отображаются выше. Если вы хотите отключить комментарии для других типов записей во всей сети, укажите список пользовательских типов записей, разделяя их запятыми (используйте ярлык, который идентифицирует пользовательский тип записи)."
+
+#: disable-comments.php:706 views/partials/_disable.php:3
+msgid "Settings"
+msgstr "Настройки"
+
+#. translators: %s: disabled post types.
+#: disable-comments.php:582
+msgid ", "
+msgstr ","
+
+#. translators: %s: disabled post types.
+#: disable-comments.php:582
+msgid "Note: The <em>Disable Comments</em> plugin is currently active, and comments are completely disabled on: %s. Many of the settings below will not be applicable for those post types."
+msgstr "Заметка: Плагин <em>Отключение комментариев</em> активирован и комментарии полностью отключены: %s. Настройки ниже неприменимы к этим типам записей."
+
+#: disable-comments.php:478 disable-comments.php:626 disable-comments.php:633
+msgid "Comments are closed."
+msgstr "Обсуждение закрыто."
+
+#. translators: %s: WordPress version no.
+#: disable-comments.php:169
+msgid "Disable Comments requires WordPress version %s or greater."
+msgstr "Для работы плагина требуется WordPress версии %s или выше."
+
+#. Author of the plugin
+msgid "WPDeveloper"
+msgstr "WPDeveloper"
+
+#: disable-comments.php:1040 disable-comments.php:1074
+#: disable-comments.php:1097
+msgid "All comments have been deleted"
+msgstr "Все комментарии удалены"
+
+#. Plugin Name of the plugin
+#: disable-comments.php:329
+msgid "Disable Comments"
+msgstr "Отключить комментарии"
+
+#: views/partials/_delete.php:22 views/partials/_disable.php:40
+msgid "Everywhere:"
+msgstr "Везде:"
+
+#: views/partials/_delete.php:27
+msgid "On Certain Post Types:"
+msgstr "Для отдельных типов записей:"
