@@ -1,0 +1,60 @@
+.click-login .otp-wrapper,
+.click-login .password-wrapper,
+.click-login .password-confirmation-wrapper,
+.click-login .name-wrapper {
+    display: none;
+}
+
+.click-login[data-step="check-otp"] .otp-wrapper{
+    display: block;
+}
+
+.click-login[data-step="check-password"] .password-wrapper{
+    display: block;
+}
+
+.click-login[data-step="register"] .password-wrapper,
+.click-login[data-step="register"] .password-confirmation-wrapper,
+.click-login[data-step="register"] .name-wrapper {
+    display: block;
+}
+
+.auth-sidebar{
+    padding: 20px;
+}
+
+.auth-sidebar>h2{
+    margin: 0 0 20px;
+    font-weight: 700;
+    font-size: 25px;
+}
+
+.auth-sidebar .click-login{
+    margin-bottom: 0;
+}
+
+.auth-sidebar .click-login[data-step="check-otp"] .otp-wrapper{
+    display: flex;
+    flex-direction: column;
+}
+
+.auth-sidebar .click-login[data-step="check-password"] .password-wrapper{
+    display: flex;
+    flex-direction: column;
+}
+
+.auth-sidebar .click-login[data-step="register"] .password-wrapper,
+.auth-sidebar .click-login[data-step="register"] .password-confirmation-wrapper,
+.auth-sidebar .click-login[data-step="register"] .name-wrapper {
+    display: flex;
+    flex-direction: column;
+}
+
+.auth-sidebar .form-row>label,
+.auth-sidebar .form-row>input{
+    width: 100%;
+}
+
+.click-login-btn{
+    position: relative;
+}

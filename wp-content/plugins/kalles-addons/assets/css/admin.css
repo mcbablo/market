@@ -1,0 +1,14 @@
+.remove-price-rule {
+    display: inline-block;
+    position: relative;
+    padding: 2px 0 2px 5px;
+    outline: none;
+    cursor: pointer;
+}
+.t4_discount_input {
+    width: 24% !important;
+}
+.price-quantity-rule {
+    margin-right: 2% !important;
+    height: auto !important;
+}

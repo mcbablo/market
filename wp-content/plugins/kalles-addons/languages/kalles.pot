@@ -1,0 +1,2734 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-02-18 10:41+0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: includes/classes/woocommerce/The4SocialAuth.php:110
+#: includes/classes/woocommerce/The4SocialAuth.php:141
+#: includes/classes/woocommerce/The4SocialAuth.php:172
+msgid "Can't get email, Please try again ! "
+msgstr ""
+
+#: includes/classes/woocommerce/The4SocialAuth.php:119
+#: includes/classes/woocommerce/The4SocialAuth.php:150
+#: includes/classes/woocommerce/The4SocialAuth.php:181
+msgid "Can't login with Twitter, Please try again ! "
+msgstr ""
+
+#: includes/classes/woocommerce/The4Wishlist.php:65
+msgid "Wishlist is empty."
+msgstr ""
+
+#: includes/classes/woocommerce/The4Wishlist.php:68
+#: includes/classes/woocommerce/The4Compare.php:96
+msgid "Return To Shop"
+msgstr ""
+
+#: includes/classes/woocommerce/The4Wishlist.php:128
+#: includes/classes/woocommerce/The4Wishlist.php:214
+msgid "Browse Wishlist"
+msgstr ""
+
+#: includes/classes/woocommerce/The4Wishlist.php:130
+#: includes/classes/woocommerce/The4Wishlist.php:214
+#: includes/classes/woocommerce/The4Wishlist.php:230
+msgid "Remove Wishlist"
+msgstr ""
+
+#: includes/classes/woocommerce/The4Wishlist.php:168
+#: includes/classes/woocommerce/The4Wishlist.php:212
+msgid "Add to Wishlist"
+msgstr ""
+
+#: includes/classes/woocommerce/The4Product360.php:23
+msgid "360 Images Product "
+msgstr ""
+
+#: includes/classes/woocommerce/The4Product360.php:62
+#: includes/classes/woocommerce/The4Product360.php:93
+#: includes/classes/woocommerce/swatches/The4Swatches.php:875
+#: includes/classes/woocommerce/swatches/The4Swatches.php:908
+#: includes/classes/woocommerce/swatches/The4Swatches.php:1086
+#: includes/classes/woocommerce/swatches/The4Swatches.php:1154
+msgid "Delete image"
+msgstr ""
+
+#: includes/classes/woocommerce/The4Product360.php:64
+#: includes/classes/woocommerce/The4Product360.php:95
+#: includes/classes/woocommerce/swatches/The4Swatches.php:877
+#: includes/classes/woocommerce/swatches/The4Swatches.php:910
+#: includes/classes/woocommerce/swatches/The4Swatches.php:1086
+#: includes/classes/woocommerce/swatches/The4Swatches.php:1154
+msgid "Delete"
+msgstr ""
+
+#: includes/classes/woocommerce/The4Product360.php:88
+msgid "Add Images to 360 Product Gallery"
+msgstr ""
+
+#: includes/classes/woocommerce/The4Product360.php:91
+#: includes/classes/woocommerce/swatches/The4Swatches.php:906
+msgid "Add to gallery"
+msgstr ""
+
+#: includes/classes/woocommerce/The4Product360.php:97
+#: includes/classes/woocommerce/swatches/The4Swatches.php:912
+msgid "Add product gallery images"
+msgstr ""
+
+#: includes/classes/woocommerce/The4Product360.php:135
+msgid "View 360"
+msgstr ""
+
+#: includes/classes/woocommerce/The4Compare.php:92
+msgid "Compare list is empty"
+msgstr ""
+
+#: includes/classes/woocommerce/The4Compare.php:145
+#: includes/classes/woocommerce/swatches/views/html-color-new.php:35
+#: includes/classes/woocommerce/swatches/views/html-color-edit.php:50
+#: includes/plugin/codestar-framework/fields/upload/upload.php:25
+#: includes/plugin/codestar-framework/fields/media/media.php:26
+msgid "Remove"
+msgstr ""
+
+#: includes/classes/woocommerce/The4Compare.php:160
+msgid "Quick view"
+msgstr ""
+
+#: includes/classes/woocommerce/The4Compare.php:256
+msgid "Out stock"
+msgstr ""
+
+#: includes/classes/woocommerce/The4Compare.php:256
+msgid "In stock"
+msgstr ""
+
+#: includes/classes/woocommerce/The4Compare.php:365
+#: includes/classes/woocommerce/The4Compare.php:457
+msgid "Compare products"
+msgstr ""
+
+#: includes/classes/woocommerce/The4Compare.php:455
+msgid "Compare"
+msgstr ""
+
+#: includes/classes/woocommerce/discount/The4Discount.php:346
+msgid "Product Discount"
+msgstr ""
+
+#: includes/classes/woocommerce/swatches/The4Swatches.php:50
+#: includes/classes/woocommerce/swatches/The4Swatches.php:651
+#: includes/classes/woocommerce/swatches/The4Swatches.php:1056
+#: includes/classes/woocommerce/swatches/views/html-color-new.php:22
+#: includes/classes/woocommerce/swatches/views/html-color-edit.php:22
+#: includes/plugin/codestar-framework/fields/background/background.php:278
+msgid "Color"
+msgstr ""
+
+#: includes/classes/woocommerce/swatches/The4Swatches.php:51
+#: includes/classes/woocommerce/swatches/The4Swatches.php:695
+#: includes/classes/woocommerce/swatches/The4Swatches.php:712
+#: includes/classes/woocommerce/swatches/The4Swatches.php:1057
+#: views/woocommerce/discount/add-price-rules-simple.php:15
+#: views/woocommerce/discount/add-price-rules-variation.php:17
+msgid "Label"
+msgstr ""
+
+#: includes/classes/woocommerce/swatches/The4Swatches.php:52
+msgid "Radio"
+msgstr ""
+
+#: includes/classes/woocommerce/swatches/The4Swatches.php:53
+msgid "Brand"
+msgstr ""
+
+#: includes/classes/woocommerce/swatches/The4Swatches.php:498
+#: includes/classes/woocommerce/swatches/The4Swatches.php:539
+#: includes/plugin/one-click-demo-import/inc/CreateDemoContent/DemoContentCreator.php:336
+msgid "Name"
+msgstr ""
+
+#: includes/classes/woocommerce/swatches/The4Swatches.php:499
+msgid "Logo"
+msgstr ""
+
+#: includes/classes/woocommerce/swatches/The4Swatches.php:500
+#: includes/classes/woocommerce/swatches/The4Swatches.php:541
+msgid "Description"
+msgstr ""
+
+#: includes/classes/woocommerce/swatches/The4Swatches.php:501
+#: includes/classes/woocommerce/swatches/The4Swatches.php:542
+msgid "Slug"
+msgstr ""
+
+#: includes/classes/woocommerce/swatches/The4Swatches.php:502
+#: includes/classes/woocommerce/swatches/The4Swatches.php:543
+msgid "Count"
+msgstr ""
+
+#: includes/classes/woocommerce/swatches/The4Swatches.php:540
+msgid "Swatch"
+msgstr ""
+
+#: includes/classes/woocommerce/swatches/The4Swatches.php:656
+msgid "Image thumbnail"
+msgstr ""
+
+#: includes/classes/woocommerce/swatches/The4Swatches.php:657
+#: includes/classes/woocommerce/swatches/views/html-color-new.php:39
+#: includes/classes/woocommerce/swatches/views/html-color-edit.php:55
+msgid "This option will be overridden color."
+msgstr ""
+
+#: includes/classes/woocommerce/swatches/The4Swatches.php:664
+#: includes/classes/woocommerce/swatches/The4Swatches.php:683
+#: includes/classes/woocommerce/swatches/The4Swatches.php:700
+#: includes/classes/woocommerce/swatches/views/html-color-new.php:42
+#: includes/classes/woocommerce/swatches/views/html-color-edit.php:60
+msgid "Tooltip"
+msgstr ""
+
+#: includes/classes/woocommerce/swatches/The4Swatches.php:676
+msgid "Brand logo"
+msgstr ""
+
+#: includes/classes/woocommerce/swatches/The4Swatches.php:738
+msgid "Select terms"
+msgstr ""
+
+#: includes/classes/woocommerce/swatches/The4Swatches.php:760
+msgid "Select all"
+msgstr ""
+
+#: includes/classes/woocommerce/swatches/The4Swatches.php:761
+msgid "Select none"
+msgstr ""
+
+#: includes/classes/woocommerce/swatches/The4Swatches.php:762
+msgid "Add new"
+msgstr ""
+
+#: includes/classes/woocommerce/swatches/The4Swatches.php:813
+#, php-format
+msgid "Product Gallery %s Color"
+msgstr ""
+
+#: includes/classes/woocommerce/swatches/The4Swatches.php:902
+#, php-format
+msgid "Add Images to Product Gallery %s"
+msgstr ""
+
+#: includes/classes/woocommerce/swatches/The4Swatches.php:1010
+msgid "Variation Swatch"
+msgstr ""
+
+#: includes/classes/woocommerce/swatches/The4Swatches.php:1040
+msgid "Setting for attribute of this product"
+msgstr ""
+
+#: includes/classes/woocommerce/swatches/The4Swatches.php:1051
+msgid "Attribute type for "
+msgstr ""
+
+#: includes/classes/woocommerce/swatches/The4Swatches.php:1053
+msgid "Click Update button to see the attributes."
+msgstr ""
+
+#: includes/classes/woocommerce/swatches/The4Swatches.php:1055
+#: includes/classes/woocommerce/swatches/views/html-color-new.php:60
+#: includes/classes/woocommerce/swatches/views/html-color-edit.php:82
+msgid "Select"
+msgstr ""
+
+#: includes/classes/woocommerce/swatches/The4Swatches.php:1086
+#: includes/classes/woocommerce/swatches/The4Swatches.php:1154
+msgid "Add image"
+msgstr ""
+
+#: includes/classes/woocommerce/swatches/The4Swatches.php:1086
+#: includes/classes/woocommerce/swatches/The4Swatches.php:1154
+msgid "Update image"
+msgstr ""
+
+#: includes/classes/woocommerce/swatches/The4Swatches.php:1134
+msgid "Custom image for variation of global attribute"
+msgstr ""
+
+#: includes/classes/woocommerce/swatches/The4Swatches.php:1171
+msgid ""
+"Before you can add a variation you need to add some variation attributes on "
+"the Attributes tab."
+msgstr ""
+
+#: includes/classes/woocommerce/swatches/views/html-color-new.php:26
+msgid "Thumbnail"
+msgstr ""
+
+#: includes/classes/woocommerce/swatches/views/html-color-new.php:31
+#: includes/classes/woocommerce/swatches/views/html-color-edit.php:46
+msgid "Upload/Add image"
+msgstr ""
+
+#: includes/classes/woocommerce/swatches/views/html-color-new.php:64
+#: includes/classes/woocommerce/swatches/views/html-color-edit.php:86
+msgid "Select an image"
+msgstr ""
+
+#: includes/classes/woocommerce/swatches/views/html-color-edit.php:31
+msgid "Image"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/one-click-demo-import.php:55
+#, php-format
+msgid ""
+"The %2$sOne Click Demo Import%3$s plugin requires %2$sPHP 5.6+%3$s to run "
+"properly. Please contact your hosting company and ask them to update the PHP "
+"version of your site to at least PHP 7.4%4$s Your current version of PHP: "
+"%2$s%1$s%3$s"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/inc/WPCLICommands.php:34
+msgid "There are no predefined demo imports for currently active theme!"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/inc/WPCLICommands.php:37
+msgid "Here are the predefined demo imports:"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/inc/WPCLICommands.php:71
+msgid ""
+"At least one of the possible options should be set! Check them with --help"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/inc/WPCLICommands.php:122
+msgid ""
+"The \"predefined\" parameter should be a number (an index of the OCDI "
+"predefined demo import)!"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/inc/WPCLICommands.php:128
+msgid ""
+"The supplied predefined index does not exist! Please take a look at the "
+"available predefined demo imports:"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/inc/WPCLICommands.php:135
+msgid "Predefined demo import started! All other parameters will be ignored!"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/inc/WPCLICommands.php:140
+#, php-format
+msgid "Selected predefined demo import: %s"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/inc/WPCLICommands.php:143
+msgid "Preparing the demo import files..."
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/inc/WPCLICommands.php:148
+msgid "Demo import files could not be retrieved!"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/inc/WPCLICommands.php:151
+msgid "Demo import files retrieved successfully!"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/inc/WPCLICommands.php:153
+#: includes/plugin/one-click-demo-import/inc/OneClickDemoImport.php:227
+msgid "Importing..."
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/inc/WPCLICommands.php:173
+msgid "Predefined import finished!"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/inc/WPCLICommands.php:185
+msgid "Content import file provided does not exist! Skipping this import!"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/inc/WPCLICommands.php:194
+msgid "Importing content (this might take a while)..."
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/inc/WPCLICommands.php:196
+msgid "Importing content"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/inc/WPCLICommands.php:201
+msgid "Content import finished!"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/inc/WPCLICommands.php:204
+msgid "There were some issues while importing the content!"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/inc/WPCLICommands.php:223
+msgid "Widgets import file provided does not exist! Skipping this import!"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/inc/WPCLICommands.php:227
+msgid "Importing widgets..."
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/inc/WPCLICommands.php:232
+msgid "Widgets imported successfully!"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/inc/WPCLICommands.php:235
+msgid "There were some issues while importing widgets!"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/inc/WPCLICommands.php:254
+msgid "Customizer import file provided does not exist! Skipping this import!"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/inc/WPCLICommands.php:258
+msgid "Importing customizer settings..."
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/inc/WPCLICommands.php:263
+msgid "Customizer settings imported successfully!"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/inc/WPCLICommands.php:266
+msgid "There were some issues while importing customizer settings!"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/inc/WPCLICommands.php:286
+#, php-format
+msgid "Executing action: %s ..."
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/inc/Importer.php:174
+#: includes/plugin/one-click-demo-import/vendor/awesomemotive/wp-content-importer-v2/src/Importer.php:504
+msgid "New AJAX call!"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/inc/PluginInstaller.php:85
+msgid "WPForms"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/inc/PluginInstaller.php:86
+msgid ""
+"Join 4,000,000+ professionals who build smarter forms and surveys with "
+"WPForms."
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/inc/PluginInstaller.php:92
+msgid "All in One SEO"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/inc/PluginInstaller.php:93
+msgid "Use All in One SEO Pack to optimize your WordPress site for SEO."
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/inc/PluginInstaller.php:99
+msgid "MonsterInsights"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/inc/PluginInstaller.php:100
+msgid "The #1 Google Analytics Plugin for WordPress that’s easy and powerful."
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/inc/PluginInstaller.php:106
+msgid "Custom Landing Pages by SeedProd"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/inc/PluginInstaller.php:107
+msgid ""
+"Work on your site in private while visitors see a \"Coming Soon\" or "
+"\"Maintenance Mode\" page."
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/inc/PluginInstaller.php:112
+msgid "Smash Balloon Social Photo Feed"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/inc/PluginInstaller.php:113
+msgid ""
+"Display beautifully clean, customizable, and responsive Instagram feeds."
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/inc/PluginInstaller.php:118
+msgid "WP Mail SMTP"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/inc/PluginInstaller.php:119
+msgid ""
+"Make email delivery easy for WordPress. Connect with SMTP, Gmail, Outlook, "
+"Mailgun, and more."
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/inc/PluginInstaller.php:226
+msgid ""
+"Could not install the plugin. You don't have permission to install plugins."
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/inc/PluginInstaller.php:232
+msgid "Could not install the plugin. Plugin slug is missing."
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/inc/PluginInstaller.php:237
+msgid "Plugin is already installed and activated!"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/inc/PluginInstaller.php:245
+msgid "Plugin was already installed! We activated it for you."
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/inc/PluginInstaller.php:253
+msgid "Could not install the plugin. Don't have file permission."
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/inc/PluginInstaller.php:293
+msgid "Plugin installed and activated succesfully."
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/inc/PluginInstaller.php:300
+msgid ""
+"Could not install the plugin. WP Plugin installer could not retrieve plugin "
+"information."
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/inc/CustomizerImporter.php:37
+#: includes/plugin/one-click-demo-import/inc/CustomizerImporter.php:45
+msgid "Importing customizer settings"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/inc/CustomizerImporter.php:43
+msgid "Customizer settings import finished!"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/inc/CustomizerImporter.php:73
+#, php-format
+msgid "Error: The customizer import file is missing! File path: %s"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/inc/CustomizerImporter.php:93
+msgid ""
+"Error: The customizer import file is not in a correct format. Please make "
+"sure to use the correct customizer import file."
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/inc/CustomizerImporter.php:99
+msgid ""
+"Error: The customizer import file is not suitable for current theme. You can "
+"only import customizer settings for the same theme or a child theme."
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/inc/ReduxImporter.php:23
+msgid "The Redux plugin is not activated, so the Redux import was skipped!"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/inc/ReduxImporter.php:32
+#: includes/plugin/one-click-demo-import/inc/ReduxImporter.php:53
+#: includes/plugin/one-click-demo-import/inc/ReduxImporter.php:66
+msgid "Importing Redux settings"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/inc/ReduxImporter.php:51
+#, php-format
+msgid "Redux settings import for: %s finished successfully!"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/inc/ReduxImporter.php:57
+#, php-format
+msgid ""
+"The Redux option name: %s, was not found in this WP site, so it was not "
+"imported!"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/inc/WidgetImporter.php:40
+#: includes/plugin/one-click-demo-import/inc/WidgetImporter.php:52
+msgid "Importing widgets"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/inc/WidgetImporter.php:88
+msgid "Error: Widget import file could not be found."
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/inc/WidgetImporter.php:118
+msgid ""
+"Error: Widget import data could not be read. Please try a different file."
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/inc/WidgetImporter.php:157
+msgid "Sidebar does not exist in theme (moving widget to Inactive)"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/inc/WidgetImporter.php:178
+msgid "Site does not support widget"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/inc/WidgetImporter.php:211
+msgid "Widget already exists"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/inc/WidgetImporter.php:276
+msgid "Imported"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/inc/WidgetImporter.php:280
+msgid "Imported to Inactive"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/inc/WidgetImporter.php:286
+msgid "No Title"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/inc/WidgetImporter.php:333
+msgid "No results for widget import!"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/inc/ViewHelpers.php:19
+#: includes/plugin/one-click-demo-import/inc/Helpers.php:744
+msgid "One Click Demo Import"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/inc/ViewHelpers.php:21
+msgid "Questionmark icon"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/inc/ViewHelpers.php:52
+msgid "Theme screenshot"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/inc/Downloader.php:58
+msgid "Missing URL for downloading a file!"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/inc/Downloader.php:76
+#, php-format
+msgid ""
+"An error occurred while fetching file from: %1$s%2$s%3$s!%4$sReason: %5$s - "
+"%6$s."
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/inc/OneClickDemoImport.php:221
+msgid "No preview image defined for this import."
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/inc/OneClickDemoImport.php:222
+#: includes/plugin/codestar-framework/classes/setup.class.php:599
+msgid "Are you sure?"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/inc/OneClickDemoImport.php:223
+#: includes/plugin/one-click-demo-import/views/plugin-page.php:230
+#: includes/plugin/codestar-framework/classes/comment-options.class.php:217
+#: includes/plugin/codestar-framework/classes/metabox-options.class.php:295
+msgid "Cancel"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/inc/OneClickDemoImport.php:224
+msgid "Yes, import!"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/inc/OneClickDemoImport.php:225
+msgid "Selected demo import:"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/inc/OneClickDemoImport.php:226
+msgid "Installing..."
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/inc/OneClickDemoImport.php:228
+msgid "Successfully Imported!"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/inc/OneClickDemoImport.php:229
+#: includes/plugin/one-click-demo-import/views/plugin-page.php:224
+msgid "Install Plugin"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/inc/OneClickDemoImport.php:230
+#: includes/plugin/one-click-demo-import/views/plugin-page.php:224
+msgid "Installed"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/inc/OneClickDemoImport.php:231
+msgid "Import Failed"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/inc/OneClickDemoImport.php:232
+msgid "Whoops, there was a problem importing your content."
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/inc/OneClickDemoImport.php:233
+msgid ""
+"Looks like some of the plugins failed to install. Please try again. If this "
+"issue persists, please manually install the failing plugins and come back to "
+"this step to import the theme demo data."
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/inc/OneClickDemoImport.php:234
+msgid ""
+"Invalid file type detected! Please select an XML file for the Content Import."
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/inc/OneClickDemoImport.php:235
+msgid ""
+"Invalid file type detected! Please select a JSON or WIE file for the Widgets "
+"Import."
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/inc/OneClickDemoImport.php:236
+msgid ""
+"Invalid file type detected! Please select a DAT file for the Customizer "
+"Import."
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/inc/OneClickDemoImport.php:237
+msgid ""
+"Invalid file type detected! Please select a JSON file for the Redux Import."
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/inc/OneClickDemoImport.php:254
+msgid ""
+"Manual import files are missing! Please select the import files and try "
+"again."
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/inc/OneClickDemoImport.php:269
+#: includes/plugin/one-click-demo-import/inc/OneClickDemoImport.php:314
+msgid "Manually uploaded files"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/inc/OneClickDemoImport.php:327
+#: includes/plugin/one-click-demo-import/inc/OneClickDemoImport.php:338
+msgid "Downloaded files"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/inc/OneClickDemoImport.php:334
+#, php-format
+msgid "The import files for: %s were successfully downloaded!"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/inc/OneClickDemoImport.php:343
+msgid "No import files specified!"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/inc/OneClickDemoImport.php:460
+#: includes/plugin/one-click-demo-import/views/import.php:108
+msgid "Import Complete!"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/inc/OneClickDemoImport.php:461
+#: includes/plugin/one-click-demo-import/views/import.php:111
+msgid ""
+"Congrats, your demo was imported successfully. You can now begin editing "
+"your site."
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/inc/OneClickDemoImport.php:462
+msgid "Successful Import"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/inc/OneClickDemoImport.php:465
+msgid "Your import completed, but some things may not have imported properly."
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/inc/OneClickDemoImport.php:469
+#, php-format
+msgid ""
+"<p><a href=\"%s\" target=\"_blank\">View error log</a> for more information."
+"</p>"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/inc/Helpers.php:201
+#: includes/plugin/one-click-demo-import/inc/Helpers.php:244
+#, php-format
+msgid ""
+"An error occurred while writing file to your server! Tried to write a file "
+"to: %1$s%2$s."
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/inc/Helpers.php:278
+#, php-format
+msgid ""
+"An error occurred while reading a file from your server! Tried reading file "
+"from path: %1$s%2$s."
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/inc/Helpers.php:301
+#, php-format
+msgid ""
+"This WordPress page does not have %1$sdirect%2$s write file access. This "
+"plugin needs it in order to save the demo import xml file to the upload "
+"directory of your site. You can change this setting with these instructions: "
+"%3$s."
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/inc/Helpers.php:318
+msgid ""
+"An error occurred while retrieving reading/writing permissions to your "
+"server (could not retrieve WP filesystem credentials)!"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/inc/Helpers.php:326
+msgid "Your WordPress login credentials don't allow to use WP_Filesystem!"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/inc/Helpers.php:366
+msgid "One Click Demo Import - "
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/inc/Helpers.php:400
+#, php-format
+msgid ""
+"%1$sYour user role isn't high enough. You don't have permission to import "
+"demo data.%2$s"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/inc/Helpers.php:433
+msgid "No file provided."
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/inc/Helpers.php:462
+#, php-format
+msgid "Content file was not uploaded. Error: %s"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/inc/Helpers.php:466
+#: includes/plugin/one-click-demo-import/inc/Helpers.php:483
+#: includes/plugin/one-click-demo-import/inc/Helpers.php:500
+#: includes/plugin/one-click-demo-import/inc/Helpers.php:511
+#: includes/plugin/one-click-demo-import/inc/Helpers.php:531
+#: includes/plugin/one-click-demo-import/inc/Helpers.php:539
+msgid "Upload files"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/inc/Helpers.php:479
+#, php-format
+msgid "Widget file was not uploaded. Error: %s"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/inc/Helpers.php:496
+#, php-format
+msgid "Customizer file was not uploaded. Error: %s"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/inc/Helpers.php:509
+msgid "Missing Redux option name! Please also enter the Redux option name!"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/inc/Helpers.php:527
+#, php-format
+msgid "Redux file was not uploaded. Error: %s"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/inc/Helpers.php:537
+msgid "The import files were successfully uploaded!"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/inc/Helpers.php:563
+#, php-format
+msgid "Initial max execution time = %s"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/inc/Helpers.php:567
+#, php-format
+msgid ""
+"Files info:%1$sSite URL = %2$s%1$sData file = %3$s%1$sWidget file = %4$s"
+"%1$sCustomizer file = %5$s%1$sRedux files:%1$s%6$s"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/inc/Helpers.php:570
+#: includes/plugin/one-click-demo-import/inc/Helpers.php:571
+#: includes/plugin/one-click-demo-import/inc/Helpers.php:572
+#: includes/plugin/one-click-demo-import/inc/Helpers.php:573
+msgid "not defined!"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/inc/Helpers.php:745
+#: includes/plugin/one-click-demo-import/views/plugin-page.php:244
+msgid "Import Demo Data"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/inc/CreateDemoContent/DemoContentCreator.php:46
+msgid "About Us"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/inc/CreateDemoContent/DemoContentCreator.php:47
+msgid ""
+"Introduce yourself and your business with a clean layout to reassure your "
+"leads and customers."
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/inc/CreateDemoContent/DemoContentCreator.php:53
+msgid "Book Now"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/inc/CreateDemoContent/DemoContentCreator.php:54
+msgid ""
+"Expand your reach by accepting appointments online plus detailing your "
+"services and staff."
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/inc/CreateDemoContent/DemoContentCreator.php:60
+msgid "Contact Us"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/inc/CreateDemoContent/DemoContentCreator.php:61
+msgid ""
+"Make it easy to get in touch with you through a completely customizable "
+"built-in contact form."
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/inc/CreateDemoContent/DemoContentCreator.php:67
+msgid "FAQ"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/inc/CreateDemoContent/DemoContentCreator.php:68
+msgid ""
+"Lighten the load on your support team or your inbox by addressing frequently "
+"asked questions."
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/inc/CreateDemoContent/DemoContentCreator.php:74
+msgid "Meet the Team"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/inc/CreateDemoContent/DemoContentCreator.php:75
+msgid ""
+"Help potential clients feel more at ease by showing off your hard-working "
+"and trustworthy team."
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/inc/CreateDemoContent/DemoContentCreator.php:81
+msgid "Menu"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/inc/CreateDemoContent/DemoContentCreator.php:82
+msgid ""
+"Display your delicious dishes online to entice website visitors to become "
+"restaurant customers."
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/inc/CreateDemoContent/DemoContentCreator.php:88
+msgid "Portfolio"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/inc/CreateDemoContent/DemoContentCreator.php:89
+msgid ""
+"Impress leads by visually showcasing your achievements, case studies, and "
+"past work."
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/inc/CreateDemoContent/DemoContentCreator.php:95
+msgid "Services"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/inc/CreateDemoContent/DemoContentCreator.php:96
+msgid ""
+"Let the world know your services or products' cost and features in an "
+"organized pricing table."
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/inc/CreateDemoContent/DemoContentCreator.php:102
+msgid "Shop"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/inc/CreateDemoContent/DemoContentCreator.php:103
+msgid ""
+"Categorize and sell your products online while displaying reviews from happy "
+"customers."
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/inc/CreateDemoContent/DemoContentCreator.php:109
+msgid "Testimonials"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/inc/CreateDemoContent/DemoContentCreator.php:110
+msgid ""
+"Tap into the power of social proof by displaying real-life testimonials on "
+"your website."
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/inc/CreateDemoContent/DemoContentCreator.php:151
+msgid ""
+"Could not complete the import process for this page. Required WPForms plugin "
+"is not activated."
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/inc/CreateDemoContent/DemoContentCreator.php:155
+msgid ""
+"Could not complete the import process for this page. Required WPForms plugin "
+"doesn't exist."
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/inc/CreateDemoContent/DemoContentCreator.php:158
+msgid "Meet the Team Form"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/inc/CreateDemoContent/DemoContentCreator.php:158
+msgid "Contact Form"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/inc/CreateDemoContent/DemoContentCreator.php:162
+msgid ""
+"Could not complete the import process for this page. Something went wrong "
+"while creating a WPForms contact form."
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/inc/CreateDemoContent/DemoContentCreator.php:168
+msgid ""
+"Could not complete the import process for this page. Could not update the "
+"imported page with correct WPForms form ID."
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/inc/CreateDemoContent/DemoContentCreator.php:181
+msgid ""
+"Could not import this page. You don't have permission to import content."
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/inc/CreateDemoContent/DemoContentCreator.php:187
+msgid "Could not import this page. Page slug is missing."
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/inc/CreateDemoContent/DemoContentCreator.php:214
+#, php-format
+msgid "An error occured while importing this page: %s"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/inc/CreateDemoContent/DemoContentCreator.php:254
+msgid "The demo content import file is missing."
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/inc/CreateDemoContent/DemoContentCreator.php:343
+msgid "Email"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/inc/CreateDemoContent/DemoContentCreator.php:350
+msgid "Comment or Message"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/inc/CreateDemoContent/DemoContentCreator.php:372
+msgid "Thanks for contacting us! We will be in touch with you shortly."
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/inc/CreateDemoContent/DemoContentCreator.php:377
+msgid "Submit"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/inc/CreateDemoContent/DemoContentCreator.php:378
+msgid "Sending..."
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/views/import.php:31
+msgid "Before We Import Your Demo"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/views/import.php:33
+msgid ""
+"To ensure the best experience, installing the following plugins is strongly "
+"recommended, and in some cases required."
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/views/import.php:46
+msgid ""
+"All required/recommended plugins are already installed. You can import your "
+"demo content."
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/views/import.php:59
+msgid "Star icon"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/views/import.php:74
+#: includes/plugin/one-click-demo-import/views/install-plugins.php:49
+#: includes/plugin/one-click-demo-import/views/create-content.php:50
+msgid "Checkmark icon"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/views/import.php:76
+msgid "Lock icon"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/views/import.php:78
+#: includes/plugin/one-click-demo-import/views/install-plugins.php:50
+#: includes/plugin/one-click-demo-import/views/create-content.php:51
+msgid "Loading..."
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/views/import.php:88
+#: includes/plugin/one-click-demo-import/views/install-plugins.php:57
+#: includes/plugin/one-click-demo-import/views/create-content.php:66
+msgid "Back icon"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/views/import.php:88
+#: includes/plugin/one-click-demo-import/views/install-plugins.php:57
+#: includes/plugin/one-click-demo-import/views/create-content.php:66
+msgid "Go Back"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/views/import.php:89
+#: includes/plugin/one-click-demo-import/views/plugin-page.php:231
+msgid "Continue & Import"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/views/import.php:98
+msgid "Importing Content"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/views/import.php:99
+msgid ""
+"Please sit tight while we import your content. Do not refresh the page or "
+"hit the back button."
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/views/import.php:102
+msgid "Importing animation"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/views/import.php:119
+msgid "Theme Settings"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/views/import.php:120
+msgid "Visit Site"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/views/plugin-page.php:34
+#, php-format
+msgid ""
+"%1$sWarning: your server is using %2$sPHP safe mode%3$s. This means that you "
+"might experience server timeout errors.%4$s"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/views/plugin-page.php:52
+msgid ""
+"Importing demo data (post, pages, images, theme settings, etc.) is the "
+"quickest and easiest way to set up your new theme."
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/views/plugin-page.php:53
+msgid ""
+"It allows you to simply edit everything instead of creating content and "
+"layouts from scratch."
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/views/plugin-page.php:54
+msgid "Learn more"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/views/plugin-page.php:67
+msgid ""
+"There are no predefined import files available for this theme. Please upload "
+"the import files manually below."
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/views/plugin-page.php:75
+msgid "Manual Demo File Import"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/views/plugin-page.php:84
+msgid "Content import icon"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/views/plugin-page.php:86
+msgid "Import Content"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/views/plugin-page.php:87
+msgid "Select an XML file to import."
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/views/plugin-page.php:90
+#: includes/plugin/one-click-demo-import/views/plugin-page.php:111
+#: includes/plugin/one-click-demo-import/views/plugin-page.php:132
+#: includes/plugin/one-click-demo-import/views/plugin-page.php:154
+#: includes/plugin/one-click-demo-import/views/plugin-page.php:179
+#: includes/plugin/one-click-demo-import/views/plugin-page.php:197
+#: includes/plugin/one-click-demo-import/views/plugin-page.php:215
+msgid "Info icon"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/views/plugin-page.php:95
+#: includes/plugin/one-click-demo-import/views/plugin-page.php:116
+#: includes/plugin/one-click-demo-import/views/plugin-page.php:137
+#: includes/plugin/one-click-demo-import/views/plugin-page.php:159
+msgid "Select a File"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/views/plugin-page.php:105
+msgid "Widgets import icon"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/views/plugin-page.php:107
+msgid "Import Widgets"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/views/plugin-page.php:108
+msgid "Select a JSON/WIE file to import."
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/views/plugin-page.php:126
+msgid "Customizer import icon"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/views/plugin-page.php:128
+msgid "Import Customizer"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/views/plugin-page.php:129
+msgid "Select a DAT file to import."
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/views/plugin-page.php:148
+msgid "Redux import icon"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/views/plugin-page.php:150
+msgid "Import Redux"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/views/plugin-page.php:151
+msgid "Select a JSON file and enter Redux option name."
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/views/plugin-page.php:162
+msgid "Enter Option Name"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/views/plugin-page.php:173
+msgid "Recommended plugins icon"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/views/plugin-page.php:175
+msgid "Recommended Plugins"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/views/plugin-page.php:176
+msgid "Install our recommended plugins."
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/views/plugin-page.php:183
+msgid "Install Plugins"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/views/plugin-page.php:191
+msgid "Create demo content icon"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/views/plugin-page.php:193
+#: includes/plugin/one-click-demo-import/views/create-content.php:26
+msgid "Create Demo Content"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/views/plugin-page.php:194
+msgid "Create useful content with a few clicks."
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/views/plugin-page.php:201
+msgid "Create Content"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/views/plugin-page.php:209
+msgid "Create landing pages icon"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/views/plugin-page.php:211
+msgid "Create Landing Pages"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/views/plugin-page.php:212
+msgid "Create beautiful converting pages."
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/views/plugin-page.php:259
+msgid "All Demos"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/views/plugin-page.php:272
+msgid "Search Demos..."
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/views/plugin-page.php:295
+msgid "No preview image."
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/views/plugin-page.php:302
+msgid "Preview"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/views/plugin-page.php:304
+#: includes/plugin/one-click-demo-import/views/create-content.php:67
+#: includes/plugin/codestar-framework/fields/backup/backup.php:26
+msgid "Import"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/views/install-plugins.php:25
+msgid "Install Recommended Plugins"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/views/install-plugins.php:27
+msgid ""
+"Want to use the best plugins for the job? Here is the list of awesome "
+"plugins that will help you achieve your goals."
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/views/install-plugins.php:58
+msgid "Install & Activate"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/views/create-content.php:28
+msgid ""
+"Select which pre-built pages you want to import to use on your website. "
+"After that, all you need to do is customize the content to fit your needs "
+"and your page will be good to go."
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/views/create-content.php:60
+msgid "The following plugins will be installed for free: "
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/vendor/awesomemotive/wp-content-importer-v2/src/Importer.php:55
+msgid ""
+"The XMLReader class is missing! Please install the XMLReader PHP extension "
+"on your server"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/vendor/awesomemotive/wp-content-importer-v2/src/Importer.php:68
+msgid "Could not open the XML file for parsing!"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/vendor/awesomemotive/wp-content-importer-v2/src/Importer.php:248
+msgid "Content import start error: "
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/vendor/awesomemotive/wp-content-importer-v2/src/Importer.php:280
+#: includes/plugin/one-click-demo-import/vendor/awesomemotive/wp-content-importer-v2/src/WXRImporter.php:173
+#: includes/plugin/one-click-demo-import/vendor/awesomemotive/wp-content-importer-v2/src/WXRImporter.php:291
+#: includes/plugin/one-click-demo-import/vendor/awesomemotive/wp-content-importer-v2/src/WXRImporter.php:375
+#, php-format
+msgid ""
+"This WXR file (version %s) is newer than the importer (version %s) and may "
+"not be supported. Please consider updating."
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/vendor/awesomemotive/wp-content-importer-v2/src/WXRImporter.php:135
+msgid "Could not open the file for parsing"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/vendor/awesomemotive/wp-content-importer-v2/src/WXRImporter.php:525
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/vendor/awesomemotive/wp-content-importer-v2/src/WXRImporter.php:588
+msgid "Invalid author mapping"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/vendor/awesomemotive/wp-content-importer-v2/src/WXRImporter.php:689
+msgid "Cannot import auto-draft posts"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/vendor/awesomemotive/wp-content-importer-v2/src/WXRImporter.php:781
+#, php-format
+msgid "Failed to import \"%s\": Invalid post type %s"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/vendor/awesomemotive/wp-content-importer-v2/src/WXRImporter.php:791
+#, php-format
+msgid "%s \"%s\" already exists."
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/vendor/awesomemotive/wp-content-importer-v2/src/WXRImporter.php:869
+#, php-format
+msgid "Skipping attachment \"%s\", fetching attachments disabled"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/vendor/awesomemotive/wp-content-importer-v2/src/WXRImporter.php:883
+#, php-format
+msgid "Failed to import \"%s\" (%s)"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/vendor/awesomemotive/wp-content-importer-v2/src/WXRImporter.php:915
+#: includes/plugin/one-click-demo-import/vendor/awesomemotive/wp-content-importer-v2/src/WXRImporter.php:1833
+#, php-format
+msgid "Imported \"%s\" (%s)"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/vendor/awesomemotive/wp-content-importer-v2/src/WXRImporter.php:920
+#, php-format
+msgid "Post %d remapped to %d"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/vendor/awesomemotive/wp-content-importer-v2/src/WXRImporter.php:960
+#, php-format
+msgid "Failed to import term: %s - %s"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/vendor/awesomemotive/wp-content-importer-v2/src/WXRImporter.php:1105
+msgid "Invalid file type"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/vendor/awesomemotive/wp-content-importer-v2/src/WXRImporter.php:1604
+#, php-format
+msgid "Failed to import user \"%s\""
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/vendor/awesomemotive/wp-content-importer-v2/src/WXRImporter.php:1625
+#, php-format
+msgid "Imported user \"%s\""
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/vendor/awesomemotive/wp-content-importer-v2/src/WXRImporter.php:1629
+#, php-format
+msgid "User %d remapped to %d"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/vendor/awesomemotive/wp-content-importer-v2/src/WXRImporter.php:1794
+#, php-format
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/vendor/awesomemotive/wp-content-importer-v2/src/WXRImporter.php:1838
+#, php-format
+msgid "Term %d remapped to %d"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/vendor/awesomemotive/wp-content-importer-v2/src/WXRImporter.php:1897
+#, php-format
+msgid "Failed to add metakey: %s, metavalue: %s to term_id: %d"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/vendor/awesomemotive/wp-content-importer-v2/src/WXRImporter.php:1906
+#, php-format
+msgid "Meta for term_id %d : %s => %s ; successfully added!"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/vendor/awesomemotive/wp-content-importer-v2/src/WXRImporter.php:1958
+#, php-format
+msgid "Remote server returned %1$d %2$s for %3$s"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/vendor/awesomemotive/wp-content-importer-v2/src/WXRImporter.php:1980
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/vendor/awesomemotive/wp-content-importer-v2/src/WXRImporter.php:1986
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/vendor/awesomemotive/wp-content-importer-v2/src/WXRImporter.php:2011
+#, php-format
+msgid "Running post-processing for post %d"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/vendor/awesomemotive/wp-content-importer-v2/src/WXRImporter.php:2024
+#, php-format
+msgid "Could not find the post parent for \"%s\" (post #%d)"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/vendor/awesomemotive/wp-content-importer-v2/src/WXRImporter.php:2029
+#, php-format
+msgid "Post %d was imported with parent %d, but could not be found"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/vendor/awesomemotive/wp-content-importer-v2/src/WXRImporter.php:2043
+#, php-format
+msgid "Could not find the author for \"%s\" (post #%d)"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/vendor/awesomemotive/wp-content-importer-v2/src/WXRImporter.php:2048
+#, php-format
+msgid "Post %d was imported with author \"%s\", but could not be found"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/vendor/awesomemotive/wp-content-importer-v2/src/WXRImporter.php:2074
+#, php-format
+msgid "Post %d was marked for post-processing, but none was required."
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/vendor/awesomemotive/wp-content-importer-v2/src/WXRImporter.php:2085
+#, php-format
+msgid "Could not update \"%s\" (post #%d) with mapped data"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/vendor/awesomemotive/wp-content-importer-v2/src/WXRImporter.php:2130
+#, php-format
+msgid "Could not find the menu object for \"%s\" (post #%d)"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/vendor/awesomemotive/wp-content-importer-v2/src/WXRImporter.php:2135
+#, php-format
+msgid ""
+"Post %d was imported with object \"%d\" of type \"%s\", but could not be "
+"found"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/vendor/awesomemotive/wp-content-importer-v2/src/WXRImporter.php:2157
+#, php-format
+msgid "Could not find the comment parent for comment #%d"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/vendor/awesomemotive/wp-content-importer-v2/src/WXRImporter.php:2161
+#, php-format
+msgid "Comment %d was imported with parent %d, but could not be found"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/vendor/awesomemotive/wp-content-importer-v2/src/WXRImporter.php:2175
+#, php-format
+msgid "Could not find the author for comment #%d"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/vendor/awesomemotive/wp-content-importer-v2/src/WXRImporter.php:2179
+#, php-format
+msgid "Comment %d was imported with author %d, but could not be found"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/vendor/awesomemotive/wp-content-importer-v2/src/WXRImporter.php:2196
+#, php-format
+msgid "Could not update comment #%d with mapped data"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/vendor/awesomemotive/wp-content-importer-v2/src/WXRImporter.php:2227
+#, php-format
+msgid "Faulty term_id provided in terms-to-be-remapped array %s"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/vendor/awesomemotive/wp-content-importer-v2/src/WXRImporter.php:2237
+#, php-format
+msgid "No taxonomy provided in terms-to-be-remapped array for term #%d"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/vendor/awesomemotive/wp-content-importer-v2/src/WXRImporter.php:2247
+#, php-format
+msgid "No parent_slug identified in remapping-array for term: %d"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/vendor/awesomemotive/wp-content-importer-v2/src/WXRImporter.php:2255
+#, php-format
+msgid "The term(%d)\"s parent_slug (%s) is not found in the remapping-array."
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/vendor/awesomemotive/wp-content-importer-v2/src/WXRImporter.php:2269
+#, php-format
+msgid "No data returned by get_term_by for term_id #%d"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/vendor/awesomemotive/wp-content-importer-v2/src/WXRImporter.php:2288
+#, php-format
+msgid "Could not update \"%s\" (term #%d) with mapped data"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/vendor/awesomemotive/wp-content-importer-v2/src/WXRImporter.php:2298
+#, php-format
+msgid "Term %d was successfully updated with parent %d"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/vendor/awesomemotive/wp-content-importer-v2/src/WXRImporter.php:2333
+msgid "Starting remapping of featured images"
+msgstr ""
+
+#: includes/plugin/one-click-demo-import/vendor/awesomemotive/wp-content-importer-v2/src/WXRImporter.php:2342
+#, php-format
+msgid "Remapping featured image ID %d to new ID %d for post ID %d"
+msgstr ""
+
+#: includes/plugin/codestar-framework/classes/admin-options.class.php:230
+msgid "Error while saving the changes."
+msgstr ""
+
+#: includes/plugin/codestar-framework/classes/admin-options.class.php:290
+msgid "Settings successfully imported."
+msgstr ""
+
+#: includes/plugin/codestar-framework/classes/admin-options.class.php:302
+#: includes/plugin/codestar-framework/classes/admin-options.class.php:318
+msgid "Default settings restored."
+msgstr ""
+
+#: includes/plugin/codestar-framework/classes/admin-options.class.php:389
+msgid "Settings saved."
+msgstr ""
+
+#: includes/plugin/codestar-framework/classes/admin-options.class.php:569
+msgid "You have unsaved changes, save your changes!"
+msgstr ""
+
+#: includes/plugin/codestar-framework/classes/admin-options.class.php:571
+msgid "show all settings"
+msgstr ""
+
+#: includes/plugin/codestar-framework/classes/admin-options.class.php:573
+#: includes/plugin/codestar-framework/fields/map/map.php:23
+#: includes/plugin/codestar-framework/fields/icon/icon.php:57
+msgid "Search..."
+msgstr ""
+
+#: includes/plugin/codestar-framework/classes/admin-options.class.php:576
+#: includes/plugin/codestar-framework/classes/admin-options.class.php:699
+#: includes/currency/views/backend.php:200
+msgid "Save"
+msgstr ""
+
+#: includes/plugin/codestar-framework/classes/admin-options.class.php:576
+#: includes/plugin/codestar-framework/classes/admin-options.class.php:699
+msgid "Saving..."
+msgstr ""
+
+#: includes/plugin/codestar-framework/classes/admin-options.class.php:577
+#: includes/plugin/codestar-framework/classes/admin-options.class.php:700
+msgid "Reset Section"
+msgstr ""
+
+#: includes/plugin/codestar-framework/classes/admin-options.class.php:577
+#: includes/plugin/codestar-framework/classes/admin-options.class.php:700
+msgid "Are you sure to reset this section options?"
+msgstr ""
+
+#: includes/plugin/codestar-framework/classes/admin-options.class.php:578
+#: includes/plugin/codestar-framework/classes/admin-options.class.php:701
+msgid "Reset All"
+msgstr ""
+
+#: includes/plugin/codestar-framework/classes/admin-options.class.php:578
+#: includes/plugin/codestar-framework/classes/admin-options.class.php:701
+#: includes/plugin/codestar-framework/classes/comment-options.class.php:216
+#: includes/plugin/codestar-framework/classes/metabox-options.class.php:294
+#: includes/plugin/codestar-framework/fields/backup/backup.php:31
+msgid "Reset"
+msgstr ""
+
+#: includes/plugin/codestar-framework/classes/admin-options.class.php:578
+#: includes/plugin/codestar-framework/classes/admin-options.class.php:701
+msgid "Are you sure you want to reset all settings to default values?"
+msgstr ""
+
+#: includes/plugin/codestar-framework/classes/admin-options.class.php:676
+#: includes/plugin/codestar-framework/classes/comment-options.class.php:199
+#: includes/plugin/codestar-framework/classes/metabox-options.class.php:277
+#: includes/plugin/codestar-framework/functions/actions.php:41
+#: includes/plugin/codestar-framework/fields/radio/radio.php:75
+#: includes/plugin/codestar-framework/fields/checkbox/checkbox.php:76
+#: includes/plugin/codestar-framework/fields/button_set/button_set.php:56
+#: includes/plugin/codestar-framework/fields/select/select.php:113
+msgid "No data available."
+msgstr ""
+
+#: includes/plugin/codestar-framework/classes/comment-options.class.php:217
+#: includes/plugin/codestar-framework/classes/metabox-options.class.php:295
+msgid "update post"
+msgstr ""
+
+#: includes/plugin/codestar-framework/classes/setup.class.php:600
+#, php-format
+msgid "Please enter %s or more characters"
+msgstr ""
+
+#: includes/plugin/codestar-framework/classes/setup.class.php:601
+msgid "Searching..."
+msgstr ""
+
+#: includes/plugin/codestar-framework/classes/setup.class.php:602
+msgid "No results found."
+msgstr ""
+
+#: includes/plugin/codestar-framework/classes/setup.class.php:703
+msgid "Oops! Not allowed."
+msgstr ""
+
+#: includes/plugin/codestar-framework/classes/setup.class.php:775
+#: includes/plugin/codestar-framework/classes/setup.class.php:779
+msgid "Field not found!"
+msgstr ""
+
+#: includes/plugin/codestar-framework/classes/shortcode-options.class.php:253
+#: includes/plugin/codestar-framework/fields/group/group.php:23
+msgid "Add New"
+msgstr ""
+
+#: includes/plugin/codestar-framework/classes/shortcode-options.class.php:290
+#: includes/plugin/codestar-framework/functions/actions.php:16
+#: includes/plugin/codestar-framework/functions/actions.php:68
+#: includes/plugin/codestar-framework/functions/actions.php:106
+#: includes/plugin/codestar-framework/functions/actions.php:141
+#: includes/plugin/codestar-framework/functions/actions.php:170
+msgid "Error: Invalid nonce verification."
+msgstr ""
+
+#: includes/plugin/codestar-framework/functions/actions.php:72
+#: includes/plugin/codestar-framework/functions/actions.php:110
+msgid "Error: Invalid key."
+msgstr ""
+
+#: includes/plugin/codestar-framework/functions/actions.php:114
+msgid "Error: The response is not a valid JSON response."
+msgstr ""
+
+#: includes/plugin/codestar-framework/functions/actions.php:174
+msgid "Error: Invalid term ID."
+msgstr ""
+
+#: includes/plugin/codestar-framework/functions/actions.php:180
+msgid "Error: You do not have permission to do that."
+msgstr ""
+
+#: includes/plugin/codestar-framework/functions/validate.php:14
+#: includes/plugin/codestar-framework/functions/validate.php:86
+msgid "Please enter a valid email address."
+msgstr ""
+
+#: includes/plugin/codestar-framework/functions/validate.php:32
+#: includes/plugin/codestar-framework/functions/validate.php:106
+msgid "Please enter a valid number."
+msgstr ""
+
+#: includes/plugin/codestar-framework/functions/validate.php:50
+#: includes/plugin/codestar-framework/functions/validate.php:126
+msgid "This field is required."
+msgstr ""
+
+#: includes/plugin/codestar-framework/functions/validate.php:68
+#: includes/plugin/codestar-framework/functions/validate.php:146
+msgid "Please enter a valid URL."
+msgstr ""
+
+#: includes/plugin/codestar-framework/fields/background/background.php:36
+#: includes/plugin/codestar-framework/fields/media/media.php:59
+msgid "Not selected"
+msgstr ""
+
+#: includes/plugin/codestar-framework/fields/background/background.php:72
+#: includes/plugin/codestar-framework/fields/datetime/datetime.php:36
+#: includes/plugin/codestar-framework/fields/date/date.php:31
+msgid "From"
+msgstr ""
+
+#: includes/plugin/codestar-framework/fields/background/background.php:90
+#: includes/plugin/codestar-framework/fields/datetime/datetime.php:37
+#: includes/plugin/codestar-framework/fields/date/date.php:32
+msgid "To"
+msgstr ""
+
+#: includes/plugin/codestar-framework/fields/background/background.php:108
+msgid "Direction"
+msgstr ""
+
+#: includes/plugin/codestar-framework/fields/background/background.php:114
+msgid "Gradient Direction"
+msgstr ""
+
+#: includes/plugin/codestar-framework/fields/background/background.php:115
+msgid "&#8659; top to bottom"
+msgstr ""
+
+#: includes/plugin/codestar-framework/fields/background/background.php:116
+msgid "&#8658; left to right"
+msgstr ""
+
+#: includes/plugin/codestar-framework/fields/background/background.php:117
+msgid "&#8664; corner top to right"
+msgstr ""
+
+#: includes/plugin/codestar-framework/fields/background/background.php:118
+msgid "&#8665; corner top to left"
+msgstr ""
+
+#: includes/plugin/codestar-framework/fields/background/background.php:161
+msgid "Background Position"
+msgstr ""
+
+#: includes/plugin/codestar-framework/fields/background/background.php:162
+msgid "Left Top"
+msgstr ""
+
+#: includes/plugin/codestar-framework/fields/background/background.php:163
+msgid "Left Center"
+msgstr ""
+
+#: includes/plugin/codestar-framework/fields/background/background.php:164
+msgid "Left Bottom"
+msgstr ""
+
+#: includes/plugin/codestar-framework/fields/background/background.php:165
+msgid "Center Top"
+msgstr ""
+
+#: includes/plugin/codestar-framework/fields/background/background.php:166
+msgid "Center Center"
+msgstr ""
+
+#: includes/plugin/codestar-framework/fields/background/background.php:167
+msgid "Center Bottom"
+msgstr ""
+
+#: includes/plugin/codestar-framework/fields/background/background.php:168
+msgid "Right Top"
+msgstr ""
+
+#: includes/plugin/codestar-framework/fields/background/background.php:169
+msgid "Right Center"
+msgstr ""
+
+#: includes/plugin/codestar-framework/fields/background/background.php:170
+msgid "Right Bottom"
+msgstr ""
+
+#: includes/plugin/codestar-framework/fields/background/background.php:184
+msgid "Background Repeat"
+msgstr ""
+
+#: includes/plugin/codestar-framework/fields/background/background.php:185
+msgid "Repeat"
+msgstr ""
+
+#: includes/plugin/codestar-framework/fields/background/background.php:186
+msgid "No Repeat"
+msgstr ""
+
+#: includes/plugin/codestar-framework/fields/background/background.php:187
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: includes/plugin/codestar-framework/fields/background/background.php:188
+msgid "Repeat Vertically"
+msgstr ""
+
+#: includes/plugin/codestar-framework/fields/background/background.php:202
+msgid "Background Attachment"
+msgstr ""
+
+#: includes/plugin/codestar-framework/fields/background/background.php:203
+msgid "Scroll"
+msgstr ""
+
+#: includes/plugin/codestar-framework/fields/background/background.php:204
+#: views/woocommerce/discount/add-price-rules-simple.php:25
+#: views/woocommerce/discount/add-price-rules-variation.php:27
+msgid "Fixed"
+msgstr ""
+
+#: includes/plugin/codestar-framework/fields/background/background.php:218
+msgid "Background Size"
+msgstr ""
+
+#: includes/plugin/codestar-framework/fields/background/background.php:219
+msgid "Cover"
+msgstr ""
+
+#: includes/plugin/codestar-framework/fields/background/background.php:220
+msgid "Contain"
+msgstr ""
+
+#: includes/plugin/codestar-framework/fields/background/background.php:221
+msgid "Auto"
+msgstr ""
+
+#: includes/plugin/codestar-framework/fields/background/background.php:235
+msgid "Background Origin"
+msgstr ""
+
+#: includes/plugin/codestar-framework/fields/background/background.php:236
+#: includes/plugin/codestar-framework/fields/background/background.php:254
+msgid "Padding Box"
+msgstr ""
+
+#: includes/plugin/codestar-framework/fields/background/background.php:237
+#: includes/plugin/codestar-framework/fields/background/background.php:253
+msgid "Border Box"
+msgstr ""
+
+#: includes/plugin/codestar-framework/fields/background/background.php:238
+#: includes/plugin/codestar-framework/fields/background/background.php:255
+msgid "Content Box"
+msgstr ""
+
+#: includes/plugin/codestar-framework/fields/background/background.php:252
+msgid "Background Clip"
+msgstr ""
+
+#: includes/plugin/codestar-framework/fields/background/background.php:269
+msgid "Background Blend Mode"
+msgstr ""
+
+#: includes/plugin/codestar-framework/fields/background/background.php:270
+#: includes/plugin/codestar-framework/fields/link_color/link_color.php:36
+#: includes/plugin/codestar-framework/fields/typography/typography.php:186
+msgid "Normal"
+msgstr ""
+
+#: includes/plugin/codestar-framework/fields/background/background.php:271
+msgid "Multiply"
+msgstr ""
+
+#: includes/plugin/codestar-framework/fields/background/background.php:272
+msgid "Screen"
+msgstr ""
+
+#: includes/plugin/codestar-framework/fields/background/background.php:273
+msgid "Overlay"
+msgstr ""
+
+#: includes/plugin/codestar-framework/fields/background/background.php:274
+msgid "Darken"
+msgstr ""
+
+#: includes/plugin/codestar-framework/fields/background/background.php:275
+msgid "Lighten"
+msgstr ""
+
+#: includes/plugin/codestar-framework/fields/background/background.php:276
+msgid "Color Dodge"
+msgstr ""
+
+#: includes/plugin/codestar-framework/fields/background/background.php:277
+msgid "Saturation"
+msgstr ""
+
+#: includes/plugin/codestar-framework/fields/background/background.php:279
+msgid "Luminosity"
+msgstr ""
+
+#: includes/plugin/codestar-framework/fields/border/border.php:25
+#: includes/plugin/codestar-framework/fields/spacing/spacing.php:25
+msgid "top"
+msgstr ""
+
+#: includes/plugin/codestar-framework/fields/border/border.php:26
+#: includes/plugin/codestar-framework/fields/spacing/spacing.php:26
+msgid "right"
+msgstr ""
+
+#: includes/plugin/codestar-framework/fields/border/border.php:27
+#: includes/plugin/codestar-framework/fields/spacing/spacing.php:27
+msgid "bottom"
+msgstr ""
+
+#: includes/plugin/codestar-framework/fields/border/border.php:28
+#: includes/plugin/codestar-framework/fields/spacing/spacing.php:28
+msgid "left"
+msgstr ""
+
+#: includes/plugin/codestar-framework/fields/border/border.php:29
+#: includes/plugin/codestar-framework/fields/spacing/spacing.php:29
+msgid "all"
+msgstr ""
+
+#: includes/plugin/codestar-framework/fields/border/border.php:51
+#: includes/plugin/codestar-framework/fields/typography/typography.php:214
+msgid "Solid"
+msgstr ""
+
+#: includes/plugin/codestar-framework/fields/border/border.php:52
+#: includes/plugin/codestar-framework/fields/typography/typography.php:217
+msgid "Dashed"
+msgstr ""
+
+#: includes/plugin/codestar-framework/fields/border/border.php:53
+#: includes/plugin/codestar-framework/fields/typography/typography.php:216
+msgid "Dotted"
+msgstr ""
+
+#: includes/plugin/codestar-framework/fields/border/border.php:54
+#: includes/plugin/codestar-framework/fields/typography/typography.php:215
+msgid "Double"
+msgstr ""
+
+#: includes/plugin/codestar-framework/fields/border/border.php:55
+msgid "Inset"
+msgstr ""
+
+#: includes/plugin/codestar-framework/fields/border/border.php:56
+msgid "Outset"
+msgstr ""
+
+#: includes/plugin/codestar-framework/fields/border/border.php:57
+msgid "Groove"
+msgstr ""
+
+#: includes/plugin/codestar-framework/fields/border/border.php:58
+msgid "ridge"
+msgstr ""
+
+#: includes/plugin/codestar-framework/fields/border/border.php:59
+#: includes/plugin/codestar-framework/fields/typography/typography.php:199
+#: includes/plugin/codestar-framework/fields/typography/typography.php:213
+msgid "None"
+msgstr ""
+
+#: includes/plugin/codestar-framework/fields/link_color/link_color.php:37
+msgid "Hover"
+msgstr ""
+
+#: includes/plugin/codestar-framework/fields/link_color/link_color.php:38
+msgid "Active"
+msgstr ""
+
+#: includes/plugin/codestar-framework/fields/link_color/link_color.php:39
+msgid "Visited"
+msgstr ""
+
+#: includes/plugin/codestar-framework/fields/link_color/link_color.php:40
+msgid "Focus"
+msgstr ""
+
+#: includes/plugin/codestar-framework/fields/sorter/sorter.php:21
+msgid "Enabled"
+msgstr ""
+
+#: includes/plugin/codestar-framework/fields/sorter/sorter.php:22
+msgid "Disabled"
+msgstr ""
+
+#: includes/plugin/codestar-framework/fields/switcher/switcher.php:20
+msgid "On"
+msgstr ""
+
+#: includes/plugin/codestar-framework/fields/switcher/switcher.php:21
+msgid "Off"
+msgstr ""
+
+#: includes/plugin/codestar-framework/fields/group/group.php:35
+#: includes/plugin/codestar-framework/fields/repeater/repeater.php:27
+msgid "Error: Field ID conflict."
+msgstr ""
+
+#: includes/plugin/codestar-framework/fields/group/group.php:46
+#: includes/plugin/codestar-framework/fields/group/group.php:87
+#: includes/plugin/codestar-framework/fields/repeater/repeater.php:48
+#: includes/plugin/codestar-framework/fields/repeater/repeater.php:76
+msgid "Are you sure to delete this item?"
+msgstr ""
+
+#: includes/plugin/codestar-framework/fields/group/group.php:121
+#: includes/plugin/codestar-framework/fields/repeater/repeater.php:89
+msgid "You cannot add more."
+msgstr ""
+
+#: includes/plugin/codestar-framework/fields/group/group.php:122
+#: includes/plugin/codestar-framework/fields/repeater/repeater.php:90
+msgid "You cannot remove more."
+msgstr ""
+
+#: includes/plugin/codestar-framework/fields/gallery/gallery.php:20
+msgid "Add Gallery"
+msgstr ""
+
+#: includes/plugin/codestar-framework/fields/gallery/gallery.php:21
+msgid "Edit Gallery"
+msgstr ""
+
+#: includes/plugin/codestar-framework/fields/gallery/gallery.php:22
+msgid "Clear"
+msgstr ""
+
+#: includes/plugin/codestar-framework/fields/map/map.php:24
+msgid "Latitude"
+msgstr ""
+
+#: includes/plugin/codestar-framework/fields/map/map.php:25
+msgid "Longitude"
+msgstr ""
+
+#: includes/plugin/codestar-framework/fields/link/link.php:20
+msgid "Add Link"
+msgstr ""
+
+#: includes/plugin/codestar-framework/fields/link/link.php:21
+msgid "Edit Link"
+msgstr ""
+
+#: includes/plugin/codestar-framework/fields/link/link.php:22
+msgid "Remove Link"
+msgstr ""
+
+#: includes/plugin/codestar-framework/fields/typography/typography.php:96
+msgid "Font Family"
+msgstr ""
+
+#: includes/plugin/codestar-framework/fields/typography/typography.php:97
+msgid "Select a font"
+msgstr ""
+
+#: includes/plugin/codestar-framework/fields/typography/typography.php:105
+msgid "Backup Font Family"
+msgstr ""
+
+#: includes/plugin/codestar-framework/fields/typography/typography.php:119
+#: includes/plugin/codestar-framework/fields/typography/typography.php:132
+#: includes/plugin/codestar-framework/fields/typography/typography.php:145
+#: includes/plugin/codestar-framework/fields/typography/typography.php:160
+#: includes/plugin/codestar-framework/fields/typography/typography.php:176
+#: includes/plugin/codestar-framework/fields/typography/typography.php:189
+#: includes/plugin/codestar-framework/fields/typography/typography.php:203
+#: includes/plugin/codestar-framework/fields/typography/typography.php:221
+msgid "Default"
+msgstr ""
+
+#: includes/plugin/codestar-framework/fields/typography/typography.php:130
+msgid "Font Style"
+msgstr ""
+
+#: includes/plugin/codestar-framework/fields/typography/typography.php:144
+#: includes/plugin/codestar-framework/fields/typography/typography.php:145
+msgid "Load Extra Styles"
+msgstr ""
+
+#: includes/plugin/codestar-framework/fields/typography/typography.php:158
+msgid "Subset"
+msgstr ""
+
+#: includes/plugin/codestar-framework/fields/typography/typography.php:168
+msgid "Text Align"
+msgstr ""
+
+#: includes/plugin/codestar-framework/fields/typography/typography.php:170
+msgid "Inherit"
+msgstr ""
+
+#: includes/plugin/codestar-framework/fields/typography/typography.php:171
+msgid "Left"
+msgstr ""
+
+#: includes/plugin/codestar-framework/fields/typography/typography.php:172
+msgid "Center"
+msgstr ""
+
+#: includes/plugin/codestar-framework/fields/typography/typography.php:173
+msgid "Right"
+msgstr ""
+
+#: includes/plugin/codestar-framework/fields/typography/typography.php:174
+msgid "Justify"
+msgstr ""
+
+#: includes/plugin/codestar-framework/fields/typography/typography.php:175
+msgid "Initial"
+msgstr ""
+
+#: includes/plugin/codestar-framework/fields/typography/typography.php:184
+msgid "Font Variant"
+msgstr ""
+
+#: includes/plugin/codestar-framework/fields/typography/typography.php:187
+msgid "Small Caps"
+msgstr ""
+
+#: includes/plugin/codestar-framework/fields/typography/typography.php:188
+msgid "All Small Caps"
+msgstr ""
+
+#: includes/plugin/codestar-framework/fields/typography/typography.php:197
+msgid "Text Transform"
+msgstr ""
+
+#: includes/plugin/codestar-framework/fields/typography/typography.php:200
+msgid "Capitalize"
+msgstr ""
+
+#: includes/plugin/codestar-framework/fields/typography/typography.php:201
+msgid "Uppercase"
+msgstr ""
+
+#: includes/plugin/codestar-framework/fields/typography/typography.php:202
+msgid "Lowercase"
+msgstr ""
+
+#: includes/plugin/codestar-framework/fields/typography/typography.php:211
+msgid "Text Decoration"
+msgstr ""
+
+#: includes/plugin/codestar-framework/fields/typography/typography.php:218
+msgid "Wavy"
+msgstr ""
+
+#: includes/plugin/codestar-framework/fields/typography/typography.php:219
+msgid "Overline"
+msgstr ""
+
+#: includes/plugin/codestar-framework/fields/typography/typography.php:220
+msgid "Line-through"
+msgstr ""
+
+#: includes/plugin/codestar-framework/fields/typography/typography.php:233
+msgid "Font Size"
+msgstr ""
+
+#: includes/plugin/codestar-framework/fields/typography/typography.php:245
+msgid "Line Height"
+msgstr ""
+
+#: includes/plugin/codestar-framework/fields/typography/typography.php:257
+msgid "Letter Spacing"
+msgstr ""
+
+#: includes/plugin/codestar-framework/fields/typography/typography.php:269
+msgid "Word Spacing"
+msgstr ""
+
+#: includes/plugin/codestar-framework/fields/typography/typography.php:284
+msgid "Font Color"
+msgstr ""
+
+#: includes/plugin/codestar-framework/fields/typography/typography.php:295
+msgid "Custom Style"
+msgstr ""
+
+#: includes/plugin/codestar-framework/fields/typography/typography.php:362
+msgid "Custom Web Fonts"
+msgstr ""
+
+#: includes/plugin/codestar-framework/fields/typography/typography.php:368
+msgid "Safe Web Fonts"
+msgstr ""
+
+#: includes/plugin/codestar-framework/fields/typography/typography.php:388
+msgid "Google Web Fonts"
+msgstr ""
+
+#: includes/plugin/codestar-framework/fields/icon/icon.php:20
+#: includes/plugin/codestar-framework/fields/icon/icon.php:53
+msgid "Add Icon"
+msgstr ""
+
+#: includes/plugin/codestar-framework/fields/icon/icon.php:21
+msgid "Remove Icon"
+msgstr ""
+
+#: includes/plugin/codestar-framework/fields/dimensions/dimensions.php:22
+msgid "width"
+msgstr ""
+
+#: includes/plugin/codestar-framework/fields/dimensions/dimensions.php:23
+msgid "height"
+msgstr ""
+
+#: includes/plugin/codestar-framework/fields/backup/backup.php:29
+msgid "Export & Download"
+msgstr ""
+
+#: includes/plugin/codestar-framework/fields/upload/upload.php:24
+#: includes/plugin/codestar-framework/fields/media/media.php:25
+msgid "Upload"
+msgstr ""
+
+#: includes/shortcodes/brands.php:49
+msgid "Show All"
+msgstr ""
+
+#: includes/shortcodes/instagram.php:124
+msgid "Find us on Instagram"
+msgstr ""
+
+#: includes/shortcodes/portfolio.php:60
+#: includes/portfolio/views/archive.php:58
+msgid "All"
+msgstr ""
+
+#: includes/shortcodes/blog.php:128 includes/shortcodes/blog.php:165
+#: includes/shortcodes/blog.php:198 includes/shortcodes/blog.php:232
+#: includes/shortcodes/blog.php:269
+#, php-format
+msgid "The photos should be at least %spx x %spx"
+msgstr ""
+
+#: includes/shortcodes/blog.php:134 includes/shortcodes/blog.php:237
+#: includes/shortcodes/blog.php:279
+msgid "By "
+msgstr ""
+
+#: includes/shortcodes/blog.php:135 includes/shortcodes/blog.php:170
+#: includes/shortcodes/blog.php:203 includes/shortcodes/blog.php:238
+msgid "on "
+msgstr ""
+
+#: includes/shortcodes/blog.php:278
+#, php-format
+msgid "%1$s"
+msgstr ""
+
+#: includes/shortcodes/products.php:191
+#: includes/portfolio/views/archive.php:107
+msgid "Load More"
+msgstr ""
+
+#: includes/portfolio/init.php:46 includes/portfolio/init.php:47
+#: includes/portfolio/init.php:48 includes/portfolio/init.php:49
+msgctxt "kalles-addons"
+msgid "Portfolio"
+msgstr ""
+
+#: includes/portfolio/init.php:50 includes/megamenu/init.php:55
+msgctxt "kalles-addons"
+msgid "Add New"
+msgstr ""
+
+#: includes/portfolio/init.php:51
+msgid "Add New Portfolio"
+msgstr ""
+
+#: includes/portfolio/init.php:52
+msgid "New Portfolio"
+msgstr ""
+
+#: includes/portfolio/init.php:53
+msgid "Edit Portfolio"
+msgstr ""
+
+#: includes/portfolio/init.php:54
+msgid "View Portfolio"
+msgstr ""
+
+#: includes/portfolio/init.php:55
+msgid "All Portfolios"
+msgstr ""
+
+#: includes/portfolio/init.php:56
+msgid "Search Portfolios"
+msgstr ""
+
+#: includes/portfolio/init.php:57
+msgid "Parent Portfolios:"
+msgstr ""
+
+#: includes/portfolio/init.php:58 includes/megamenu/init.php:63
+msgid "No portfolios found."
+msgstr ""
+
+#: includes/portfolio/init.php:59 includes/megamenu/init.php:64
+msgid "No portfolios found in Trash."
+msgstr ""
+
+#: includes/portfolio/init.php:74
+msgctxt "kalles-addons"
+msgid "Categories"
+msgstr ""
+
+#: includes/portfolio/init.php:75
+msgctxt "kalles-addons"
+msgid "Category"
+msgstr ""
+
+#: includes/portfolio/init.php:76
+msgid "Search Categories"
+msgstr ""
+
+#: includes/portfolio/init.php:77
+msgid "All Categories"
+msgstr ""
+
+#: includes/portfolio/init.php:78
+msgid "Parent Category"
+msgstr ""
+
+#: includes/portfolio/init.php:79
+msgid "Parent Category:"
+msgstr ""
+
+#: includes/portfolio/init.php:80
+msgid "Edit Category"
+msgstr ""
+
+#: includes/portfolio/init.php:81
+msgid "Update Category"
+msgstr ""
+
+#: includes/portfolio/init.php:82
+msgid "Add New Category"
+msgstr ""
+
+#: includes/portfolio/init.php:83
+msgid "New Category Name"
+msgstr ""
+
+#: includes/portfolio/init.php:84
+msgid "Categories"
+msgstr ""
+
+#: includes/portfolio/init.php:99
+msgctxt "kalles-addons"
+msgid "Clients"
+msgstr ""
+
+#: includes/portfolio/init.php:100
+msgctxt "kalles-addons"
+msgid "Client"
+msgstr ""
+
+#: includes/portfolio/init.php:101
+msgid "Search Clients"
+msgstr ""
+
+#: includes/portfolio/init.php:102
+msgid "All Clients"
+msgstr ""
+
+#: includes/portfolio/init.php:105
+msgid "Edit Client"
+msgstr ""
+
+#: includes/portfolio/init.php:106
+msgid "Update Client"
+msgstr ""
+
+#: includes/portfolio/init.php:107
+msgid "Add New Client"
+msgstr ""
+
+#: includes/portfolio/init.php:108
+msgid "New Client Name"
+msgstr ""
+
+#: includes/portfolio/init.php:109
+msgid "Separate client with commas"
+msgstr ""
+
+#: includes/portfolio/init.php:110
+msgid "Add or remove client"
+msgstr ""
+
+#: includes/portfolio/init.php:111
+msgid "Choose from the most used client"
+msgstr ""
+
+#: includes/portfolio/init.php:112
+msgid "No client found."
+msgstr ""
+
+#: includes/portfolio/init.php:113
+msgid "Clients"
+msgstr ""
+
+#: includes/portfolio/init.php:129
+msgctxt "kalles-addons"
+msgid "Tags"
+msgstr ""
+
+#: includes/portfolio/init.php:130
+msgctxt "kalles-addons"
+msgid "Tag"
+msgstr ""
+
+#: includes/portfolio/init.php:131
+msgid "Search Tags"
+msgstr ""
+
+#: includes/portfolio/init.php:132
+msgid "Popular Tags"
+msgstr ""
+
+#: includes/portfolio/init.php:133
+msgid "All Tags"
+msgstr ""
+
+#: includes/portfolio/init.php:136
+msgid "Edit Tag"
+msgstr ""
+
+#: includes/portfolio/init.php:137
+msgid "Update Tag"
+msgstr ""
+
+#: includes/portfolio/init.php:138
+msgid "Add New Tag"
+msgstr ""
+
+#: includes/portfolio/init.php:139
+msgid "New Tag Name"
+msgstr ""
+
+#: includes/portfolio/init.php:140
+msgid "Separate tag with commas"
+msgstr ""
+
+#: includes/portfolio/init.php:141
+msgid "Add or remove tag"
+msgstr ""
+
+#: includes/portfolio/init.php:142
+msgid "Choose from the most used tag"
+msgstr ""
+
+#: includes/portfolio/init.php:143
+msgid "No tag found."
+msgstr ""
+
+#: includes/portfolio/init.php:144
+msgid "Tags"
+msgstr ""
+
+#: includes/portfolio/init.php:222 includes/megamenu/init.php:150
+msgid "Related Portfolio"
+msgstr ""
+
+#: includes/portfolio/views/single.php:19
+msgid "Categories: "
+msgstr ""
+
+#: includes/portfolio/views/single.php:20
+msgid "Clients: "
+msgstr ""
+
+#: includes/portfolio/views/single.php:21
+msgid "Tags: "
+msgstr ""
+
+#: includes/megamenu/init.php:51 includes/megamenu/init.php:52
+#: includes/megamenu/init.php:53 includes/megamenu/init.php:54
+msgctxt "kalles-addons"
+msgid "Megamenu"
+msgstr ""
+
+#: includes/megamenu/init.php:56
+msgid "Add menu block"
+msgstr ""
+
+#: includes/megamenu/init.php:57
+msgid "New Megamenu"
+msgstr ""
+
+#: includes/megamenu/init.php:58
+msgid "Edit Megamenu"
+msgstr ""
+
+#: includes/megamenu/init.php:59
+msgid "View Megamenu"
+msgstr ""
+
+#: includes/megamenu/init.php:60
+msgid "All Megamenus"
+msgstr ""
+
+#: includes/megamenu/init.php:61
+msgid "Search Megamenus"
+msgstr ""
+
+#: includes/megamenu/init.php:62
+msgid "Parent Megamenus:"
+msgstr ""
+
+#: includes/megamenu/init.php:83 includes/widgets/recent-posts.php:158
+msgid "Title"
+msgstr ""
+
+#: includes/megamenu/init.php:84
+msgid "Shortcode"
+msgstr ""
+
+#: includes/megamenu/init.php:85
+msgid "Date"
+msgstr ""
+
+#: includes/currency/init.php:70 includes/currency/views/backend.php:54
+msgid "All Currencies"
+msgstr ""
+
+#: includes/currency/init.php:71
+msgid "Currencies"
+msgstr ""
+
+#: includes/currency/init.php:501
+#, php-format
+msgid "(includes %s)"
+msgstr ""
+
+#: includes/currency/views/backend.php:60
+#: includes/currency/views/backend.php:163
+msgid "Currency"
+msgstr ""
+
+#: includes/currency/views/backend.php:61
+#: includes/currency/views/backend.php:173
+msgid "Currency Position"
+msgstr ""
+
+#: includes/currency/views/backend.php:62
+#: includes/currency/views/backend.php:184
+msgid "Thousand Separator"
+msgstr ""
+
+#: includes/currency/views/backend.php:63
+#: includes/currency/views/backend.php:188
+msgid "Decimal Separator"
+msgstr ""
+
+#: includes/currency/views/backend.php:64
+#: includes/currency/views/backend.php:192
+msgid "Number of Decimals"
+msgstr ""
+
+#: includes/currency/views/backend.php:65
+#, php-format
+msgid "Exchange Rate(In %s)"
+msgstr ""
+
+#: includes/currency/views/backend.php:66
+msgid "Action"
+msgstr ""
+
+#: includes/currency/views/backend.php:71
+msgid "No currency found ..."
+msgstr ""
+
+#: includes/currency/views/backend.php:78
+msgid "Update Rate"
+msgstr ""
+
+#: includes/currency/views/backend.php:79
+#: includes/currency/views/backend.php:151
+msgid "New Currency"
+msgstr ""
+
+#: includes/currency/views/backend.php:89
+msgid "Auto update currency"
+msgstr ""
+
+#: includes/currency/views/backend.php:104
+msgid "Api Key"
+msgstr ""
+
+#: includes/currency/views/backend.php:108
+msgid ""
+"Get Free Api Key from <a href=\"https://fixer.io/signup/free\" target="
+"\"_blank\">Fixer.io</a>"
+msgstr ""
+
+#: includes/currency/views/backend.php:113
+msgid "Auto update after"
+msgstr ""
+
+#: includes/currency/views/backend.php:117
+msgid "Type 0 if you want to disable this function."
+msgstr ""
+
+#: includes/currency/views/backend.php:122
+msgid "Last update:"
+msgstr ""
+
+#: includes/currency/views/backend.php:176
+msgid "Left ($99.99)"
+msgstr ""
+
+#: includes/currency/views/backend.php:177
+msgid "Right (99.99$)"
+msgstr ""
+
+#: includes/currency/views/backend.php:178
+msgid "Left with space ($ 99.99)"
+msgstr ""
+
+#: includes/currency/views/backend.php:179
+msgid "Right with space (99.99 $)"
+msgstr ""
+
+#: includes/currency/views/backend.php:196
+msgid "Exchange Rate"
+msgstr ""
+
+#: includes/widgets/recent-posts.php:32
+msgid "Your site&#8217;s most recent Posts."
+msgstr ""
+
+#: includes/widgets/recent-posts.php:35
+msgid "Kalles Recent Posts"
+msgstr ""
+
+#: includes/widgets/recent-posts.php:53
+msgid "Recent Posts"
+msgstr ""
+
+#: includes/widgets/recent-posts.php:163
+msgid "All categories"
+msgstr ""
+
+#: includes/widgets/recent-posts.php:170
+msgid "Number of posts to show:"
+msgstr ""
+
+#: includes/widgets/recent-posts.php:173
+msgid "Display post date?"
+msgstr ""
+
+#: views/woocommerce/discount/add-price-rules-simple.php:14
+#: views/woocommerce/discount/add-price-rules-variation.php:15
+msgid "Discount label"
+msgstr ""
+
+#: views/woocommerce/discount/add-price-rules-simple.php:22
+#: views/woocommerce/discount/add-price-rules-variation.php:23
+msgid "Discount pricing type"
+msgstr ""
+
+#: views/woocommerce/discount/add-price-rules-simple.php:26
+#: views/woocommerce/discount/add-price-rules-variation.php:28
+msgid "Percentage"
+msgstr ""
+
+#: views/woocommerce/discount/add-price-rules-simple.php:32
+#: views/woocommerce/discount/add-price-rules-simple.php:71
+#: views/woocommerce/discount/add-price-rules-variation.php:36
+#: views/woocommerce/discount/add-price-rules-variation.php:83
+msgid "Discount price rule"
+msgstr ""
+
+#: views/woocommerce/discount/add-price-rules-simple.php:40
+#: views/woocommerce/discount/add-price-rules-simple.php:56
+#: views/woocommerce/discount/add-price-rules-simple.php:77
+#: views/woocommerce/discount/add-price-rules-simple.php:92
+#: views/woocommerce/discount/add-price-rules-variation.php:48
+#: views/woocommerce/discount/add-price-rules-variation.php:68
+#: views/woocommerce/discount/add-price-rules-variation.php:93
+#: views/woocommerce/discount/add-price-rules-variation.php:111
+msgid "Quantity"
+msgstr ""
+
+#: views/woocommerce/discount/add-price-rules-simple.php:42
+#: views/woocommerce/discount/add-price-rules-simple.php:58
+#: views/woocommerce/discount/add-price-rules-variation.php:51
+#: views/woocommerce/discount/add-price-rules-variation.php:70
+msgid "Price"
+msgstr ""
+
+#: views/woocommerce/discount/add-price-rules-simple.php:65
+#: views/woocommerce/discount/add-price-rules-simple.php:101
+#: views/woocommerce/discount/add-price-rules-variation.php:77
+#: views/woocommerce/discount/add-price-rules-variation.php:120
+msgid "New rule"
+msgstr ""
+
+#: views/woocommerce/discount/add-price-rules-simple.php:80
+#: views/woocommerce/discount/add-price-rules-simple.php:94
+#: views/woocommerce/discount/add-price-rules-variation.php:96
+#: views/woocommerce/discount/add-price-rules-variation.php:113
+msgid "Percent discount"
+msgstr ""
+
+#: views/woocommerce/discount/price-fixed-view.php:11
+msgid "Buy more save more !"
+msgstr ""
+
+#: views/woocommerce/discount/price-fixed-view.php:63
+#: views/woocommerce/discount/price-fixed-view.php:81
+msgid "OFF"
+msgstr ""
+
+#: views/woocommerce/discount/price-fixed-view.php:67
+#: views/woocommerce/discount/price-fixed-view.php:85
+msgid "on each product"
+msgstr ""
+
+#: views/woocommerce/discount/price-fixed-view.php:73
+#: views/woocommerce/discount/price-fixed-view.php:91
+msgid "Add"
+msgstr ""

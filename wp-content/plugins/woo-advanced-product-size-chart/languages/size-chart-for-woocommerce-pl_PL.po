@@ -1,0 +1,1051 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2016-08-31 12:22+0530\n"
+"PO-Revision-Date: 2021-09-08 05:21+0000\n"
+"Last-Translator: \n"
+"Language-Team: Polish\n"
+"Language: pl_PL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2);\n"
+"X-Poedit-KeywordsList: __;_e;_x\n"
+"X-Poedit-SearchPath-0: .\n"
+"Report-Msgid-Bugs-To: \n"
+"X-Loco-Version: 2.5.3; wp-5.8"
+
+#: includes/class-size-chart-for-woocommerce-user-feedback.php:114
+#, php-format
+msgid "%s days"
+msgstr ""
+
+#: includes/class-size-chart-for-woocommerce-user-feedback.php:123
+#, php-format
+msgid "%s hours"
+msgstr ""
+
+#: includes/class-size-chart-for-woocommerce-user-feedback.php:132
+#, php-format
+msgid "%s minutes"
+msgstr ""
+
+#: includes/class-size-chart-for-woocommerce-user-feedback.php:141
+#, php-format
+msgid "%s seconds"
+msgstr ""
+
+#: includes/class-size-chart-for-woocommerce-user-feedback.php:105
+#, php-format
+msgid "%s weeks"
+msgstr ""
+
+#: includes/class-size-chart-for-woocommerce-user-feedback.php:96
+#, php-format
+msgid "%s years"
+msgstr ""
+
+#: admin/partials/size-chart-settings-form.php:55
+msgid "(Available in Pro Version) "
+msgstr ""
+
+#: includes/class-size-chart-for-woocommerce-functions.php:649
+msgid "<<"
+msgstr ""
+
+#: includes/class-size-chart-for-woocommerce-functions.php:699
+msgid ">>"
+msgstr ""
+
+#: includes/class-size-chart-for-woocommerce-user-feedback.php:116
+msgid "a day"
+msgstr ""
+
+#: includes/class-size-chart-for-woocommerce-user-feedback.php:134
+msgid "a minute"
+msgstr ""
+
+#: includes/class-size-chart-for-woocommerce-user-feedback.php:143
+msgid "a second"
+msgstr ""
+
+#: includes/class-size-chart-for-woocommerce-user-feedback.php:107
+msgid "a week"
+msgstr ""
+
+#: includes/class-size-chart-for-woocommerce-user-feedback.php:98
+msgid "a year"
+msgstr ""
+
+#: admin/class-size-chart-for-woocommerce-admin.php:1541
+msgid "About"
+msgstr ""
+
+#: admin/class-size-chart-for-woocommerce-admin.php:841
+msgid "Action"
+msgstr "Akcja"
+
+#: admin/class-size-chart-for-woocommerce-admin.php:251
+#: admin/class-size-chart-for-woocommerce-admin.php:1526
+msgid "Add New"
+msgstr "Dodaj nowe"
+
+#: admin/class-size-chart-for-woocommerce-admin.php:252
+msgid "Add New Size Charts"
+msgstr "Dodaj nowy rozmiar wykresy"
+
+#: admin/class-size-chart-for-woocommerce-admin.php:932
+msgid "Add product custom size guides to any of your WooCommerce products."
+msgstr ""
+"Dodaj produkt niestandardowy rozmiar prowadnice do każdego z produktów firmy "
+"WooCommerce."
+
+#: admin/partials/size-chart-meta-box-content-form.php:241
+msgid "Add/Edit chart below"
+msgstr "Dodawanie / Edycja wykresu poniżej"
+
+#: admin/partials/size-chart-meta-box-content-form.php:74
+msgid "Add/Edit primary chart image below"
+msgstr "Dodawanie / Edycja podstawowa obrazek poniżej wykresu"
+
+#: admin/partials/size-chart-meta-box-content-form.php:206
+msgid "Additional Tab"
+msgstr "Dodatkowe Tab"
+
+#: admin/partials/size-chart-settings-form.php:217
+msgid "After Add to Cart"
+msgstr "Po Dodaj do koszyka"
+
+#: admin/partials/size-chart-settings-form.php:219
+msgid "After Product Meta"
+msgstr "Po Meta Produktu"
+
+#: admin/class-size-chart-for-woocommerce-admin.php:256
+msgid "All Size Charts"
+msgstr "Wszystkie zestawienie rozmiarów"
+
+#: admin/partials/header/plugin-header.php:36
+msgid ""
+"Allows you to assign ready-to-use default size chart templates to the "
+"product, category, and create custom size chart for your WooCommerce "
+"products."
+msgstr ""
+
+#: includes/class-size-chart-for-woocommerce-user-feedback.php:125
+msgid "an hour"
+msgstr ""
+
+#: admin/class-size-chart-for-woocommerce-admin.php:651
+msgid "Assign Category"
+msgstr "Przypisywanie Kategoria"
+
+#: admin/class-size-chart-for-woocommerce-admin.php:662
+msgid "Assign Product"
+msgstr "Przypisywanie produkt"
+
+#: admin/partials/size-chart-settings-form.php:218
+msgid "Before Add to Cart"
+msgstr "Przed Dodaj do koszyka"
+
+#: admin/partials/size-chart-settings-form.php:212
+msgid "Before Summary Text"
+msgstr "Przed Podsumowanie Tekst"
+
+#: admin/partials/header/plugin-sidebar.php:65
+msgid "Changelog"
+msgstr ""
+
+#: admin/partials/size-chart-meta-box-content-form.php:159
+msgid "Chart Attributes"
+msgstr ""
+
+#: admin/partials/size-chart-meta-box-content-form.php:99
+msgid "Chart Categories"
+msgstr "wykres Kategorie"
+
+#: admin/partials/size-chart-meta-box-content-form.php:58
+msgid "Chart Label"
+msgstr "Wykres Label"
+
+#: admin/partials/size-chart-settings-form.php:206
+msgid "Chart Popup Label Position"
+msgstr "Wykres Popup Label Position"
+
+#: admin/partials/size-chart-meta-box-content-form.php:197
+msgid "Chart Position"
+msgstr "Wykres Pozycja"
+
+#: admin/partials/size-chart-meta-box-content-form.php:236
+msgid "Chart Table"
+msgstr "Wykres Tabela"
+
+#: admin/partials/size-chart-meta-box-content-form.php:215
+msgid "Chart Table Style"
+msgstr "Wykres Tabela Style"
+
+#: admin/partials/size-chart-meta-box-content-form.php:220
+msgid "Chart Table Styles (Default Style)"
+msgstr "Wykres Tabela Style ( Styl domyślny )"
+
+#: admin/partials/size-chart-meta-box-content-form.php:127
+msgid "Chart Tags"
+msgstr ""
+
+#: admin/class-size-chart-for-woocommerce-admin.php:1342
+#: admin/class-size-chart-for-woocommerce-admin.php:1349
+#: admin/class-size-chart-for-woocommerce-admin.php:1361
+#: admin/class-size-chart-for-woocommerce-admin.php:1368
+#: admin/class-size-chart-for-woocommerce-admin.php:1410
+#: admin/class-size-chart-for-woocommerce-admin.php:1417
+msgid "Chest : "
+msgstr ""
+
+#: admin/partials/size-chart-meta-box-content-form.php:226
+msgid "Classic"
+msgstr "Klasyczny"
+
+#: admin/partials/size-chart-information-page.php:41
+msgid "Click here"
+msgstr ""
+
+#: admin/partials/header/plugin-sidebar.php:48
+msgid "Click here »"
+msgstr ""
+
+#: admin/class-size-chart-for-woocommerce-admin.php:822
+#: public/class-size-chart-for-woocommerce-public.php:327
+#, fuzzy
+#| msgid "Clone"
+msgid "Close"
+msgstr "Clone"
+
+#: admin/partials/size-chart-meta-box-content-form.php:85
+msgid "close icon"
+msgstr ""
+
+#: admin/class-size-chart-for-woocommerce-admin.php:1451
+msgid "cloth-chart"
+msgstr ""
+
+#: admin/class-size-chart-for-woocommerce-admin.php:938
+#: admin/partials/size-chart-settings-form.php:43
+msgid "Comprehensive display"
+msgstr "kompleksowa wyświetlacz"
+
+#: admin/class-size-chart-for-woocommerce-admin.php:1576
+msgid "Contact Support"
+msgstr ""
+
+#: admin/class-size-chart-for-woocommerce-admin.php:936
+#: admin/partials/size-chart-settings-form.php:35
+msgid "Create your own size guide"
+msgstr "Stwórz swój własny przewodnik rozmiarze"
+
+#: admin/partials/size-chart-settings-form.php:251
+msgid "Custom CSS"
+msgstr ""
+
+#: admin/partials/size-chart-meta-box-content-form.php:228
+msgid "Custom Style"
+msgstr "Style niestandardowe"
+
+#: admin/class-size-chart-for-woocommerce-admin.php:859
+msgid "Custom Template"
+msgstr "niestandardowy szablon"
+
+#: admin/class-size-chart-for-woocommerce-admin.php:939
+#: admin/partials/size-chart-settings-form.php:47
+msgid ""
+"Customers will be able to fully understand your product and buy it without "
+"making unnecessary questions regarding size."
+msgstr ""
+"Klienci będą mogli w pełni zrozumieć swój produkt i kupić go bez zbędnych "
+"pytań dotyczących wielkości."
+
+#: admin/class-size-chart-for-woocommerce-admin.php:934
+#: admin/partials/size-chart-settings-form.php:27
+msgid "Default size chart template"
+msgstr "Domyślny szablon tabelę rozmiarów"
+
+#: admin/partials/size-chart-meta-box-content-form.php:224
+msgid "Default Style"
+msgstr "Zaniedbanie Styl"
+
+#: admin/class-size-chart-for-woocommerce-admin.php:857
+msgid "Default Template"
+msgstr "domyślny szablon"
+
+#: admin/class-size-chart-for-woocommerce-admin.php:265
+msgid "Description."
+msgstr "Opis."
+
+#: admin/partials/header/plugin-sidebar.php:58
+msgid "Do you have any feedback &amp; feature requests?"
+msgstr ""
+
+#: includes/class-size-chart-for-woocommerce.php:250
+msgid "Docs"
+msgstr "Docs"
+
+#: admin/partials/header/plugin-header.php:54
+msgid "Documentation"
+msgstr ""
+
+#: admin/class-size-chart-for-woocommerce-admin.php:1561
+msgid "Dotstore"
+msgstr ""
+
+#: admin/class-size-chart-for-woocommerce-admin.php:362
+#: admin/class-size-chart-for-woocommerce-admin.php:363
+msgid "DotStore Plugins"
+msgstr ""
+
+#: admin/class-size-chart-for-woocommerce-admin.php:1586
+msgid "Edit"
+msgstr ""
+
+#: admin/class-size-chart-for-woocommerce-admin.php:254
+msgid "Edit Size Charts"
+msgstr "edytować rozmiar Wykresy"
+
+#: admin/partials/size-chart-information-page.php:75
+msgid "English"
+msgstr ""
+
+#: admin/partials/header/plugin-sidebar.php:87
+msgid "Extra Fees Plugin for WC"
+msgstr ""
+
+#: admin/partials/header/plugin-sidebar.php:112
+msgid "Five Star Support"
+msgstr ""
+
+#: admin/partials/header/plugin-sidebar.php:83
+msgid "Flat Rate Shipping Plugin for WC"
+msgstr ""
+
+#: admin/partials/size-chart-get-started-page.php:30
+msgid ""
+"For each size chart, you can add label, chart image, categories for which "
+"you want the chart to appear, chart position (modal popup/additional tab on "
+"product page) and table style."
+msgstr ""
+
+#: admin/partials/size-chart-get-started-page.php:36
+msgid ""
+"For each size chart, you can create your custom chart table (with as many "
+"rows and columns you would like to include)"
+msgstr ""
+
+#: admin/partials/header/plugin-sidebar.php:95
+msgid "Fraud Prevention Plugin for WC"
+msgstr ""
+
+#: admin/partials/header/plugin-header.php:7
+#: admin/partials/size-chart-information-page.php:11
+msgid "Free Version "
+msgstr ""
+
+#: admin/partials/header/plugin-sidebar.php:44
+msgid "Free vs Pro Feature"
+msgstr ""
+
+#: admin/partials/size-chart-settings-form.php:93
+msgid "General Settings"
+msgstr "Ustawienia główne"
+
+#: admin/class-size-chart-for-woocommerce-admin.php:386
+#: admin/class-size-chart-for-woocommerce-admin.php:387
+msgid "Get Started"
+msgstr ""
+
+#: admin/class-size-chart-for-woocommerce-admin.php:1547
+#: admin/partials/size-chart-get-started-page.php:19
+msgid "Getting Started"
+msgstr ""
+
+#: admin/partials/size-chart-get-started-page.php:26
+msgid "Getting_Started_01"
+msgstr ""
+
+#: admin/partials/size-chart-get-started-page.php:32
+msgid "Getting_Started_02"
+msgstr ""
+
+#: admin/partials/size-chart-get-started-page.php:38
+msgid "Getting_Started_03"
+msgstr ""
+
+#: admin/partials/size-chart-get-started-page.php:44
+msgid "Getting_Started_04"
+msgstr ""
+
+#: admin/partials/size-chart-settings-form.php:152
+msgid "Global Settings"
+msgstr "Ustawienia ogólne"
+
+#: admin/partials/header/plugin-sidebar.php:115
+msgid ""
+"Got a question? Get in touch with theDotstore developers. We are happy to "
+"help!"
+msgstr ""
+
+#: admin/partials/size-chart-information-page.php:59
+msgid "Guide Documentation"
+msgstr ""
+
+#: admin/partials/size-chart-information-page.php:48
+msgid "Help & Support"
+msgstr ""
+
+#: admin/partials/header/plugin-sidebar.php:47
+msgid ""
+"Here’s an at a glance view of the main differences between Premium and free "
+"plugin features."
+msgstr ""
+
+#: admin/class-size-chart-for-woocommerce-admin.php:979
+msgid "Hide Default Template"
+msgstr "Domyślny szablon Ukryj"
+
+#: admin/partials/header/plugin-sidebar.php:99
+msgid "Hide Shipping Method For WC"
+msgstr ""
+
+#: admin/class-size-chart-for-woocommerce-admin.php:1425
+msgid "Hip : "
+msgstr ""
+
+#: admin/class-size-chart-for-woocommerce-admin.php:1376
+#: admin/class-size-chart-for-woocommerce-admin.php:1399
+msgid "Hips : "
+msgstr ""
+
+#: admin/partials/size-chart-meta-box-content-form.php:91
+msgid "Include File"
+msgstr ""
+
+#: admin/class-size-chart-for-woocommerce-admin.php:1403
+#: admin/class-size-chart-for-woocommerce-admin.php:1429
+msgid "Inseam : "
+msgstr ""
+
+#: admin/class-size-chart-for-woocommerce-admin.php:1388
+msgid "Inside leg : "
+msgstr ""
+
+#: admin/partials/size-chart-information-page.php:32
+msgid "Installed Version"
+msgstr ""
+
+#: admin/class-size-chart-for-woocommerce-admin.php:380
+#: admin/class-size-chart-for-woocommerce-admin.php:381
+msgid "Introduction"
+msgstr ""
+
+#: admin/partials/size-chart-settings-form.php:168
+msgid "It is visible on product details page in the custom tab."
+msgstr ""
+"Jest to widoczne na produkt Szczegóły stronie w zakładce niestandardowej."
+
+#: admin/class-size-chart-for-woocommerce-admin.php:1445
+msgid "jeans-chart"
+msgstr ""
+
+#: admin/partials/size-chart-meta-box-content-form.php:53
+msgid "Label"
+msgstr "Etykieta"
+
+#: admin/partials/size-chart-settings-form.php:240
+msgid "Label Class"
+msgstr "etykieta Class"
+
+#: admin/partials/size-chart-settings-form.php:230
+msgid "Label Text Color"
+msgstr "Etykieta Kolor tekstu"
+
+#: admin/partials/header/plugin-sidebar.php:57
+msgid "Let us know how we can improve the plugin experience."
+msgstr ""
+
+#: admin/partials/size-chart-information-page.php:37
+msgid "License & Terms of use"
+msgstr ""
+
+#: admin/partials/header/plugin-sidebar.php:27
+msgid "Like This Plugin?"
+msgstr ""
+
+#: admin/class-size-chart-for-woocommerce-admin.php:813
+msgid "loader"
+msgstr ""
+
+#: admin/class-size-chart-for-woocommerce-admin.php:814
+msgid "Loading..."
+msgstr ""
+
+#: admin/partials/size-chart-information-page.php:72
+msgid "Localization"
+msgstr ""
+
+#: admin/class-size-chart-for-woocommerce-admin.php:1385
+msgid "Measure around natural waistline."
+msgstr ""
+
+#: admin/class-size-chart-for-woocommerce-admin.php:1418
+msgid ""
+"Measure around the fullest part of the bust, keeping the tape parallel to "
+"the floor."
+msgstr ""
+
+#: admin/class-size-chart-for-woocommerce-admin.php:1377
+#: admin/class-size-chart-for-woocommerce-admin.php:1400
+msgid "Measure around the fullest part of your body at the top of your leg."
+msgstr ""
+
+#: admin/class-size-chart-for-woocommerce-admin.php:1343
+#: admin/class-size-chart-for-woocommerce-admin.php:1362
+#: admin/class-size-chart-for-woocommerce-admin.php:1411
+msgid ""
+"Measure around the fullest part, place the tape close under the arms and "
+"make sure the tape is flat across the back."
+msgstr ""
+
+#: admin/class-size-chart-for-woocommerce-admin.php:1422
+msgid ""
+"Measure around the narrowest point, keeping the tape parallel to the floor."
+msgstr ""
+
+#: admin/class-size-chart-for-woocommerce-admin.php:1354
+#: admin/class-size-chart-for-woocommerce-admin.php:1373
+msgid "Measure around your natural waistline, keeping the tape a bit loose."
+msgstr ""
+
+#: admin/class-size-chart-for-woocommerce-admin.php:1396
+msgid "Measure around your natural waistline,keeping the tape bit loose."
+msgstr ""
+
+#: admin/class-size-chart-for-woocommerce-admin.php:1389
+msgid "Measure from top of inside leg at crotch to ankle bone."
+msgstr ""
+
+#: admin/class-size-chart-for-woocommerce-admin.php:1430
+msgid "Measure inside length of leg from your crotch to the bottom of ankle."
+msgstr ""
+
+#: admin/class-size-chart-for-woocommerce-admin.php:1350
+#: admin/class-size-chart-for-woocommerce-admin.php:1369
+msgid "Measure under your arms, around the fullest part of the your chest."
+msgstr ""
+
+#: admin/class-size-chart-for-woocommerce-admin.php:301
+msgid "Men's Jeans & Trousers Size Chart"
+msgstr "Męska Wykres Jeans & Spodnie Rozmiar"
+
+#: admin/class-size-chart-for-woocommerce-admin.php:299
+msgid "Men's Shirts Size Chart"
+msgstr "Koszule męskie Tabela rozmiarów"
+
+#: admin/class-size-chart-for-woocommerce-admin.php:305
+msgid "Men's Shoes Size Chart"
+msgstr "Męska Buty Tabela rozmiarów"
+
+#: admin/class-size-chart-for-woocommerce-admin.php:297
+msgid "Men's T-Shirts & Polo Shirts Size Chart"
+msgstr "Męskie T- shirt i Polo Tabela rozmiarów"
+
+#: admin/class-size-chart-for-woocommerce-admin.php:303
+msgid "Men's Waistcoats Size Chart"
+msgstr "Męska Kamizelki Tabela rozmiarów"
+
+#: admin/class-size-chart-for-woocommerce-admin.php:1441
+msgid "mens-shirts"
+msgstr ""
+
+#: admin/class-size-chart-for-woocommerce-admin.php:1453
+msgid "mens-shoe-chart"
+msgstr ""
+
+#: admin/class-size-chart-for-woocommerce-admin.php:1449
+msgid "mens-waistcoats"
+msgstr ""
+
+#: admin/partials/size-chart-meta-box-content-form.php:225
+msgid "Minimalistic"
+msgstr "minimalistyczne"
+
+#: admin/partials/size-chart-meta-box-content-form.php:207
+msgid "Modal Pop Up"
+msgstr "Modal Pop Up"
+
+#: admin/partials/size-chart-meta-box-content-form.php:227
+msgid "Modern"
+msgstr "Nowoczesny"
+
+#: admin/partials/header/plugin-header.php:15
+#: admin/partials/header/plugin-header.php:63
+msgid "My Account"
+msgstr ""
+
+#: admin/class-size-chart-for-woocommerce-admin.php:253
+msgid "New Size Charts"
+msgstr "Nowy rozmiar Wykresy"
+
+#: admin/partials/size-chart-assign-category.php:39
+msgid "No Category Assign"
+msgstr "No Kategoria Przypisywanie"
+
+#: admin/class-size-chart-for-woocommerce-admin.php:259
+msgid "No chart found."
+msgstr "Nie znaleziono wykresu."
+
+#: admin/class-size-chart-for-woocommerce-admin.php:260
+msgid "No charts found in Trash."
+msgstr "Brak wykresy znajdują się w koszu."
+
+#: admin/class-size-chart-for-woocommerce-admin.php:1264
+msgid "No matching products found."
+msgstr ""
+
+#: admin/partials/size-chart-assign-product.php:59
+msgid "No Product Assign"
+msgstr "Brak produktów Przypisywanie"
+
+#: admin/class-size-chart-for-woocommerce-admin.php:175
+msgid "No product assigned"
+msgstr ""
+
+#: admin/partials/header/plugin-sidebar.php:77
+msgid "Our Popular Plugins"
+msgstr ""
+
+#: admin/class-size-chart-for-woocommerce-admin.php:258
+msgid "Parent Size Charts:"
+msgstr "Roślina mateczna"
+
+#: admin/partials/size-chart-get-started-page.php:42
+msgid ""
+"Plugin settings offers the option to change the label of size chart tab and "
+"modal popup, which is displayed in product page.)"
+msgstr ""
+
+#: admin/partials/size-chart-settings-form.php:195
+msgid "Pop Up Settings"
+msgstr "Pop Up Ustawienia"
+
+#: admin/partials/size-chart-settings-form.php:174
+msgid "Popup Label"
+msgstr "Popup Label"
+
+#: admin/partials/header/plugin-header.php:14
+#: admin/partials/size-chart-information-page.php:14
+msgid "Premium Version "
+msgstr ""
+
+#: admin/partials/size-chart-meta-box-content-form.php:69
+#: admin/partials/size-chart-meta-box-content-form.php:82
+msgid "Primary Chart Image"
+msgstr "Wykres obrazu pierwotnego"
+
+#: admin/partials/size-chart-information-page.php:28
+msgid "Product Name"
+msgstr ""
+
+#: admin/partials/header/plugin-sidebar.php:91
+msgid "Product Size Charts Plugin for WC"
+msgstr ""
+
+#: admin/partials/header/plugin-header.php:28
+#: includes/class-size-chart-for-woocommerce-user-feedback.php:328
+msgid "Product Size Charts Plugin for WooCommerce"
+msgstr ""
+
+#: admin/partials/size-chart-get-started-page.php:21
+msgid ""
+"Product Size Charts Plugin for WooCommerce allows you to assign ready-to-use "
+"default size chart templates to the product or Create Custom Size Chart for "
+"any of your WooCommerce products. You can also clone existing size chart "
+"templates and create your own size charts and assign them to a category or "
+"specific products."
+msgstr ""
+
+#: admin/partials/size-chart-information-page.php:24
+msgid "Product Type"
+msgstr ""
+
+#: admin/partials/size-chart-assign-product.php:35
+msgid "Products"
+msgstr ""
+
+#: admin/class-size-chart-for-woocommerce-admin.php:1553
+#: admin/partials/size-chart-information-page.php:20
+msgid "Quick info"
+msgstr ""
+
+#: admin/partials/size-chart-information-page.php:54
+msgid "Quick Start"
+msgstr ""
+
+#: admin/partials/header/plugin-header.php:45
+msgid "Quick Support"
+msgstr ""
+
+#: admin/partials/header/plugin-sidebar.php:24
+msgid "Rate us"
+msgstr ""
+
+#: admin/class-size-chart-for-woocommerce-admin.php:1172
+#: admin/class-size-chart-for-woocommerce-admin.php:1262
+msgid "Response successfully."
+msgstr ""
+
+#: admin/partials/header/plugin-sidebar.php:38
+msgid "Review Us on "
+msgstr ""
+
+#: admin/partials/size-chart-assign-product.php:40
+#: admin/partials/size-chart-assign-product.php:69
+msgid "Search"
+msgstr ""
+
+#: admin/class-size-chart-for-woocommerce-admin.php:257
+msgid "Search Size Charts"
+msgstr "Szukaj rozmiar Wykresy"
+
+#: admin/class-size-chart-for-woocommerce-admin.php:640
+msgid "Search/Select Size Chart"
+msgstr ""
+
+#: admin/partials/size-chart-meta-box-content-form.php:164
+msgid "Select attributes for chart to appear on."
+msgstr ""
+
+#: admin/partials/size-chart-meta-box-content-form.php:104
+msgid "Select categories for chart to appear on."
+msgstr "Wybierz kategorie dla wykresu pojawiać się."
+
+#: admin/partials/size-chart-select-chart-form.php:31
+msgid "Select Chart"
+msgstr "Wybierz Wykres"
+
+#: admin/partials/size-chart-meta-box-content-form.php:91
+msgid "Select File"
+msgstr ""
+
+#: admin/partials/size-chart-meta-box-content-form.php:202
+msgid "Select if the chart will display as a popup or as a additional tab"
+msgstr ""
+"Wybierz , gdy wykres będzie wyświetlany jako popup lub jako dodatkowe "
+"zakładki"
+
+#: admin/partials/size-chart-meta-box-content-form.php:132
+msgid "Select tags for chart to appear on."
+msgstr ""
+
+#: admin/class-size-chart-for-woocommerce-admin.php:392
+#: admin/class-size-chart-for-woocommerce-admin.php:393
+#: admin/class-size-chart-for-woocommerce-admin.php:1532
+#: includes/class-size-chart-for-woocommerce.php:245
+msgid "Settings"
+msgstr "Ustawienia"
+
+#: admin/class-size-chart-for-woocommerce-admin.php:474
+#, fuzzy
+#| msgid "settings saved."
+msgid "Settings saved."
+msgstr "Ustawienia zapisane."
+
+#: admin/class-size-chart-for-woocommerce-admin.php:978
+msgid "Show All Template"
+msgstr "Pokaż wszystkie Template"
+
+#: admin/class-size-chart-for-woocommerce-admin.php:933
+#, fuzzy
+#| msgid ""
+#| "<p>Size Chart For WooCommerce plugin opens the possibility to create "
+#| "customize size chart options. With this plugin has ready made size chart "
+#| "template and allows you to create custom Size Charts and apply to "
+#| "specific category and product in your online store.</p>"
+msgid ""
+"Size Chart For WooCommerce plugin opens the possibility to create customize "
+"size chart options. With this plugin has ready made size chart template and "
+"allows you to create custom Size Charts and apply to specific category and "
+"product in your online store."
+msgstr ""
+"<p>Tabela rozmiarów Do wtyczki WooCommerce otwiera możliwość tworzenia opcje "
+"Tabela rozmiarów dostosować. Dzięki tej wtyczce ma gotowych szablonów "
+"wykresu rozmiar i pozwala na tworzenie niestandardowych rozmiarów wykresy i "
+"odnoszą się do konkretnej kategorii i produktów w sklepie internetowym.</p>"
+
+#: admin/class-size-chart-for-woocommerce-admin.php:629
+#: admin/partials/size-chart-settings-form.php:23
+msgid "Size Chart Settings"
+msgstr "Ustawienia Tabela rozmiarów"
+
+#: admin/class-size-chart-for-woocommerce-admin.php:840
+msgid "Size Chart Type"
+msgstr "Tabela rozmiarów Type"
+
+#: admin/class-size-chart-for-woocommerce-admin.php:247
+#: admin/class-size-chart-for-woocommerce-admin.php:248
+#: admin/class-size-chart-for-woocommerce-admin.php:249
+#: admin/class-size-chart-for-woocommerce-admin.php:250
+#: admin/class-size-chart-for-woocommerce-admin.php:1520
+msgid "Size Charts"
+msgstr "rozmiar Wykresy"
+
+#: admin/class-size-chart-for-woocommerce-admin.php:170
+msgid "size-chart"
+msgstr ""
+
+#: admin/class-size-chart-for-woocommerce-admin.php:1151
+#: admin/class-size-chart-for-woocommerce-admin.php:1234
+msgid "Something went wrong."
+msgstr ""
+
+#: admin/partials/size-chart-information-page.php:75
+msgid "Spanish"
+msgstr ""
+
+#: admin/class-size-chart-for-woocommerce-admin.php:1426
+msgid ""
+"Stand with feet together and measure around the fullest point of the hip, "
+"keep the tape parallel to the floor."
+msgstr ""
+
+#: admin/partials/size-chart-settings-form.php:184
+msgid "Sub Title"
+msgstr ""
+
+#: admin/partials/header/plugin-sidebar.php:116
+msgid "Submit a Ticket »"
+msgstr ""
+
+#: admin/partials/header/plugin-sidebar.php:59
+msgid "Submit Request »"
+msgstr ""
+
+#: admin/partials/header/plugin-sidebar.php:54
+msgid "Suggest A Feature"
+msgstr ""
+
+#: includes/class-size-chart-for-woocommerce.php:255
+msgid "Support"
+msgstr "Wsparcie"
+
+#: admin/partials/size-chart-information-page.php:64
+msgid "Support Forum"
+msgstr ""
+
+#: admin/partials/size-chart-settings-form.php:161
+msgid "Tab Label"
+msgstr "Tab Label"
+
+#: admin/partials/size-chart-settings-form.php:131
+msgid "Table Even Row Color"
+msgstr "Tabela Nawet Kolor Row"
+
+#: admin/partials/size-chart-settings-form.php:111
+msgid "Table Head Background Color"
+msgstr "Tabela szef Kolor tła"
+
+#: admin/partials/size-chart-settings-form.php:121
+msgid "Table Head Font Color"
+msgstr "Tabela szef Kolor czcionki"
+
+#: admin/partials/size-chart-settings-form.php:141
+msgid "Table Odd Raw Color"
+msgstr "Tabela Odd kolor surowca"
+
+#: admin/partials/size-chart-get-started-page.php:14
+msgid "Thanks For Installing Product Size Charts Plugin for WooCommerce Plugin"
+msgstr ""
+
+#: admin/partials/size-chart-settings-form.php:31
+msgid ""
+"This plugin have sample default size chart template, So you can direct apply "
+"to product or category."
+msgstr ""
+"Wtyczka ta ma przykładowy szablon wykresu domyślny rozmiar , więc można "
+"skierować się do produktu lub kategorii."
+
+#: admin/partials/size-chart-settings-form.php:39
+msgid ""
+"This Plugin, you are able to customize/ clone the default size chart and "
+"create your own size guide for anything you imagine!"
+msgstr ""
+"Ta wtyczka , jesteś w stanie dostosować / sklonować domyślną tabelę "
+"rozmiarów i stworzyć swój własny przewodnik rozmiar za nic sobie wyobrazić!"
+
+#: admin/class-size-chart-for-woocommerce-admin.php:169
+msgid "Title is required."
+msgstr ""
+
+#: admin/class-size-chart-for-woocommerce-admin.php:1339
+#: admin/class-size-chart-for-woocommerce-admin.php:1358
+#: admin/class-size-chart-for-woocommerce-admin.php:1381
+msgid "To choose the correct size for you, measure your body as follows:"
+msgstr ""
+
+#: admin/partials/size-chart-information-page.php:43
+msgid "to view license and terms of use."
+msgstr ""
+
+#: admin/class-size-chart-for-woocommerce-admin.php:1437
+msgid "tshirt-shirt-chart"
+msgstr ""
+
+#: admin/partials/size-chart-select-chart-form.php:30
+msgid "Type the size chart name"
+msgstr ""
+
+#: admin/partials/header/plugin-header.php:8
+msgid "Upgrade to pro plugin"
+msgstr ""
+
+#: admin/partials/size-chart-meta-box-content-form.php:91
+msgid "Upload"
+msgstr "Przekazać plik"
+
+#: admin/class-size-chart-for-woocommerce-admin.php:207
+msgid "Upload an Image"
+msgstr "Prześlij obraz"
+
+#: admin/class-size-chart-for-woocommerce-admin.php:208
+msgid "Use this image"
+msgstr "Użyj tego obrazu"
+
+#: admin/partials/header/plugin-sidebar.php:105
+msgid "VIEW ALL"
+msgstr ""
+
+#: admin/class-size-chart-for-woocommerce-admin.php:255
+msgid "View Size Charts"
+msgstr "Rozmiar Wykresy"
+
+#: admin/partials/header/plugin-sidebar.php:69
+msgid "Visit Here »"
+msgstr ""
+
+#: admin/class-size-chart-for-woocommerce-admin.php:1353
+#: admin/class-size-chart-for-woocommerce-admin.php:1372
+#: admin/class-size-chart-for-woocommerce-admin.php:1384
+#: admin/class-size-chart-for-woocommerce-admin.php:1395
+#: admin/class-size-chart-for-woocommerce-admin.php:1421
+msgid "Waist : "
+msgstr ""
+
+#: admin/partials/header/plugin-sidebar.php:68
+msgid ""
+"We improvise our products on a regular basis to deliver the best results to "
+"customer satisfaction."
+msgstr ""
+
+#: admin/class-size-chart-for-woocommerce-admin.php:1404
+msgid ""
+"Wearing pants that fit well, measure from the crotch seam to the bottom of "
+"the leg."
+msgstr ""
+
+#: admin/class-size-chart-for-woocommerce-admin.php:935
+#, fuzzy
+#| msgid ""
+#| "<p>With this plugin have sample default size chart template, So you can "
+#| "direct apply to product or category.</p>"
+msgid ""
+"With this plugin have sample default size chart template, So you can direct "
+"apply to product or category."
+msgstr ""
+"<p>Z tej wtyczki mają przykładowy szablon wykresu domyślny rozmiar , więc "
+"można skierować się do produktu lub kategorii.</p>"
+
+#: admin/class-size-chart-for-woocommerce-admin.php:937
+#, fuzzy
+#| msgid ""
+#| "<p>With this Plugin, you are able to customize/ clone the default size "
+#| "chart and create your own size guide for anything you imagine!</p>"
+msgid ""
+"With this Plugin, you are able to customize/ clone the default size chart "
+"and create your own size guide for anything you imagine!"
+msgstr ""
+"<p>Z tej wtyczki , jesteś w stanie dostosować / sklonować domyślną tabelę "
+"rozmiarów i stworzyć swój własny przewodnik rozmiar za nic sobie wyobrazić !"
+"</p>"
+
+#: admin/partials/size-chart-settings-form.php:155
+msgid ""
+"With this setting you can add size chart label and it will same for all "
+"product size charts."
+msgstr ""
+"Za pomocą tego ustawienia można dodać Tabela rozmiarów etykiety i będzie "
+"taka sama dla wszystkich wykresów wielkości produktu."
+
+#: admin/partials/size-chart-settings-form.php:199
+#: admin/partials/size-chart-settings-form.php:255
+msgid ""
+"With this setting you can configure size chart popup link position, color "
+"and you can apply custom class also."
+msgstr ""
+"Przy takim ustawieniu można skonfigurować rozmiar wykresu kontekstowego "
+"pozycję linku , kolor i można zastosować niestandardową klasę również."
+
+#: admin/class-size-chart-for-woocommerce-admin.php:304
+msgid "Women's Cloth size chart"
+msgstr "Damska tabela rozmiarów Tkanina"
+
+#: admin/class-size-chart-for-woocommerce-admin.php:300
+msgid "Women's Dress Size Chart "
+msgstr "Damska suknia Tabela rozmiarów"
+
+#: admin/class-size-chart-for-woocommerce-admin.php:302
+msgid "Women's Jeans And Jeggings Size Chart"
+msgstr "Wykres damskie dżinsy i Jeggings Rozmiar"
+
+#: admin/class-size-chart-for-woocommerce-admin.php:306
+msgid "Women's Shoes Size Chart"
+msgstr "Obuwie damskie Tabela rozmiarów"
+
+#: admin/class-size-chart-for-woocommerce-admin.php:298
+msgid "Women's T-shirt / Tops size chart"
+msgstr "T -shirt damski / tabela rozmiarów Tops"
+
+#: admin/class-size-chart-for-woocommerce-admin.php:1443
+msgid "womens-dress-chart"
+msgstr ""
+
+#: admin/class-size-chart-for-woocommerce-admin.php:1447
+msgid "womens-jeans-chart"
+msgstr ""
+
+#: admin/class-size-chart-for-woocommerce-admin.php:1455
+msgid "womens-shoe-chart"
+msgstr ""
+
+#: admin/class-size-chart-for-woocommerce-admin.php:1439
+msgid "womens-tshirt"
+msgstr ""
+
+#: admin/partials/size-chart-information-page.php:25
+msgid "WooCommerce Plugin"
+msgstr ""
+
+#: admin/class-size-chart-for-woocommerce-admin.php:1566
+msgid "WooCommerce Plugins"
+msgstr ""
+
+#: admin/class-size-chart-for-woocommerce-admin.php:1571
+msgid "Wordpress Plugins"
+msgstr ""
+
+#: admin/partials/size-chart-get-started-page.php:24
+msgid ""
+"You can edit any of the size charts available in the plugin, preview or "
+"clone them."
+msgstr ""
+
+#: admin/partials/header/plugin-sidebar.php:37
+msgid "Your Review is very important to us as it helps us to grow more."
+msgstr ""

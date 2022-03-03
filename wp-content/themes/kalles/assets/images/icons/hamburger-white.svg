@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="16" viewBox="0 0 30 16">
+  <defs>
+    <style>
+      .cls-1 {
+        filter: url(#filter);
+      }
+
+      .cls-2 {
+        fill: #222;
+      }
+    </style>
+    <filter id="filter" filterUnits="userSpaceOnUse">
+      <feFlood result="flood" flood-color="#fff"/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Menu_BTN" data-name="Menu BTN" class="cls-1">
+    <rect class="cls-2" width="20" height="2"/>
+    <rect id="Rectangle_3_copy" data-name="Rectangle 3 copy" class="cls-2" y="7" width="30" height="2"/>
+    <rect id="Rectangle_3_copy_2" data-name="Rectangle 3 copy 2" class="cls-2" y="14" width="25" height="2"/>
+  </g>
+</svg>
