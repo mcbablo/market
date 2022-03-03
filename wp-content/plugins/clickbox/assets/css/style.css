@@ -1,0 +1,89 @@
+.modal1 {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 1; /* Sit on top */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+  }
+  
+  /* modal1 Content/Box */
+  .modal1-content {
+    background-color: #fefefe;
+    margin: 15% auto; /* 15% from the top and centered */
+    padding: 20px;
+    border: 1px solid #888;
+    width: 50%; /* Could be more or less, depending on screen size */
+  }
+  
+  /* The Close Button */
+  .close {
+    color: #aaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+  }
+  
+  .close:hover,
+  .close:focus {
+    color: black;
+    text-decoration: none;
+    cursor: pointer;
+  }
+
+  #create-order {
+    width: 100%;
+    height: 50px;
+    font-size: 18px;
+}
+
+.btn-pochtamat{
+  height: 35px;
+  line-height: 35px;
+}
+
+.btn-pochtamat{
+  background: #2ecc71 !important;
+}
+
+.btn-pochtamat.btn-danger{
+  background: #e74c3c !important;
+}
+
+.clickbox-btn-save{
+  margin-left: 15px !important;
+}
+
+.clickbox-btn-close{
+  background: #34495e !important;
+}
+
+.tingle-modal-box{
+  width: 50% !important;
+}
+
+.clickbox-modal .tingle-modal-box__content{
+  padding: 1.5rem !important;
+}
+
+.tingle-modal__close{
+  line-height: 40px !important;
+  background: #c0392b !important;
+}
+
+.selectBox {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+.selectBox>h5 {
+    margin: 0;
+    font-size: 15px;
+    font-weight: 700;
+}

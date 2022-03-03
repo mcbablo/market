@@ -1,0 +1,15 @@
+{
+    "name": "nhocleopro/the4-elementor-pack",
+    "authors": [
+        {
+            "name": "nhocleopro",
+            "email": "leobg91@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "The4\\": "src/classes/"
+         }
+    },
+    "require": {}
+}
